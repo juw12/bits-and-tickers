@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Brief: Satellites seeing in the dark now apparently, plus Chips meet AI in a surprising deal</title>
+<meta name="description" content="In this episode: 0:09 Intro 0:47 The Ticker 1:15 Anduril says its first satellite can see adversaries maneuver in orbital night (Ars Technica) 2:08 Ta">
+<meta name="theme-color" content="#1b1a17">
+<link rel="alternate" type="application/rss+xml" title="Bits &amp; Tickers" href="../feed.xml">
+<link rel="preload" href="../fonts/instrument-serif-normal.woff2" as="font" type="font/woff2" crossorigin>
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Brief: Satellites seeing in the dark now apparently, plus Chips meet AI in a surprising deal">
+<meta property="og:image" content="https://juw12.github.io/bits-and-tickers/cover.jpg">
+<meta name="twitter:card" content="summary">
+<style>
+@font-face { font-family: "Instrument Serif"; src: url("../fonts/instrument-serif-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("../fonts/instrument-serif-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Geist"; src: url("../fonts/geist-normal.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Geist Mono"; src: url("../fonts/geist-mono-normal.woff2") format("woff2"); font-weight: 400 600; font-style: normal; font-display: swap; }
+:root {
+  --bg: #f4f1ea; --surface: #fffdf8; --surface-2: #faf7f0; --sunken: #ebe6db; --line: #e1dbcf; --line-strong: #cbc3b3;
+  --ink: #1b1a17; --ink-2: #4a463e; --muted: #6c665d; --accent: #d9481f; --accent-ink: #a8340f; --accent-soft: #f8e3d9;
+  --task: #2f5b8c; --task-soft: #e3ebf4; --journal: #2e7566; --journal-soft: #e0efea; --idea: #b07415; --idea-soft: #f6ead4;
+  --display: "Instrument Serif", Georgia, serif; --font: "Geist", "Segoe UI", system-ui, sans-serif;
+  --mono: "Geist Mono", ui-monospace, Consolas, monospace;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #151412; --surface: #1c1b18; --surface-2: #201f1b; --sunken: #121110; --line: #2e2c28; --line-strong: #3d3a35;
+    --ink: #efebe3; --ink-2: #c8c2b6; --muted: #968f83; --accent: #f0764d; --accent-ink: #f59b7a; --accent-soft: #3a2118;
+    --task: #8db4e0; --task-soft: #1d2a38; --journal: #7cc4b1; --journal-soft: #18302a; --idea: #e0b062; --idea-soft: #352a17;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.55;
+  -webkit-font-smoothing: antialiased; }
+main { max-width: 780px; margin: 0 auto; padding: 56px 22px 72px; overflow-wrap: anywhere; }
+a { color: var(--accent-ink); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { color: var(--accent); }
+.eyebrow { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--accent-ink); }
+.hero { display: grid; grid-template-columns: 1fr 150px; gap: 28px; align-items: end; padding-bottom: 28px;
+  border-bottom: 1px solid var(--line); }
+.hero img { width: 150px; height: 150px; border-radius: 10px; border: 1px solid var(--line); display: block; }
+h1 { margin: 0; font-family: var(--display); font-weight: 400; font-size: clamp(52px, 9vw, 84px); line-height: .95;
+  letter-spacing: -0.02em; }
+h1 em { color: var(--accent); }
+.tagline { margin: 14px 0 0; font-family: var(--display); font-style: italic; font-size: 26px; line-height: 1.2; color: var(--ink-2); }
+.about { margin: 22px 0 0; color: var(--ink-2); max-width: 62ch; }
+.listen { display: flex; flex-wrap: wrap; gap: 8px; margin: 22px 0 0; padding: 0; list-style: none; }
+.listen a { display: inline-flex; align-items: center; height: 34px; padding: 0 14px; border: 1px solid var(--line-strong);
+  border-radius: 6px; background: var(--surface); color: var(--ink); font-size: 14px; font-weight: 500; text-decoration: none; }
+.listen a:hover { border-color: var(--accent); color: var(--accent-ink); }
+.listen a.primary { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.section-title { margin: 40px 0 12px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--muted); }
+.formats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(190px, 100%), 1fr)); gap: 10px; margin: 0; padding: 0; list-style: none; }
+.formats li { padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  border-top: 3px solid var(--t); font-size: 14px; color: var(--muted); }
+.formats b { display: block; font-family: var(--display); font-weight: 400; font-size: 22px; color: var(--ink); line-height: 1.1; }
+.formats span { display: block; margin-top: 4px; color: var(--ink-2); }
+article { margin: 0 0 14px; padding: 20px 22px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.series { display: inline-flex; align-items: center; height: 22px; padding: 0 8px; border-radius: 4px; font-size: 12px;
+  font-weight: 550; background: var(--t-soft, var(--sunken)); color: var(--t, var(--ink-2)); }
+h2 { margin: 10px 0 4px; font-family: var(--display); font-weight: 400; font-size: 30px; line-height: 1.1; letter-spacing: -0.01em; }
+.meta { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+audio { display: block; width: 100%; height: 40px; accent-color: var(--accent); }
+details { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
+summary { cursor: pointer; font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+summary:hover { color: var(--ink); }
+.notes { color: var(--ink-2); font-size: 15px; }
+.notes ul { padding-left: 18px; }
+.notes li { margin: 4px 0; }
+.tr-link { margin: 14px 0 0; font-size: 14px; }
+.empty { color: var(--muted); }
+footer { margin-top: 44px; padding-top: 18px; border-top: 1px solid var(--line); font-family: var(--mono); font-size: 12px; color: var(--muted); }
+footer a { color: var(--muted); }
+.t-task { --t: var(--task); --t-soft: var(--task-soft); }
+.t-journal { --t: var(--journal); --t-soft: var(--journal-soft); }
+.t-idea { --t: var(--idea); --t-soft: var(--idea-soft); }
+@media (max-width: 560px) {
+  main { padding-top: 32px; }
+  .hero { grid-template-columns: 1fr; }
+  .hero img { width: 104px; height: 104px; order: -1; }
+  .formats { grid-template-columns: 1fr; }
+  article { padding: 16px; }
+  h2 { font-size: 26px; }
+}
+ 
+.ep-back { display: inline-block; margin: 0 0 18px; font-family: var(--mono); font-size: 12px;
+  letter-spacing: .06em; text-transform: uppercase; text-decoration: none; color: var(--muted); }
+.ep-back:hover { color: var(--accent-ink); }
+h1.ep-title { font-size: clamp(40px, 7vw, 60px); }
+.tr-heading { margin: 30px 0 6px; font-family: var(--mono); font-size: 12px; font-weight: 500;
+  letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.tr-body { margin-top: 4px; }
+.tr-seg { padding: 16px 0; border-top: 1px solid var(--line); }
+.tr-seg:first-child { border-top: none; padding-top: 4px; }
+.tr-seg h3 { margin: 0 0 8px; font-family: var(--display); font-weight: 400; font-size: 24px; line-height: 1.15; }
+.tr-seg p { margin: 8px 0; color: var(--ink-2); }
+.tr-sp { display: inline-block; min-width: 4.5ch; margin-right: 10px; font-family: var(--mono); font-size: 12px;
+  font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); }
+</style>
+</head>
+<body>
+<main>
+<a class="ep-back" href="../">&#8592; All episodes</a>
+<article class="t-task">
+<span class="series">The Brief</span>
+<h1 class="ep-title">Satellites seeing in the dark now apparently, plus Chips meet AI in a surprising deal</h1>
+<p class="meta">Episode 1 · Thu 12 Nov 2026 · 7 min · The Brief</p>
+<audio controls preload="none" src="../audio/2026-11-12-ep001.mp3"></audio>
+<h2 class="tr-heading">Transcript</h2><div class="tr-body"><section class="tr-seg"><p><span class="tr-sp">Maya</span> Satellites seeing in the dark now apparently. That, and five more stories, on The Brief.</p></section><section class="tr-seg"><h3>Intro</h3><p><span class="tr-sp">Alex</span> This is Bits and Tickers. What got built, and what it&#x27;s worth. I&#x27;m Alex.</p><p><span class="tr-sp">Maya</span> And I&#x27;m Maya. It&#x27;s Thursday, November 12th, and this is The Brief: the stories that matter, in a few minutes. Everything we talk about is linked in the show notes.</p><p><span class="tr-sp">Alex</span> On today&#x27;s show. Satellites seeing in the dark now apparently. Chips meet AI in a surprising deal. Founders cashing out big on Anthropic&#x27;s IPO. ChatGPT is letting businesses build AI chatbots. Big shakeup at Meta&#x27;s data centers. And CoreWeave&#x27;s stock just jumped a lot. Let&#x27;s get into it.</p></section><section class="tr-seg"><h3>The Ticker</h3><p><span class="tr-sp">Maya</span> Time for The Ticker. At Wednesday&#x27;s close, the S&amp;P 500 finished at 7,619, up 1.3 percent. The Nasdaq Composite was up 1.6 percent and the Dow was up 0.5 percent.</p><p><span class="tr-sp">Alex</span> And in big tech, Tesla had the best day, up 2.9 percent, while Microsoft was at the other end, down 2.3 percent. That&#x27;s a snapshot, not advice.</p></section><section class="tr-seg"><h3><a href="https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/">Anduril says its first satellite can see adversaries maneuver in orbital night</a></h3><p><span class="tr-sp">Alex</span> Anduril is claiming they’ve demonstrated a satellite that can track spacecraft even when they’re in Earth’s shadow. Ars Technica has the story.</p><p><span class="tr-sp">Maya</span> Wait, really? Tracking spacecraft?</p><p><span class="tr-sp">Alex</span> Yeah, apparently. It&#x27;s their satellite, Anduril-216, orbiting about 590 kilometers up.</p><p><span class="tr-sp">Maya</span> That’s a lot of hardware for what sounds like a niche problem.</p><p><span class="tr-sp">Alex</span> It&#x27;s a tech demo, funded internally. They launched it on a SpaceX rideshare mission back in July.</p><p><span class="tr-sp">Maya</span> And what exactly is it doing up there?</p><p><span class="tr-sp">Alex</span> It&#x27;s got an infrared imager that works during those dark periods—about a third of each orbit. They’re using it to spot other objects.</p><p><span class="tr-sp">Maya</span> So, just an edge-compute processor, power management, and this infrared sensor. Seems like a focused payload.</p><p><span class="tr-sp">Alex</span> Exactly. They’re saying it can see maneuvers others might be trying to hide.</p></section><section class="tr-seg"><h3><a href="https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/">Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</a></h3><p><span class="tr-sp">Maya</span> So, TSMC, the biggest chipmaker around, is putting a billion dollars into OpenAI and Anthropic. That’s the surprising part, isn&#x27;t it?</p><p><span class="tr-sp">Alex</span> I thought they were just happily selling chips to those companies.</p><p><span class="tr-sp">Maya</span> They’ve already made a ton of money supplying chips for AI data centers. This investment is up to 500 million in OpenAI and another 500 in Anthropic.</p><p><span class="tr-sp">Alex</span> That&#x27;s a lot. What&#x27;s the breakdown – preferred stock for OpenAI, common shares for Anthropic?</p><p><span class="tr-sp">Maya</span> Yep. Apparently, the board approved it all. It&#x27;s a bit of a move to give the AI market a boost, according to Ars Technica.</p><p><span class="tr-sp">Alex</span> I wonder how much say they’ll actually have. Are they just throwing money or expecting something in return?</p><p><span class="tr-sp">Maya</span> Analysts are concerned it makes it harder to see what’s actually driving demand for AI hardware and services, you know, with this kind of circular investment.</p><p><span class="tr-sp">Alex</span> Circular financing… yeah, I can see why that&#x27;s tricky to value.</p><p><span class="tr-sp">Maya</span> It is.</p></section><section class="tr-seg"><h3><a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">All 7 Anthropic founders will each cash out about $250M in IPO</a></h3><p><span class="tr-sp">Alex</span> Maya, did you see this TechCrunch piece about Anthropic’s IPO? Seems like the founders are all taking a pretty significant payday.</p><p><span class="tr-sp">Maya</span> $250 million each, apparently.</p><p><span class="tr-sp">Alex</span> Yeah, each selling just over three million shares. It’s interesting they’re all selling the same amount, though.</p><p><span class="tr-sp">Maya</span> It does suggest some level of coordination. They’ll still own about 3.2% of Class A shares each, collectively 22%.</p><p><span class="tr-sp">Alex</span> They’re still in control?</p><p><span class="tr-sp">Maya</span> They’ll have 51.1% of the votes, thanks to Class F stock. Amazon and Google also have shares, but of a different class.</p><p><span class="tr-sp">Alex</span> So, they left OpenAI to focus on AI safety, and now they’re getting rich.</p><p><span class="tr-sp">Maya</span> That’s the story, yes. Reed Hastings wants in too, apparently.</p></section><section class="tr-seg"><h3><a href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub">ChatGPT is getting verified AI ‘Business Agents’</a></h3><p><span class="tr-sp">Maya</span> OpenAI&#x27;s letting businesses create AI agents to represent them within ChatGPT.</p><p><span class="tr-sp">Alex</span> Like, full-on brand reps?</p><p><span class="tr-sp">Maya</span> Apparently. The Verge reports it’s starting as a beta program for e-commerce and online services in the US.</p><p><span class="tr-sp">Alex</span> That&#x27;s a lot of businesses.</p><p><span class="tr-sp">Maya</span> Businesses can specify instructions and context for these agents, so they can answer questions about their products.</p><p><span class="tr-sp">Alex</span> So, comparison shopping, basically?</p><p><span class="tr-sp">Maya</span> That’s the main use case they&#x27;re highlighting, yes. And there&#x27;s this thing called Business Hub for verification.</p><p><span class="tr-sp">Alex</span> Verification? How do they even do that?</p></section><section class="tr-seg"><h3><a href="https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html">Meta head of infrastructure will leave and be succeeded by former AWS cloud exec</a></h3><p><span class="tr-sp">Alex</span> This one caught my eye because it’s a pretty significant shift in Meta’s infrastructure leadership – their head of infrastructure, Santosh Janardhan, is leaving.</p><p><span class="tr-sp">Maya</span> Leaving? Seriously? That’s a lot of experience walking out the door.</p><p><span class="tr-sp">Alex</span> Apparently he’s handing over the reins to David Brown, who just joined from AWS in July.</p><p><span class="tr-sp">Maya</span> Hold on, so he’s only been there a few months? That’s a quick transition.</p><p><span class="tr-sp">Alex</span> Yeah, Janardhan will support Brown through the first quarter of 2027, so it&#x27;s not cold turkey. CNBC reports he said it&#x27;s “the right time.”</p><p><span class="tr-sp">Maya</span> Right. And this is all part of Mark Zuckerberg’s push to expand data center operations, apparently.</p><p><span class="tr-sp">Alex</span> Seems like it’s linked to investor pressure regarding capital spending, too.</p><p><span class="tr-sp">Maya</span> Which, given their negative free cash flow, makes sense.</p><p><span class="tr-sp">Alex</span> Exactly.</p></section><section class="tr-seg"><h3><a href="https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html">Jim Cramer says investors need to pay attention to CoreWeave. Here&#x27;s why</a></h3><p><span class="tr-sp">Maya</span> Apparently Jim Cramer is warming up to CoreWeave, according to CNBC. Their stock surged nearly 25% after they released earnings and the CEO had a chat with him.</p><p><span class="tr-sp">Alex</span> Cramer? I thought he’d be more skeptical.</p><p><span class="tr-sp">Maya</span> Yeah, he was, but he’s changed his tune. They’re seeing demand ten times greater than they can supply, which is allowing them to increase prices.</p><p><span class="tr-sp">Alex</span> Makes you wonder how sustainable that is, though.</p><p><span class="tr-sp">Maya</span> They’re also dealing with a significant debt load, which has been weighing down the stock, but the surge helped a bit.</p><p><span class="tr-sp">Alex</span> So, they&#x27;re financing with equipment and contracts now, huh? Interesting pivot.</p><p><span class="tr-sp">Maya</span> Apparently the CEO was tempted to buy back their own bonds on the open market, but he figures building data centers is the better return.</p><p><span class="tr-sp">Alex</span> And the Nvidia chips? They&#x27;re holding their value longer than people thought.</p></section><section class="tr-seg"><h3>The Takeaway</h3><p><span class="tr-sp">Alex</span> That&#x27;s the news. Time for The Takeaway.</p><p><span class="tr-sp">Alex</span> I just think the satellite stuff—seeing maneuvers in orbit—sounds like a massive engineering challenge, even if it’s a demo.</p><p><span class="tr-sp">Maya</span> I’m going to be watching how quickly those Business Agents for ChatGPT start impacting actual productivity and, crucially, the bottom line for those businesses.</p><p><span class="tr-sp">Alex</span> I&#x27;m curious to see if Meta&#x27;s infrastructure shift really changes anything, or if it&#x27;s just a shuffle of deck chairs.</p><p><span class="tr-sp">Maya</span> Alex, you’re so dismissive of Cramer—I think he&#x27;s genuinely on to something with CoreWeave, even if it&#x27;s a bit loud.</p><p><span class="tr-sp">Alex</span> Hold on, loud doesn&#x27;t equal correct.</p></section><section class="tr-seg"><p><span class="tr-sp">Maya</span> And that&#x27;s The Brief. Every story we talked about is linked in the show notes.</p><p><span class="tr-sp">Alex</span> Next up is The Long Drive, tomorrow. One reminder: nothing here is financial advice. From Bits and Tickers, I&#x27;m Alex. Keep building.</p><p><span class="tr-sp">Maya</span> I&#x27;m Maya. And keep counting.</p></section></div>
+<details open><summary>Show notes</summary><div class="notes"><p>In this episode:</p><ul><li>0:09 Intro</li><li>0:47 The Ticker</li><li>1:15 <a href="https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/">Anduril says its first satellite can see adversaries maneuver in orbital night</a> (Ars Technica)</li><li>2:08 <a href="https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/">Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</a> (Ars Technica)</li><li>3:05 <a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">All 7 Anthropic founders will each cash out about $250M in IPO</a> (TechCrunch)</li><li>3:53 <a href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub">ChatGPT is getting verified AI ‘Business Agents’</a> (The Verge)</li><li>4:27 <a href="https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html">Meta head of infrastructure will leave and be succeeded by former AWS cloud exec</a> (CNBC)</li><li>5:16 <a href="https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html">Jim Cramer says investors need to pay attention to CoreWeave. Here&#x27;s why</a> (CNBC)</li><li>6:07 The Takeaway</li></ul><p>Market figures: Yahoo Finance closing prices.</p><p>Nothing in this episode is financial advice.</p></div></details>
+</article>
+<footer>© 2026 Juwen Lie · Nothing in this show is financial advice. · <a href="../feed.xml">RSS</a></footer>
+</main>
+</body>
+</html>
