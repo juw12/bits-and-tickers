@@ -4,44 +4,108 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bits &amp; Tickers</title>
-<meta name="description" content="What got built, and what it&#x27;s worth. Tech, AI and markets from two AI hosts working from real reporting, in three formats: The Brief (the stories that matter in a few minutes, Mondays), The Breakdown (fewer stories, dug into properly, Wednesdays) and The Long Drive (the week at full length, about an hour, Fridays). The voices and script are AI-generated from the reporting linked in each episode&#x27;s show notes. Nothing in this show is financial advice.">
+<meta name="description" content="What got built, and what it&#x27;s worth. Two hosts, Alex and Maya, on tech, AI and markets, straight from the week&#x27;s reporting, in three formats: The Brief (the stories that matter in a few minutes, Mondays), The Breakdown (fewer stories, dug into properly, Wednesdays) and The Long Drive (the week at full length, about an hour, Fridays). Every story is linked in the show notes. Nothing in this show is financial advice.">
+<meta name="theme-color" content="#1b1a17">
 <link rel="alternate" type="application/rss+xml" title="Bits &amp; Tickers" href="feed.xml">
+<link rel="preload" href="fonts/instrument-serif-normal.woff2" as="font" type="font/woff2" crossorigin>
 <meta property="og:type" content="website">
 <meta property="og:title" content="Bits &amp; Tickers">
 <meta property="og:description" content="What got built, and what it&#x27;s worth.">
 <meta property="og:image" content="https://juw12.github.io/bits-and-tickers/cover.jpg">
 <meta name="twitter:card" content="summary">
 <style>
-body { font-family: "Segoe UI", system-ui, sans-serif; background: #0d1426; color: #e8edf3; margin: 0; }
-main { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; }
-header { display: flex; gap: 20px; align-items: center; margin-bottom: 18px; }
-header img { width: 132px; height: 132px; border-radius: 16px; }
-h1 { margin: 0 0 4px; font-size: 30px; }
-.tagline { color: #40e0aa; font-weight: 600; margin: 0 0 8px; }
-header p { margin: 0; color: #a9b8c8; line-height: 1.45; }
-.listen { margin: 0 0 8px; color: #a9b8c8; }
-.listen a { margin-right: 14px; font-weight: 600; }
-.formats { margin: 0 0 24px; color: #8fa3b8; font-size: 14px; }
-.formats b { color: #cfd9e4; }
-article { background: #162238; border-radius: 14px; padding: 18px 20px; margin-bottom: 18px; }
-.series { display: inline-block; background: #1f3b4d; color: #40e0aa; border-radius: 999px; padding: 2px 12px;
-  font-size: 13px; font-weight: 600; margin-bottom: 8px; }
-h2 { font-size: 19px; margin: 0 0 4px; }
-.meta { color: #8fa3b8; margin: 0 0 10px; font-size: 14px; }
-audio { width: 100%; margin-bottom: 6px; }
-a { color: #40e0aa; }
-li { margin: 4px 0; }
+@font-face { font-family: "Instrument Serif"; src: url("fonts/instrument-serif-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("fonts/instrument-serif-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Geist"; src: url("fonts/geist-normal.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Geist Mono"; src: url("fonts/geist-mono-normal.woff2") format("woff2"); font-weight: 400 600; font-style: normal; font-display: swap; }
+:root {
+  --bg: #f4f1ea; --surface: #fffdf8; --surface-2: #faf7f0; --sunken: #ebe6db; --line: #e1dbcf; --line-strong: #cbc3b3;
+  --ink: #1b1a17; --ink-2: #4a463e; --muted: #6c665d; --accent: #d9481f; --accent-ink: #a8340f; --accent-soft: #f8e3d9;
+  --task: #2f5b8c; --task-soft: #e3ebf4; --journal: #2e7566; --journal-soft: #e0efea; --idea: #b07415; --idea-soft: #f6ead4;
+  --display: "Instrument Serif", Georgia, serif; --font: "Geist", "Segoe UI", system-ui, sans-serif;
+  --mono: "Geist Mono", ui-monospace, Consolas, monospace;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #151412; --surface: #1c1b18; --surface-2: #201f1b; --sunken: #121110; --line: #2e2c28; --line-strong: #3d3a35;
+    --ink: #efebe3; --ink-2: #c8c2b6; --muted: #968f83; --accent: #f0764d; --accent-ink: #f59b7a; --accent-soft: #3a2118;
+    --task: #8db4e0; --task-soft: #1d2a38; --journal: #7cc4b1; --journal-soft: #18302a; --idea: #e0b062; --idea-soft: #352a17;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.55;
+  -webkit-font-smoothing: antialiased; }
+main { max-width: 780px; margin: 0 auto; padding: 56px 22px 72px; overflow-wrap: anywhere; }
+a { color: var(--accent-ink); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { color: var(--accent); }
+.eyebrow { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--accent-ink); }
+.hero { display: grid; grid-template-columns: 1fr 150px; gap: 28px; align-items: end; padding-bottom: 28px;
+  border-bottom: 1px solid var(--line); }
+.hero img { width: 150px; height: 150px; border-radius: 10px; border: 1px solid var(--line); display: block; }
+h1 { margin: 0; font-family: var(--display); font-weight: 400; font-size: clamp(52px, 9vw, 84px); line-height: .95;
+  letter-spacing: -0.02em; }
+h1 em { color: var(--accent); }
+.tagline { margin: 14px 0 0; font-family: var(--display); font-style: italic; font-size: 26px; line-height: 1.2; color: var(--ink-2); }
+.about { margin: 22px 0 0; color: var(--ink-2); max-width: 62ch; }
+.listen { display: flex; flex-wrap: wrap; gap: 8px; margin: 22px 0 0; padding: 0; list-style: none; }
+.listen a { display: inline-flex; align-items: center; height: 34px; padding: 0 14px; border: 1px solid var(--line-strong);
+  border-radius: 6px; background: var(--surface); color: var(--ink); font-size: 14px; font-weight: 500; text-decoration: none; }
+.listen a:hover { border-color: var(--accent); color: var(--accent-ink); }
+.listen a.primary { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.section-title { margin: 40px 0 12px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--muted); }
+.formats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(190px, 100%), 1fr)); gap: 10px; margin: 0; padding: 0; list-style: none; }
+.formats li { padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  border-top: 3px solid var(--t); font-size: 14px; color: var(--muted); }
+.formats b { display: block; font-family: var(--display); font-weight: 400; font-size: 22px; color: var(--ink); line-height: 1.1; }
+.formats span { display: block; margin-top: 4px; color: var(--ink-2); }
+article { margin: 0 0 14px; padding: 20px 22px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.series { display: inline-flex; align-items: center; height: 22px; padding: 0 8px; border-radius: 4px; font-size: 12px;
+  font-weight: 550; background: var(--t-soft, var(--sunken)); color: var(--t, var(--ink-2)); }
+h2 { margin: 10px 0 4px; font-family: var(--display); font-weight: 400; font-size: 30px; line-height: 1.1; letter-spacing: -0.01em; }
+.meta { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+audio { display: block; width: 100%; height: 40px; accent-color: var(--accent); }
+details { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
+summary { cursor: pointer; font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+summary:hover { color: var(--ink); }
+.notes { color: var(--ink-2); font-size: 15px; }
+.notes ul { padding-left: 18px; }
+.notes li { margin: 4px 0; }
+.empty { color: var(--muted); }
+footer { margin-top: 44px; padding-top: 18px; border-top: 1px solid var(--line); font-family: var(--mono); font-size: 12px; color: var(--muted); }
+footer a { color: var(--muted); }
+.t-task { --t: var(--task); --t-soft: var(--task-soft); }
+.t-journal { --t: var(--journal); --t-soft: var(--journal-soft); }
+.t-idea { --t: var(--idea); --t-soft: var(--idea-soft); }
+@media (max-width: 560px) {
+  main { padding-top: 32px; }
+  .hero { grid-template-columns: 1fr; }
+  .hero img { width: 104px; height: 104px; order: -1; }
+  .formats { grid-template-columns: 1fr; }
+  article { padding: 16px; }
+  h2 { font-size: 26px; }
+}
 </style>
 </head>
 <body>
 <main>
-<header>
-<img src="cover.jpg" alt="">
-<div><h1>Bits &amp; Tickers</h1><p class="tagline">What got built, and what it&#x27;s worth.</p><p>What got built, and what it&#x27;s worth. Tech, AI and markets from two AI hosts working from real reporting, in three formats: The Brief (the stories that matter in a few minutes, Mondays), The Breakdown (fewer stories, dug into properly, Wednesdays) and The Long Drive (the week at full length, about an hour, Fridays). The voices and script are AI-generated from the reporting linked in each episode&#x27;s show notes. Nothing in this show is financial advice.</p></div>
+<header class="hero">
+<div>
+<p class="eyebrow">Podcast · Tech · AI · Markets</p>
+<h1>Bits <em>&amp;</em> Tickers</h1>
+<p class="tagline">What got built, and what it&#x27;s worth.</p>
+</div>
+<img src="cover.jpg" alt="Bits &amp; Tickers cover">
 </header>
-<p class="listen">Listen on: <a href="feed.xml">RSS feed</a></p>
-<p class="formats"><b>The Brief</b> Mon · <b>The Breakdown</b> Wed · <b>The Long Drive</b> Fri</p>
-<article id="ep1"><span class="series">The Brief</span><h2>Satellites seeing in the dark now apparently, plus Chips meet AI in a surprising deal</h2><p class="meta">Episode 1 · Thu 12 Nov 2026 · 7 min</p><audio controls preload="none" src="audio/2026-11-12-ep001.mp3"></audio><p>In this episode:</p><ul><li>0:09 Intro</li><li>0:50 The Ticker</li><li>1:18 <a href="https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/">Anduril says its first satellite can see adversaries maneuver in orbital night</a> (Ars Technica)</li><li>2:13 <a href="https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/">Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</a> (Ars Technica)</li><li>3:15 <a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">All 7 Anthropic founders will each cash out about $250M in IPO</a> (TechCrunch)</li><li>4:05 <a href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub">ChatGPT is getting verified AI ‘Business Agents’</a> (The Verge)</li><li>4:42 <a href="https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html">Meta head of infrastructure will leave and be succeeded by former AWS cloud exec</a> (CNBC)</li><li>5:36 <a href="https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html">Jim Cramer says investors need to pay attention to CoreWeave. Here&#x27;s why</a> (CNBC)</li><li>6:28 The Takeaway</li></ul><p>Market figures: Yahoo Finance closing prices.</p><p>The voices and script in this show are AI-generated from the reporting linked below. Nothing in this episode is financial advice.</p></article>
+<p class="about">What got built, and what it&#x27;s worth. Two hosts, Alex and Maya, on tech, AI and markets, straight from the week&#x27;s reporting, in three formats: The Brief (the stories that matter in a few minutes, Mondays), The Breakdown (fewer stories, dug into properly, Wednesdays) and The Long Drive (the week at full length, about an hour, Fridays). Every story is linked in the show notes. Nothing in this show is financial advice.</p>
+<ul class="listen"><li><a href="feed.xml">RSS feed</a></li></ul>
+<p class="section-title">Three formats</p>
+<ul class="formats"><li class="t-task"><b>The Brief</b> Mon<span>The stories that matter, in a few minutes</span></li><li class="t-journal"><b>The Breakdown</b> Wed<span>Fewer stories, with time to dig into each one</span></li><li class="t-idea"><b>The Long Drive</b> Fri<span>The week&#x27;s biggest stories at full length, made for the road</span></li></ul>
+<p class="section-title">Episodes</p>
+<article id="ep2" class="t-journal"><span class="series">The Breakdown</span><h2>New VC fund trying to break through, plus AI revenue numbers just went ballistic</h2><p class="meta">Episode 2 · Thu 12 Nov 2026 · 15 min</p><audio controls preload="none" src="audio/2026-11-12-ep002.mp3"></audio><details open><summary>Show notes</summary><div class="notes"><p>In this episode:</p><ul><li>0:09 Intro</li><li>0:43 The Ticker</li><li>1:10 <a href="https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/">Olaf Sakkers is betting he can beat the emerging-manager squeeze</a> (TechCrunch)</li><li>4:06 <a href="https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/">OpenAI’s quarterly revenue reportedly crosses $10B for the first time</a> (TechCrunch)</li><li>6:29 <a href="https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai">Adobe’s AI experiments let you walk around in photos and interview your characters</a> (The Verge)</li><li>8:27 <a href="https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/">PSI is trying to make a business out of AI-driven scientific discovery</a> (TechCrunch)</li><li>11:15 <a href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html">Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes</a> (CNBC)</li><li>14:26 The Takeaway</li></ul><p>Market figures: Yahoo Finance closing prices.</p><p>Nothing in this episode is financial advice.</p></div></details></article><article id="ep1" class="t-task"><span class="series">The Brief</span><h2>Satellites seeing in the dark now apparently, plus Chips meet AI in a surprising deal</h2><p class="meta">Episode 1 · Thu 12 Nov 2026 · 7 min</p><audio controls preload="none" src="audio/2026-11-12-ep001.mp3"></audio><details><summary>Show notes</summary><div class="notes"><p>In this episode:</p><ul><li>0:09 Intro</li><li>0:47 The Ticker</li><li>1:15 <a href="https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/">Anduril says its first satellite can see adversaries maneuver in orbital night</a> (Ars Technica)</li><li>2:08 <a href="https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/">Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</a> (Ars Technica)</li><li>3:05 <a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">All 7 Anthropic founders will each cash out about $250M in IPO</a> (TechCrunch)</li><li>3:53 <a href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub">ChatGPT is getting verified AI ‘Business Agents’</a> (The Verge)</li><li>4:27 <a href="https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html">Meta head of infrastructure will leave and be succeeded by former AWS cloud exec</a> (CNBC)</li><li>5:16 <a href="https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html">Jim Cramer says investors need to pay attention to CoreWeave. Here&#x27;s why</a> (CNBC)</li><li>6:07 The Takeaway</li></ul><p>Market figures: Yahoo Finance closing prices.</p><p>Nothing in this episode is financial advice.</p></div></details></article>
+<footer>© 2026 Juwen Lie · Nothing in this show is financial advice. · <a href="feed.xml">RSS</a></footer>
 </main>
 </body>
 </html>
