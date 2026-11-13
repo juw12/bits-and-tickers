@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Tape · Bits &amp; Tickers</title>
+<meta name="description" content="Every episode of the week, every story with its source, the market close and the takeaway, on one page. A new issue is complete once The Long Drive is out.">
+<meta name="theme-color" content="#1b1a17">
+<link rel="alternate" type="application/rss+xml" title="The Tape" href="../newsletter.xml">
+<link rel="preload" href="../fonts/instrument-serif-normal.woff2" as="font" type="font/woff2" crossorigin>
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Tape · Bits &amp; Tickers">
+<meta property="og:description" content="Every episode of the week, every story with its source, the market close and the takeaway, on one page. A new issue is complete once The Long Drive is out.">
+<meta property="og:image" content="https://juw12.github.io/bits-and-tickers/cover.jpg">
+<meta name="twitter:card" content="summary">
+<style>
+@font-face { font-family: "Instrument Serif"; src: url("../fonts/instrument-serif-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("../fonts/instrument-serif-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Geist"; src: url("../fonts/geist-normal.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Geist Mono"; src: url("../fonts/geist-mono-normal.woff2") format("woff2"); font-weight: 400 600; font-style: normal; font-display: swap; }
+:root {
+  --bg: #f4f1ea; --surface: #fffdf8; --surface-2: #faf7f0; --sunken: #ebe6db; --line: #e1dbcf; --line-strong: #cbc3b3;
+  --ink: #1b1a17; --ink-2: #4a463e; --muted: #6c665d; --accent: #d9481f; --accent-ink: #a8340f; --accent-soft: #f8e3d9;
+  --task: #2f5b8c; --task-soft: #e3ebf4; --journal: #2e7566; --journal-soft: #e0efea; --idea: #b07415; --idea-soft: #f6ead4;
+  --display: "Instrument Serif", Georgia, serif; --font: "Geist", "Segoe UI", system-ui, sans-serif;
+  --mono: "Geist Mono", ui-monospace, Consolas, monospace;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #151412; --surface: #1c1b18; --surface-2: #201f1b; --sunken: #121110; --line: #2e2c28; --line-strong: #3d3a35;
+    --ink: #efebe3; --ink-2: #c8c2b6; --muted: #968f83; --accent: #f0764d; --accent-ink: #f59b7a; --accent-soft: #3a2118;
+    --task: #8db4e0; --task-soft: #1d2a38; --journal: #7cc4b1; --journal-soft: #18302a; --idea: #e0b062; --idea-soft: #352a17;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.55;
+  -webkit-font-smoothing: antialiased; }
+main { max-width: 780px; margin: 0 auto; padding: 56px 22px 72px; overflow-wrap: anywhere; }
+a { color: var(--accent-ink); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { color: var(--accent); }
+.eyebrow { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--accent-ink); }
+.hero { display: grid; grid-template-columns: 1fr 150px; gap: 28px; align-items: end; padding-bottom: 28px;
+  border-bottom: 1px solid var(--line); }
+.hero img { width: 150px; height: 150px; border-radius: 10px; border: 1px solid var(--line); display: block; }
+h1 { margin: 0; font-family: var(--display); font-weight: 400; font-size: clamp(52px, 9vw, 84px); line-height: .95;
+  letter-spacing: -0.02em; }
+h1 em { color: var(--accent); }
+.tagline { margin: 14px 0 0; font-family: var(--display); font-style: italic; font-size: 26px; line-height: 1.2; color: var(--ink-2); }
+.about { margin: 22px 0 0; color: var(--ink-2); max-width: 62ch; }
+.listen { display: flex; flex-wrap: wrap; gap: 8px; margin: 22px 0 0; padding: 0; list-style: none; }
+.listen a { display: inline-flex; align-items: center; height: 34px; padding: 0 14px; border: 1px solid var(--line-strong);
+  border-radius: 6px; background: var(--surface); color: var(--ink); font-size: 14px; font-weight: 500; text-decoration: none; }
+.listen a:hover { border-color: var(--accent); color: var(--accent-ink); }
+.listen a.primary { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.section-title { margin: 40px 0 12px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--muted); }
+.formats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(190px, 100%), 1fr)); gap: 10px; margin: 0; padding: 0; list-style: none; }
+.formats li { padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  border-top: 3px solid var(--t); font-size: 14px; color: var(--muted); }
+.formats b { display: block; font-family: var(--display); font-weight: 400; font-size: 22px; color: var(--ink); line-height: 1.1; }
+.formats span { display: block; margin-top: 4px; color: var(--ink-2); }
+article { margin: 0 0 14px; padding: 20px 22px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.series { display: inline-flex; align-items: center; height: 22px; padding: 0 8px; border-radius: 4px; font-size: 12px;
+  font-weight: 550; background: var(--t-soft, var(--sunken)); color: var(--t, var(--ink-2)); }
+h2 { margin: 10px 0 4px; font-family: var(--display); font-weight: 400; font-size: 30px; line-height: 1.1; letter-spacing: -0.01em; }
+.meta { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+audio { display: block; width: 100%; height: 40px; accent-color: var(--accent); }
+details { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
+summary { cursor: pointer; font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+summary:hover { color: var(--ink); }
+.notes { color: var(--ink-2); font-size: 15px; }
+.notes ul { padding-left: 18px; }
+.notes li { margin: 4px 0; }
+.tr-link { margin: 14px 0 0; font-size: 14px; }
+.extras { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 10px; margin: 0; padding: 0; list-style: none; }
+.extras li { padding: 16px 18px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; font-size: 14px; }
+.extras b { display: block; font-family: var(--display); font-weight: 400; font-size: 22px; line-height: 1.1; color: var(--ink); }
+.extras span { display: block; margin: 6px 0 10px; color: var(--ink-2); }
+.extras a { font-weight: 500; }
+.empty { color: var(--muted); }
+footer { margin-top: 44px; padding-top: 18px; border-top: 1px solid var(--line); font-family: var(--mono); font-size: 12px; color: var(--muted); }
+footer a { color: var(--muted); }
+.t-task { --t: var(--task); --t-soft: var(--task-soft); }
+.t-journal { --t: var(--journal); --t-soft: var(--journal-soft); }
+.t-idea { --t: var(--idea); --t-soft: var(--idea-soft); }
+@media (max-width: 560px) {
+  main { padding-top: 32px; }
+  .hero { grid-template-columns: 1fr; }
+  .hero img { width: 104px; height: 104px; order: -1; }
+  .formats { grid-template-columns: 1fr; }
+  article { padding: 16px; }
+  h2 { font-size: 26px; }
+}
+ 
+.ep-back { display: inline-block; margin: 0 0 18px; font-family: var(--mono); font-size: 12px;
+  letter-spacing: .06em; text-transform: uppercase; text-decoration: none; color: var(--muted); }
+.ep-back:hover { color: var(--accent-ink); }
+h1.ep-title { font-size: clamp(40px, 7vw, 60px); }
+.tr-heading { margin: 30px 0 6px; font-family: var(--mono); font-size: 12px; font-weight: 500;
+  letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.tr-body { margin-top: 4px; }
+.tr-seg { padding: 16px 0; border-top: 1px solid var(--line); }
+.tr-seg:first-child { border-top: none; padding-top: 4px; }
+.tr-seg h3 { margin: 0 0 8px; font-family: var(--display); font-weight: 400; font-size: 24px; line-height: 1.15; }
+.tr-seg p { margin: 8px 0; color: var(--ink-2); }
+.tr-sp { display: inline-block; min-width: 4.5ch; margin-right: 10px; font-family: var(--mono); font-size: 12px;
+  font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); }
+video.ep-video { display: block; width: 100%; margin: 2px 0 4px; border-radius: 10px; background: #1b1a17; aspect-ratio: 16 / 9; }
+.video-sub { margin: 0 0 18px; font-family: var(--mono); font-size: 12px; }
+ 
+.nl-meta { margin: 12px 0 0; }
+.nl-lede { margin: 20px 0 0; font-family: var(--display); font-style: italic; font-size: 24px; line-height: 1.25; color: var(--ink-2); }
+.nl-label { margin: 0 0 6px; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--muted); }
+.nl-ticker { margin: 22px 0 0; padding: 14px 16px; background: var(--surface-2); border: 1px solid var(--line);
+  border-left: 3px solid var(--accent); border-radius: 8px; color: var(--ink-2); }
+.nl-ticker p { margin: 0; }
+.nl-ticker .nl-label { margin-bottom: 6px; }
+.nl-ep { margin: 26px 0 0; padding-top: 20px; border-top: 1px solid var(--line); }
+.nl-ep h2 a, .nl-list h2 a { color: var(--ink); text-decoration: none; }
+.nl-ep h2 a:hover, .nl-list h2 a:hover { color: var(--accent-ink); }
+.nl-stories { margin: 0; padding-left: 18px; color: var(--ink-2); font-size: 15px; }
+.nl-stories li { margin: 4px 0; }
+.nl-stories span { color: var(--muted); }
+.nl-quote { margin: 16px 0 0; padding: 2px 0 2px 16px; border-left: 3px solid var(--t, var(--line-strong)); }
+.nl-quote p { margin: 6px 0; color: var(--ink-2); }
+.nl-go { margin: 14px 0 0; font-size: 14px; font-weight: 500; }
+.nl-note { margin: 26px 0 0; padding-top: 16px; border-top: 1px solid var(--line); color: var(--ink-2); font-size: 15px; }
+.nl-fine { margin: 10px 0 0; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.nl-nav { display: flex; justify-content: space-between; gap: 12px; margin: 18px 2px 0; font-family: var(--mono);
+  font-size: 12px; letter-spacing: .06em; text-transform: uppercase; }
+.nl-nav a { color: var(--muted); text-decoration: none; }
+.nl-nav a:hover { color: var(--accent-ink); }
+.nl-list .meta { margin-bottom: 0; }
+</style>
+</head>
+<body>
+<main>
+<a class="ep-back" href="../">&#8592; All episodes</a>
+<p class="eyebrow">Bits &amp; Tickers · Weekly newsletter</p>
+<h1>The Tape</h1>
+<p class="tagline">The week in one read.</p>
+<p class="about">Every episode of the week, every story with its source, the market close and the takeaway, on one page. A new issue is complete once The Long Drive is out.</p>
+<ul class="listen"><li><a href="../newsletter.xml">Follow by RSS</a></li></ul>
+<p class="section-title">Issues</p>
+<div class="nl-list"><article><h2><a href="2026-W46.html">9 to 15 November 2026</a></h2><p class="meta">Issue 2026-W46 · The week so far: 2 episodes, 11 stories, 23 minutes of listening.</p></article></div>
+<footer>© 2026 Juwen Lie · Nothing in this show is financial advice. · <a href="../newsletter.xml">Newsletter RSS</a> · <a href="../feed.xml">Podcast RSS</a></footer>
+</main>
+</body>
+</html>
