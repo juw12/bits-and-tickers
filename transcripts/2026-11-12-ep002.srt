@@ -1,0 +1,1291 @@
+1
+00:00:00,000 --> 00:00:03,452
+Maya: New VC fund trying to break through.
+
+2
+00:00:03,452 --> 00:00:07,863
+Maya: That, and four more stories, on The Breakdown.
+
+3
+00:00:09,000 --> 00:00:10,659
+Alex: This is Bits and Tickers.
+
+4
+00:00:10,659 --> 00:00:13,048
+Alex: What got built, and what it's worth.
+
+5
+00:00:13,048 --> 00:00:13,645
+Alex: I'm Alex.
+
+6
+00:00:14,419 --> 00:00:15,273
+Maya: And I'm Maya.
+
+7
+00:00:15,273 --> 00:00:19,936
+Maya: It's Thursday, November 12th, and this is The Breakdown: fewer stories,
+
+8
+00:00:19,936 --> 00:00:21,971
+Maya: with time to dig into each one.
+
+9
+00:00:21,971 --> 00:00:25,452
+Maya: Everything we talk about is linked in the show notes.
+
+10
+00:00:26,226 --> 00:00:27,284
+Alex: On today's show.
+
+11
+00:00:27,284 --> 00:00:29,664
+Alex: New VC fund trying to break through.
+
+12
+00:00:29,664 --> 00:00:32,243
+Alex: AI revenue numbers just went ballistic.
+
+13
+00:00:32,243 --> 00:00:34,821
+Alex: AI characters you can actually talk to.
+
+14
+00:00:34,821 --> 00:00:37,400
+Alex: AI solves a really old quantum problem.
+
+15
+00:00:37,400 --> 00:00:41,036
+Alex: And Nvidia's AI financing is getting serious attention.
+
+16
+00:00:41,036 --> 00:00:42,226
+Alex: Let's get into it.
+
+17
+00:00:43,000 --> 00:00:44,667
+Maya: Time for The Ticker.
+
+18
+00:00:44,667 --> 00:00:50,335
+Maya: At Wednesday's close, the S&P 500 finished at 7,619, up 1.3 percent.
+
+19
+00:00:50,335 --> 00:00:56,253
+Maya: The Nasdaq Composite was up 1.6 percent and the Dow was up 0.5 percent.
+
+20
+00:00:57,241 --> 00:01:01,916
+Alex: And in big tech, Tesla had the best day, up 2.9 percent,
+
+21
+00:01:01,916 --> 00:01:06,508
+Alex: while Microsoft was at the other end, down 2.3 percent.
+
+22
+00:01:06,508 --> 00:01:09,012
+Alex: That's a snapshot, not advice.
+
+23
+00:01:10,000 --> 00:01:12,840
+Alex: TechCrunch has a piece on this guy, Olaf Sakkers,
+
+24
+00:01:12,840 --> 00:01:14,927
+Alex: who's trying to raise a second fund.
+
+25
+00:01:15,615 --> 00:01:15,963
+Maya: Right.
+
+26
+00:01:15,963 --> 00:01:20,542
+Maya: Apparently, it’s really hard to get in as a first-time fund manager these days.
+
+27
+00:01:21,229 --> 00:01:21,812
+Alex: Seriously.
+
+28
+00:01:21,812 --> 00:01:26,535
+Alex: PitchBook says established firms are grabbing almost everything – like 88% of the
+
+29
+00:01:26,535 --> 00:01:27,760
+Alex: VC dollars this year.
+
+30
+00:01:28,448 --> 00:01:29,091
+Maya: Since when?
+
+31
+00:01:29,091 --> 00:01:31,427
+Maya: That leaves a tiny sliver for newcomers.
+
+32
+00:01:32,115 --> 00:01:32,752
+Alex: It’s tough.
+
+33
+00:01:32,752 --> 00:01:37,385
+Alex: He started RedBlue Capital in 2021, closed a first fund with about five million.
+
+34
+00:01:38,073 --> 00:01:40,869
+Maya: Now he’s aiming for fifty million in the second.
+
+35
+00:01:40,869 --> 00:01:41,510
+Maya: A big jump.
+
+36
+00:01:42,198 --> 00:01:46,193
+Alex: Seems he’s been building trust, letting results speak for themselves,
+
+37
+00:01:46,193 --> 00:01:47,641
+Alex: which he says takes time.
+
+38
+00:01:48,328 --> 00:01:51,571
+Maya: He writes smaller checks, fifty to one hundred thousand,
+
+39
+00:01:51,571 --> 00:01:53,656
+Maya: usually joining deals led by others.
+
+40
+00:01:54,344 --> 00:01:58,797
+Alex: It’s interesting that he’s focusing on what he calls “the real economy,” like
+
+41
+00:01:58,797 --> 00:02:00,359
+Alex: robotics and manufacturing.
+
+42
+00:02:01,047 --> 00:02:03,878
+Maya: So, how does he actually get those LPs to commit,
+
+43
+00:02:03,878 --> 00:02:07,807
+Maya: especially when the established firms are hoovering up all the cash?
+
+44
+00:02:08,495 --> 00:02:10,296
+Alex: Apparently, it’s a trust thing.
+
+45
+00:02:10,296 --> 00:02:14,768
+Alex: He says institutional investors are risk-averse, built to avoid zero returns,
+
+46
+00:02:14,768 --> 00:02:16,859
+Alex: so they stick with the known brands.
+
+47
+00:02:17,547 --> 00:02:17,891
+Maya: Go on.
+
+48
+00:02:18,578 --> 00:02:22,576
+Alex: He had to prove it out with the first fund, backed by family offices,
+
+49
+00:02:22,576 --> 00:02:25,589
+Alex: then gradually bring in institutions for the second.
+
+50
+00:02:25,589 --> 00:02:28,891
+Alex: He’s deliberately letting the performance do the talking.
+
+51
+00:02:29,578 --> 00:02:30,700
+Maya: That’s a long game.
+
+52
+00:02:30,700 --> 00:02:32,591
+Maya: What was his background, anyway?
+
+53
+00:02:32,591 --> 00:02:33,359
+Maya: Anthropology?
+
+54
+00:02:34,047 --> 00:02:37,631
+Alex: Yeah, Princeton anthropology, a thesis on HIV in South Africa.
+
+55
+00:02:37,631 --> 00:02:42,199
+Alex: Then he was drafted into the Israeli military – desk job liaising with the U.S.
+
+56
+00:02:42,199 --> 00:02:46,766
+Alex: military, interestingly enough – and got into autonomous vehicles through that.
+
+57
+00:02:47,453 --> 00:02:48,412
+Maya: Hold on, that's…
+
+58
+00:02:48,412 --> 00:02:48,771
+Maya: a lot.
+
+59
+00:02:49,458 --> 00:02:49,807
+Alex: It is.
+
+60
+00:02:49,807 --> 00:02:53,239
+Alex: He was hired by Michael Granoff, who had capital to invest,
+
+61
+00:02:53,239 --> 00:02:57,426
+Alex: and they built the first fund almost by accident, learning as they went.
+
+62
+00:02:57,426 --> 00:03:00,974
+Alex: Granoff had been an early backer of Better Place, by the way.
+
+63
+00:03:01,661 --> 00:03:01,895
+Maya: Huh.
+
+64
+00:03:01,895 --> 00:03:04,411
+Maya: It sounds like he's leveraging connections.
+
+65
+00:03:05,099 --> 00:03:08,905
+Alex: I mean, it's a smart strategy, letting the results do the talking.
+
+66
+00:03:08,905 --> 00:03:13,750
+Alex: It’s a lot less stressful than chasing the big institutional commitments right away.
+
+67
+00:03:14,438 --> 00:03:16,940
+Maya: It sounds like a lot of luck to me, though.
+
+68
+00:03:16,940 --> 00:03:21,303
+Maya: Getting hired on the spot, building a fund "almost by accident"— that’s not
+
+69
+00:03:21,303 --> 00:03:21,943
+Maya: repeatable.
+
+70
+00:03:22,630 --> 00:03:25,767
+Alex: Maybe not, but he clearly has something – connections,
+
+71
+00:03:25,767 --> 00:03:27,801
+Alex: a knack for spotting opportunities.
+
+72
+00:03:27,801 --> 00:03:30,938
+Alex: Those five million dollars had to come from somewhere.
+
+73
+00:03:31,625 --> 00:03:33,487
+Maya: I think it's more about inertia.
+
+74
+00:03:33,487 --> 00:03:36,222
+Maya: Established funds have this gravitational pull,
+
+75
+00:03:36,222 --> 00:03:39,073
+Maya: and it’s incredibly hard to break free from that.
+
+76
+00:03:39,760 --> 00:03:42,202
+Alex: True, but he seems to understand the game.
+
+77
+00:03:42,202 --> 00:03:44,179
+Alex: Small checks, letting others lead,
+
+78
+00:03:44,179 --> 00:03:47,552
+Alex: providing support— it's a way to get his foot in the door.
+
+79
+00:03:48,240 --> 00:03:50,614
+Maya: It’s still a long shot, though, isn't it?
+
+80
+00:03:50,614 --> 00:03:53,510
+Maya: Getting to fifty million after starting with five?
+
+81
+00:03:54,198 --> 00:03:56,146
+Alex: It's a test of endurance, he says.
+
+82
+00:03:56,833 --> 00:04:01,447
+Maya: My read is that he's banking on the "gravity of perception" working in his favor
+
+83
+00:04:01,447 --> 00:04:05,312
+Maya: eventually, but I suspect that’s the most fragile part of his plan.
+
+84
+00:04:06,000 --> 00:04:09,426
+Maya: Apparently, OpenAI crossed $10 billion in quarterly revenue.
+
+85
+00:04:09,426 --> 00:04:11,196
+Maya: That’s according to TechCrunch.
+
+86
+00:04:11,874 --> 00:04:12,664
+Alex: Hold on, what?
+
+87
+00:04:13,342 --> 00:04:16,079
+Maya: Yeah, a nearly 50% jump from the second quarter.
+
+88
+00:04:16,079 --> 00:04:19,159
+Maya: It’s a significant increase in their growth rate, too.
+
+89
+00:04:19,837 --> 00:04:22,435
+Alex: Still, they weren't exactly struggling before.
+
+90
+00:04:23,113 --> 00:04:25,618
+Maya: They were already growing at 18% previously.
+
+91
+00:04:25,618 --> 00:04:29,946
+Maya: Their adjusted operating margin improved slightly, too, from -150% to -109%.
+
+92
+00:04:30,624 --> 00:04:31,189
+Alex: That fast?
+
+93
+00:04:31,867 --> 00:04:35,511
+Maya: They’re now talking about a $50 billion annual revenue run rate.
+
+94
+00:04:35,511 --> 00:04:38,813
+Maya: Anthropic, meanwhile, is claiming an $81 billion run rate.
+
+95
+00:04:39,491 --> 00:04:42,597
+Alex: Their calculation methods are different, though, right?
+
+96
+00:04:43,275 --> 00:04:43,737
+Maya: Exactly.
+
+97
+00:04:43,737 --> 00:04:46,044
+Maya: They count sales through cloud partners,
+
+98
+00:04:46,044 --> 00:04:48,640
+Maya: while OpenAI doesn't for some of their sales.
+
+99
+00:04:49,318 --> 00:04:52,399
+Alex: What’s driving this sudden acceleration, do you think?
+
+100
+00:04:52,399 --> 00:04:54,909
+Alex: It sounds like a lot to pull out of nowhere.
+
+101
+00:04:55,587 --> 00:05:00,247
+Maya: Apparently, they’ve been focused on tighter pricing, discounts, and better models.
+
+102
+00:05:00,247 --> 00:05:04,510
+Maya: They're also building more enterprise-focused products and these AI agents.
+
+103
+00:05:05,188 --> 00:05:05,589
+Alex: Really?
+
+104
+00:05:05,589 --> 00:05:08,972
+Alex: I thought they were lagging behind Anthropic in that space.
+
+105
+00:05:09,650 --> 00:05:14,090
+Maya: They were, but they’ve been trying to catch up, shifting focus to those areas.
+
+106
+00:05:14,090 --> 00:05:16,822
+Maya: It’s interesting that they’re pulling ahead now.
+
+107
+00:05:17,500 --> 00:05:21,792
+Alex: Just a slight improvement in operating margin though - still a massive loss.
+
+108
+00:05:22,470 --> 00:05:25,490
+Maya: It narrowed from a 150% negative margin to 109%, yes.
+
+109
+00:05:25,490 --> 00:05:28,965
+Maya: It's a small shift, but in that scale it’s still significant.
+
+110
+00:05:29,643 --> 00:05:31,160
+Alex: $81 billion for Anthropic?
+
+111
+00:05:31,160 --> 00:05:31,393
+Alex: Wow.
+
+112
+00:05:32,071 --> 00:05:35,150
+Maya: That’s their annual revenue run rate, per their claim,
+
+113
+00:05:35,150 --> 00:05:38,058
+Maya: and it’s due to those sales through cloud partners.
+
+114
+00:05:38,735 --> 00:05:43,354
+Maya: I think it’s a bit misleading to get excited about this run rate stuff, honestly.
+
+115
+00:05:43,354 --> 00:05:44,722
+Maya: It’s just a calculation.
+
+116
+00:05:45,400 --> 00:05:45,869
+Alex: Hold on.
+
+117
+00:05:45,869 --> 00:05:46,690
+Alex: Fifty billion?
+
+118
+00:05:46,690 --> 00:05:48,449
+Alex: That’s still a lot of revenue.
+
+119
+00:05:49,127 --> 00:05:51,977
+Maya: It is, but it’s still burning a ton of cash, Alex.
+
+120
+00:05:51,977 --> 00:05:55,170
+Maya: That operating margin narrowing isn't exactly a victory.
+
+121
+00:05:55,848 --> 00:06:00,465
+Alex: True, but they are shifting focus to enterprise, and that seems to be paying off,
+
+122
+00:06:00,465 --> 00:06:02,004
+Alex: at least according to this.
+
+123
+00:06:02,682 --> 00:06:03,768
+Maya: I’m less convinced.
+
+124
+00:06:03,768 --> 00:06:07,426
+Maya: It sounds like they’re just trying to catch up to Anthropic now.
+
+125
+00:06:08,103 --> 00:06:12,452
+Alex: I'm not so sure they're "catching up." They're just taking a different route.
+
+126
+00:06:13,130 --> 00:06:17,855
+Maya: Maybe, but I still think the hype around these run rates is obscuring the fact that
+
+127
+00:06:17,855 --> 00:06:20,246
+Maya: they're still losing money hand over fist.
+
+128
+00:06:20,924 --> 00:06:25,306
+Alex: Ultimately, it just shows how much demand there is for what they're building,
+
+129
+00:06:25,306 --> 00:06:28,322
+Alex: even if the current business model isn't sustainable.
+
+130
+00:06:29,000 --> 00:06:33,484
+Alex: So, Adobe’s been showing off some experimental stuff at their Max conference – did
+
+131
+00:06:33,484 --> 00:06:35,562
+Alex: you see anything that caught your eye?
+
+132
+00:06:36,212 --> 00:06:37,753
+Maya: Project Screen Test, mostly.
+
+133
+00:06:37,753 --> 00:06:42,211
+Maya: Apparently, you can now have conversations with AI-generated characters to, like,
+
+134
+00:06:42,211 --> 00:06:43,642
+Maya: shape their personalities.
+
+135
+00:06:44,292 --> 00:06:45,821
+Alex: Since when is that a thing?
+
+136
+00:06:45,821 --> 00:06:46,331
+Alex: Sounds...
+
+137
+00:06:46,331 --> 00:06:46,841
+Alex: involved.
+
+138
+00:06:47,492 --> 00:06:49,909
+Maya: It's designed to give creators more control.
+
+139
+00:06:49,909 --> 00:06:52,326
+Maya: You start by giving them personality traits,
+
+140
+00:06:52,326 --> 00:06:55,951
+Maya: then chat with them to flesh out their backstory, goals, all that.
+
+141
+00:06:56,602 --> 00:06:59,910
+Alex: And it generates animated tests based on those conversations?
+
+142
+00:07:00,561 --> 00:07:01,003
+Maya: It does.
+
+143
+00:07:01,003 --> 00:07:05,538
+Maya: My read is that it’s all about addressing the lack of creative control in AI video
+
+144
+00:07:05,538 --> 00:07:06,146
+Maya: generation.
+
+145
+00:07:06,797 --> 00:07:08,369
+Alex: Sounds like a bunch of demos.
+
+146
+00:07:09,020 --> 00:07:09,905
+Maya: Still, it feels…
+
+147
+00:07:09,905 --> 00:07:10,955
+Maya: clunky, doesn't it?
+
+148
+00:07:10,955 --> 00:07:14,660
+Maya: I mean, what’s the actual process for giving the character a voice?
+
+149
+00:07:15,311 --> 00:07:17,511
+Alex: You can upload sample audio, apparently.
+
+150
+00:07:17,511 --> 00:07:20,427
+Alex: Or describe it in a prompt - they’ll try to match it.
+
+151
+00:07:20,427 --> 00:07:22,957
+Alex: It’s not like they’re generating from scratch.
+
+152
+00:07:23,608 --> 00:07:26,102
+Maya: So you're basically building a digital puppet?
+
+153
+00:07:26,753 --> 00:07:27,193
+Alex: Kind of.
+
+154
+00:07:27,193 --> 00:07:31,644
+Alex: The article mentioned it’s because existing AI video tools lack creative control;
+
+155
+00:07:31,644 --> 00:07:34,887
+Alex: traditional animation has absolute intention at every step.
+
+156
+00:07:35,538 --> 00:07:36,258
+Maya: Good to know.
+
+157
+00:07:36,258 --> 00:07:38,086
+Maya: Sounds like a neat trick, though.
+
+158
+00:07:38,737 --> 00:07:39,729
+Alex: Definitely a demo.
+
+159
+00:07:39,729 --> 00:07:42,099
+Alex: I'm not seeing how that becomes a workflow.
+
+160
+00:07:42,750 --> 00:07:45,808
+Alex: It's a clever way to inject some personality, I suppose,
+
+161
+00:07:45,808 --> 00:07:50,396
+Alex: but it still feels like a lot of steps for something that could be done more simply.
+
+162
+00:07:51,047 --> 00:07:55,435
+Maya: It's not about being simple; it's about giving creators a tool that wasn't there
+
+163
+00:07:55,435 --> 00:07:55,819
+Maya: before.
+
+164
+00:07:56,470 --> 00:07:57,799
+Alex: But is it a useful tool?
+
+165
+00:07:57,799 --> 00:07:59,073
+Alex: It sounds like a hobby.
+
+166
+00:07:59,723 --> 00:08:03,502
+Maya: I think it addresses a real pain point in the video generation space.
+
+167
+00:08:03,502 --> 00:08:05,200
+Maya: The article explicitly said so.
+
+168
+00:08:05,851 --> 00:08:06,187
+Alex: Maybe.
+
+169
+00:08:06,187 --> 00:08:08,036
+Alex: Still, building a digital puppet…
+
+170
+00:08:08,036 --> 00:08:09,213
+Alex: it’s a weird framing.
+
+171
+00:08:09,864 --> 00:08:11,077
+Maya: It’s a metaphor, Alex.
+
+172
+00:08:11,077 --> 00:08:13,226
+Maya: It's illustrating the level of control.
+
+173
+00:08:13,877 --> 00:08:18,052
+Alex: A metaphor that doesn't really translate to a practical workflow, in my view.
+
+174
+00:08:18,703 --> 00:08:21,288
+Maya: It's a first iteration, and even in that state,
+
+175
+00:08:21,288 --> 00:08:24,534
+Maya: it's demonstrably an improvement over what’s available now,
+
+176
+00:08:24,534 --> 00:08:26,349
+Maya: so it’s already valuable to some.
+
+177
+00:08:27,000 --> 00:08:31,596
+Maya: According to TechCrunch, a startup called PSI used an Anthropic model to crack an
+
+178
+00:08:31,596 --> 00:08:33,923
+Maya: 18-year-old problem in quantum computing.
+
+179
+00:08:34,598 --> 00:08:35,073
+Alex: Hang on.
+
+180
+00:08:35,073 --> 00:08:35,667
+Alex: Seriously?
+
+181
+00:08:36,343 --> 00:08:39,753
+Maya: Yeah, a recent MIT grad, David Turturean, apparently did it.
+
+182
+00:08:39,753 --> 00:08:42,140
+Maya: He’s deferred his master’s to work at PSI.
+
+183
+00:08:42,815 --> 00:08:43,040
+Alex: Wow.
+
+184
+00:08:43,716 --> 00:08:48,380
+Maya: The problem has to do with how quickly quantum computers can solve certain issues,
+
+185
+00:08:48,380 --> 00:08:51,964
+Maya: and Scott Aaronson, one of the original researchers, says he’s…
+
+186
+00:08:51,964 --> 00:08:54,353
+Maya: well, he's got a lot of feelings about it.
+
+187
+00:08:55,028 --> 00:08:55,704
+Alex: Is that all?
+
+188
+00:08:56,379 --> 00:09:00,536
+Maya: It’s a negative result, apparently closing one door on quantum computing,
+
+189
+00:09:00,536 --> 00:09:04,977
+Maya: and PSI’s CEO, Matt Pines, is saying theoretical physics is going to be mostly
+
+190
+00:09:04,977 --> 00:09:06,116
+Maya: machines’ work soon.
+
+191
+00:09:06,791 --> 00:09:07,410
+Alex: Bold claim.
+
+192
+00:09:08,085 --> 00:09:12,672
+Maya: Their current revenue comes from optimizing data centers – simulating things like
+
+193
+00:09:12,672 --> 00:09:17,372
+Maya: heat and power – but the real goal is to turn these breakthroughs into actual tech.
+
+194
+00:09:18,047 --> 00:09:19,317
+Alex: How did he even do it?
+
+195
+00:09:19,317 --> 00:09:19,606
+Alex: Just…
+
+196
+00:09:19,606 --> 00:09:24,399
+Alex: a recent grad and an Anthropic model solving something that’s stumped people for 18
+
+197
+00:09:24,399 --> 00:09:24,745
+Alex: years?
+
+198
+00:09:25,420 --> 00:09:27,766
+Maya: Well, it wasn't just any Anthropic model.
+
+199
+00:09:27,766 --> 00:09:29,827
+Maya: It was Fable 5.2, an unreleased one.
+
+200
+00:09:29,827 --> 00:09:34,233
+Maya: And he used what they’re calling specialized model harnesses and scaffolding,
+
+201
+00:09:34,233 --> 00:09:35,607
+Maya: which apparently is key.
+
+202
+00:09:36,282 --> 00:09:36,868
+Alex: Harnesses?
+
+203
+00:09:36,868 --> 00:09:37,746
+Alex: What are those?
+
+204
+00:09:38,421 --> 00:09:38,991
+Maya: It’s like…
+
+205
+00:09:38,991 --> 00:09:43,096
+Maya: tools and memory systems, helping the model really dig into the problem.
+
+206
+00:09:43,096 --> 00:09:47,257
+Maya: The CEO, Pines, says they need a lot of that to tackle the work properly.
+
+207
+00:09:47,933 --> 00:09:49,621
+Alex: Feels like a demo, doesn’t it?
+
+208
+00:09:50,296 --> 00:09:54,680
+Maya: Aaronson, one of the original researchers, seemed to think so too, initially.
+
+209
+00:09:54,680 --> 00:09:58,153
+Maya: He was surprised it hadn’t shown up in OpenAI’s Mathocalypse,
+
+210
+00:09:58,153 --> 00:10:00,146
+Maya: wondering if it was so much harder.
+
+211
+00:10:00,821 --> 00:10:02,791
+Alex: So, is PSI just doing this for fun?
+
+212
+00:10:03,466 --> 00:10:04,154
+Maya: Not exactly.
+
+213
+00:10:04,154 --> 00:10:07,305
+Maya: They’re currently making money optimizing data centers,
+
+214
+00:10:07,305 --> 00:10:11,832
+Maya: but Pines is pitching the longer-term vision: turning these theoretical physics
+
+215
+00:10:11,832 --> 00:10:13,952
+Maya: breakthroughs into actual technology.
+
+216
+00:10:13,952 --> 00:10:18,536
+Maya: He says he had to stretch to convince investors six to nine months ago that this
+
+217
+00:10:18,536 --> 00:10:19,281
+Maya: was possible.
+
+218
+00:10:19,957 --> 00:10:23,154
+Maya: I think Pines is just playing the investor game, really.
+
+219
+00:10:23,154 --> 00:10:26,693
+Maya: Saying theoretical physics will be mostly machines’ work soon?
+
+220
+00:10:26,693 --> 00:10:27,892
+Maya: That’s a sales pitch.
+
+221
+00:10:28,568 --> 00:10:28,798
+Alex: Hmm.
+
+222
+00:10:28,798 --> 00:10:30,750
+Alex: It’s impressive, though, isn’t it?
+
+223
+00:10:30,750 --> 00:10:34,252
+Alex: A recent grad solving something that’s been open for so long.
+
+224
+00:10:34,928 --> 00:10:35,912
+Maya: Sure, impressive.
+
+225
+00:10:35,912 --> 00:10:36,837
+Maya: But it's a demo.
+
+226
+00:10:36,837 --> 00:10:39,036
+Maya: Aaronson himself seemed to think that.
+
+227
+00:10:39,712 --> 00:10:41,983
+Alex: But the harnesses and scaffolding thing…
+
+228
+00:10:41,983 --> 00:10:46,128
+Alex: that does suggest something more than just throwing a model at a problem.
+
+229
+00:10:46,803 --> 00:10:49,657
+Maya: Maybe, but ultimately, it’s still just one result.
+
+230
+00:10:49,657 --> 00:10:54,280
+Maya: They're chasing a long game, and data center optimization is the real money-maker
+
+231
+00:10:54,280 --> 00:10:54,851
+Maya: right now.
+
+232
+00:10:55,527 --> 00:11:00,093
+Alex: That's true, but the fact that they were able to crack something so fundamental,
+
+233
+00:11:00,093 --> 00:11:01,806
+Alex: even with a specialized setup…
+
+234
+00:11:01,806 --> 00:11:03,575
+Alex: it indicates a potential shift.
+
+235
+00:11:04,250 --> 00:11:08,021
+Maya: I’m not convinced it’s a shift; it's a carefully managed narrative.
+
+236
+00:11:08,696 --> 00:11:11,539
+Alex: Still, someone built something that could do this.
+
+237
+00:11:11,539 --> 00:11:14,325
+Alex: And that’s a worthwhile accomplishment in itself.
+
+238
+00:11:15,000 --> 00:11:19,239
+Alex: This CNBC piece about Nvidia being, essentially, the central bank of AI,
+
+239
+00:11:19,239 --> 00:11:23,832
+Alex: caught my eye because it’s a fascinating way to think about how interconnected
+
+240
+00:11:23,832 --> 00:11:25,127
+Alex: everything has become.
+
+241
+00:11:25,127 --> 00:11:30,014
+Alex: Apparently, they’ve made huge financial commitments to other firms to help grow the
+
+242
+00:11:30,014 --> 00:11:30,544
+Alex: industry.
+
+243
+00:11:31,241 --> 00:11:32,502
+Maya: Hundreds of billions?
+
+244
+00:11:32,502 --> 00:11:32,923
+Maya: That’s…
+
+245
+00:11:33,619 --> 00:11:38,305
+Alex: Yeah, and it’s got the Federal Reserve and other financial institutions watching
+
+246
+00:11:38,305 --> 00:11:41,293
+Alex: closely, just in case something unexpected happens.
+
+247
+00:11:41,293 --> 00:11:45,393
+Alex: They’re worried about a "broad-based repricing of assets," apparently.
+
+248
+00:11:46,089 --> 00:11:50,149
+Maya: Hold on, so is someone saying we’re headed for another 2008 situation?
+
+249
+00:11:50,845 --> 00:11:52,724
+Alex: Sheila Bair, a former regulator,
+
+250
+00:11:52,724 --> 00:11:56,364
+Alex: says Nvidia isn’t "too big to fail" in the same way a bank is.
+
+251
+00:11:56,364 --> 00:12:00,357
+Alex: They still make a product people want, and have a big equity buffer.
+
+252
+00:12:01,053 --> 00:12:01,763
+Maya: Makes sense.
+
+253
+00:12:01,763 --> 00:12:06,498
+Maya: But she does say regulators should still watch for exposure across the financial
+
+254
+00:12:06,498 --> 00:12:06,912
+Maya: system.
+
+255
+00:12:07,608 --> 00:12:10,546
+Alex: And then there's the whole FBI and Congress thing,
+
+256
+00:12:10,546 --> 00:12:13,837
+Alex: reportedly concerning Huang's relationship with someone.
+
+257
+00:12:13,837 --> 00:12:16,540
+Alex: The board still has confidence in him, though.
+
+258
+00:12:17,236 --> 00:12:19,440
+Maya: It’s a lot to juggle, even for Nvidia.
+
+259
+00:12:20,136 --> 00:12:23,583
+Maya: So, how exactly does this "central bank of AI" thing work?
+
+260
+00:12:23,583 --> 00:12:23,880
+Maya: Just…
+
+261
+00:12:23,880 --> 00:12:24,950
+Maya: handing out money?
+
+262
+00:12:25,646 --> 00:12:26,352
+Alex: Pretty much.
+
+263
+00:12:26,352 --> 00:12:30,647
+Alex: They’re providing financial commitments, essentially loans or guarantees,
+
+264
+00:12:30,647 --> 00:12:34,530
+Alex: to other companies to help them build out their AI infrastructure.
+
+265
+00:12:34,530 --> 00:12:37,943
+Alex: It's not just cash, it's a whole web of financial support.
+
+266
+00:12:38,639 --> 00:12:42,931
+Maya: Hold on, what happens if those companies can’t pay back those commitments?
+
+267
+00:12:43,627 --> 00:12:44,633
+Alex: That’s the worry.
+
+268
+00:12:44,633 --> 00:12:46,586
+Alex: If Nvidia’s GPU chip values drop,
+
+269
+00:12:46,586 --> 00:12:51,142
+Alex: it could trigger a chain reaction where companies struggle to repay what they
+
+270
+00:12:51,142 --> 00:12:52,385
+Alex: borrowed to buy them.
+
+271
+00:12:53,081 --> 00:12:53,510
+Maya: That’s…
+
+272
+00:12:53,510 --> 00:12:54,183
+Maya: concerning.
+
+273
+00:12:54,879 --> 00:12:59,569
+Alex: Sheila Bair pointed out that even though Nvidia isn't structurally the same as a
+
+274
+00:12:59,569 --> 00:13:04,376
+Alex: bank, that ripple effect is what regulators are paying attention to – the exposure
+
+275
+00:13:04,376 --> 00:13:05,783
+Alex: across the wider system.
+
+276
+00:13:06,480 --> 00:13:09,713
+Maya: And the Huang situation complicates things, doesn’t it?
+
+277
+00:13:09,713 --> 00:13:10,888
+Maya: It’s a weird timing.
+
+278
+00:13:11,584 --> 00:13:12,649
+Alex: It certainly does.
+
+279
+00:13:12,649 --> 00:13:16,790
+Alex: The article mentions analysts are now considering a range of outcomes,
+
+280
+00:13:16,790 --> 00:13:19,630
+Alex: including his potential removal, which would be…
+
+281
+00:13:19,630 --> 00:13:20,458
+Alex: quite a shift.
+
+282
+00:13:21,154 --> 00:13:25,742
+Alex: I think the “central bank of AI” analogy is really underselling the risk here.
+
+283
+00:13:25,742 --> 00:13:28,036
+Alex: It’s not about Nvidia failing outright,
+
+284
+00:13:28,036 --> 00:13:32,683
+Alex: it’s about those financial commitments suddenly becoming a problem for a lot of
+
+285
+00:13:32,683 --> 00:13:33,624
+Alex: other companies.
+
+286
+00:13:34,320 --> 00:13:36,669
+Maya: I see it more as a symptom than a cause.
+
+287
+00:13:36,669 --> 00:13:39,663
+Maya: Nvidia is just capitalizing on the existing demand,
+
+288
+00:13:39,663 --> 00:13:43,949
+Maya: providing the financing that already exists somewhere else in the system.
+
+289
+00:13:44,645 --> 00:13:48,152
+Alex: Still, a lot of money is tied up in their continued success.
+
+290
+00:13:48,152 --> 00:13:52,301
+Alex: Huang’s situation adds a layer of unpredictable volatility, doesn't it?
+
+291
+00:13:52,997 --> 00:13:54,589
+Maya: It's certainly distracting.
+
+292
+00:13:54,589 --> 00:13:57,833
+Maya: But the board's confidence in him is important to note,
+
+293
+00:13:57,833 --> 00:14:00,015
+Maya: it’s not like they’re in crisis mode.
+
+294
+00:14:00,711 --> 00:14:04,930
+Alex: True, but that doesn't negate the potential for a broad-based repricing.
+
+295
+00:14:04,930 --> 00:14:06,337
+Alex: It’s a delicate balance.
+
+296
+00:14:07,033 --> 00:14:10,771
+Maya: My read is that the real concern isn’t Nvidia itself collapsing,
+
+297
+00:14:10,771 --> 00:14:15,676
+Maya: but the interconnectedness of the whole AI buildout finally revealing its fragility.
+
+298
+00:14:16,372 --> 00:14:17,068
+Alex: Makes sense.
+
+299
+00:14:17,764 --> 00:14:20,002
+Maya: The worry isn't that Nvidia will fail,
+
+300
+00:14:20,002 --> 00:14:24,833
+Maya: but that its success has masked a systemic reliance on a single point of potential
+
+301
+00:14:24,833 --> 00:14:25,304
+Maya: failure.
+
+302
+00:14:26,000 --> 00:14:27,005
+Alex: That's the news.
+
+303
+00:14:27,005 --> 00:14:28,387
+Alex: Time for The Takeaway.
+
+304
+00:14:29,121 --> 00:14:33,628
+Maya: I think the common thread here is just how much money is sloshing around,
+
+305
+00:14:33,628 --> 00:14:36,160
+Maya: enabling all this experimentation, right?
+
+306
+00:14:36,894 --> 00:14:41,907
+Alex: I'll be watching to see how quickly those Adobe AI features actually ship – demos
+
+307
+00:14:41,907 --> 00:14:42,464
+Alex: are easy.
+
+308
+00:14:43,198 --> 00:14:48,138
+Maya: I'm curious to see if PSI can actually translate their AI discovery efforts into
+
+309
+00:14:48,138 --> 00:14:50,237
+Maya: something beyond a research grant.
+
+310
+00:14:50,971 --> 00:14:55,663
+Alex: Hold on, I'm not writing off Olaf Sakkers' approach just because it's niche.
+
+311
+00:14:55,663 --> 00:14:58,132
+Alex: Someone’s gotta find the inefficiencies.
+
+312
+00:14:58,867 --> 00:15:03,118
+Maya: I still maintain Nvidia’s financing web isn’t that surprising, Alex.
+
+313
+00:15:03,118 --> 00:15:03,743
+Maya: It's just…
+
+314
+00:15:03,743 --> 00:15:04,681
+Maya: infrastructure.
+
+315
+00:15:05,416 --> 00:15:10,251
+Alex: I guess we’ll agree to disagree on how much that signifies about systemic risk.
+
+316
+00:15:10,985 --> 00:15:12,534
+Maya: And that's The Breakdown.
+
+317
+00:15:12,534 --> 00:15:16,004
+Maya: Every story we talked about is linked in the show notes.
+
+318
+00:15:16,738 --> 00:15:18,993
+Alex: Next up is The Long Drive, tomorrow.
+
+319
+00:15:18,993 --> 00:15:21,936
+Alex: One reminder: nothing here is financial advice.
+
+320
+00:15:21,936 --> 00:15:23,940
+Alex: From Bits and Tickers, I'm Alex.
+
+321
+00:15:23,940 --> 00:15:24,817
+Alex: Keep building.
+
+322
+00:15:25,552 --> 00:15:26,123
+Maya: I'm Maya.
+
+323
+00:15:26,123 --> 00:15:27,266
+Maya: And keep counting.
