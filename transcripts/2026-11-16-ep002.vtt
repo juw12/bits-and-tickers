@@ -1,0 +1,2529 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:03.370
+<v Maya>New AI‑native CRM challenges giants.
+
+2
+00:00:03.370 --> 00:00:05.880
+<v Maya>That, and fifteen more stories, on First Tick.
+
+3
+00:00:15.330 --> 00:00:17.020
+<v Alex>This is Bits and Tickers.
+
+4
+00:00:17.020 --> 00:00:18.700
+<v Alex>What got built, and what it's worth.
+
+5
+00:00:18.700 --> 00:00:19.160
+<v Alex>I'm Alex.
+
+6
+00:00:19.770 --> 00:00:21.040
+<v Maya>And I'm Maya.
+
+7
+00:00:21.040 --> 00:00:25.360
+<v Maya>It's Monday, November 16th, and this is First Tick: the day's tech,
+
+8
+00:00:25.360 --> 00:00:30.000
+<v Maya>AI and market news in about half an hour, with why each story matters.
+
+9
+00:00:30.000 --> 00:00:32.290
+<v Maya>Everything we talk about is linked in the show notes.
+
+10
+00:00:32.920 --> 00:00:34.420
+<v Alex>On today's show.
+
+11
+00:00:34.420 --> 00:00:37.640
+<v Alex>New AI‑native CRM challenges giants.
+
+12
+00:00:37.640 --> 00:00:40.540
+<v Alex>Uber and Zoox hit the streets together.
+
+13
+00:00:40.540 --> 00:00:43.550
+<v Alex>Chips to China spark congressional fire.
+
+14
+00:00:43.550 --> 00:00:46.400
+<v Alex>Space launch disaster rocks ULA plans.
+
+15
+00:00:46.400 --> 00:00:50.100
+<v Alex>And Musk pushes for Nvidia CEO return.
+
+16
+00:00:50.100 --> 00:00:51.460
+<v Alex>Plus eleven more.
+
+17
+00:00:51.460 --> 00:00:52.210
+<v Alex>Let's get into it.
+
+18
+00:00:53.750 --> 00:00:55.380
+<v Maya>Time for The Ticker.
+
+19
+00:00:55.380 --> 00:01:03.540
+<v Maya>At Friday's close, the S&amp;P 500 finished at 7,562, down 0.4 percent.
+
+20
+00:01:03.540 --> 00:01:09.300
+<v Maya>The Nasdaq Composite was down 0.9 percent and the Dow was up 0.1 percent.
+
+21
+00:01:09.590 --> 00:01:13.480
+<v Alex>And in big tech, Meta had the best day, up 2.9 percent,
+
+22
+00:01:13.480 --> 00:01:18.090
+<v Alex>while Nvidia was at the other end, down 2.0 percent.
+
+23
+00:01:18.090 --> 00:01:19.670
+<v Alex>That's a snapshot, not advice.
+
+24
+00:01:20.800 --> 00:01:24.440
+<v Maya>They’re targeting Salesforce and HubSpot, says TechCrunch.
+
+25
+00:01:24.440 --> 00:01:25.140
+<v Alex>That fast?
+
+26
+00:01:25.660 --> 00:01:29.000
+<v Maya>The seed and Series A were led by Together Fund and Accel,
+
+27
+00:01:29.000 --> 00:01:30.380
+<v Maya>with Premji Invest in the mix.
+
+28
+00:01:30.940 --> 00:01:34.670
+<v Alex>Dreamteam says it auto‑captures email and call data,
+
+29
+00:01:34.670 --> 00:01:39.110
+<v Alex>then uses four AI agents to draft follow‑ups and monitor pipelines.
+
+30
+00:01:39.790 --> 00:01:42.690
+<v Maya>They’ve got over 100 customers in three months,
+
+31
+00:01:42.690 --> 00:01:45.660
+<v Maya>and some have swapped Salesforce or HubSpot entirely.
+
+32
+00:01:46.540 --> 00:01:52.590
+<v Alex>A16z warned that AI will sit on top of existing CRMs, not replace them.
+
+33
+00:01:52.940 --> 00:01:57.120
+<v Maya>So the startup’s own CEO says the market is still open for a rethink,
+
+34
+00:01:57.120 --> 00:01:58.320
+<v Maya>not just feature add‑ons.
+
+35
+00:01:58.520 --> 00:02:01.460
+<v Maya>What actually powers that Company Brain?
+
+36
+00:02:01.460 --> 00:02:03.540
+<v Maya>How does it pull data from emails and calls?
+
+37
+00:02:03.940 --> 00:02:06.220
+<v Alex>It stitches together raw logs,
+
+38
+00:02:06.220 --> 00:02:11.580
+<v Alex>then feeds them into four specialized agents that can draft emails, flag risks,
+
+39
+00:02:11.580 --> 00:02:12.500
+<v Alex>and tweak workflows.
+
+40
+00:02:13.140 --> 00:02:16.260
+<v Maya>Those agents—are they all separate models or one monolith?
+
+41
+00:02:16.660 --> 00:02:19.760
+<v Alex>Four distinct ones, each tuned to a task,
+
+42
+00:02:19.760 --> 00:02:22.460
+<v Alex>but all sharing the same underlying memory pool.
+
+43
+00:02:22.942 --> 00:02:24.460
+<v Maya>What about the funding split?
+
+44
+00:02:24.460 --> 00:02:25.780
+<v Maya>Did the seed and Series A differ?
+
+45
+00:02:26.260 --> 00:02:30.120
+<v Alex>Seed led by Together Fund, Series A by Accel,
+
+46
+00:02:30.120 --> 00:02:35.100
+<v Alex>with Premji Invest joining; the article keeps the exact amounts and valuation
+
+47
+00:02:35.100 --> 00:02:35.660
+<v Alex>hidden.
+
+48
+00:02:36.540 --> 00:02:40.100
+<v Maya>So no valuation reveal—does that hint at a cautious approach?
+
+49
+00:02:40.610 --> 00:02:42.160
+<v Alex>Could be; they’re still early,
+
+50
+00:02:42.160 --> 00:02:45.540
+<v Alex>and the market’s tight—maybe they’re keeping options open.
+
+51
+00:02:45.780 --> 00:02:46.580
+<v Alex>Wow, that speed?
+
+52
+00:02:47.020 --> 00:02:51.460
+<v Maya>Yeah, 100 customers in three months is nothing to sneeze at,
+
+53
+00:02:51.460 --> 00:02:53.120
+<v Maya>but it’s a tiny slice of the market.
+
+54
+00:02:53.250 --> 00:02:53.960
+<v Alex>Even so?
+
+55
+00:02:54.440 --> 00:02:57.940
+<v Maya>True, but swapping a system of record at scale is a different beast.
+
+56
+00:02:58.580 --> 00:03:02.120
+<v Alex>If they’re pulling data from emails, they need a solid pipeline.
+
+57
+00:03:02.740 --> 00:03:05.500
+<v Maya>They say four agents share a memory pool,
+
+58
+00:03:05.500 --> 00:03:07.800
+<v Maya>but stitching that together is no small task.
+
+59
+00:03:08.320 --> 00:03:11.820
+<v Alex>I think the real win is automating follow‑ups and flagging risks.
+
+60
+00:03:12.320 --> 00:03:15.160
+<v Maya>So the market’s still open, but incumbents will adapt.
+
+61
+00:03:16.820 --> 00:03:17.980
+<v Maya>Did you see that?
+
+62
+00:03:17.980 --> 00:03:22.240
+<v Maya>Zoox robotaxis are now in the Uber app in Las Vegas, TechCrunch reports.
+
+63
+00:03:22.780 --> 00:03:27.780
+<v Alex>Yeah, it’s the first time Amazon‑owned Zoox teamed up with a ride‑hailing platform.
+
+64
+00:03:28.240 --> 00:03:32.090
+<v Maya>And Uber’s pulling in a second driverless partner after Waymo,
+
+65
+00:03:32.090 --> 00:03:34.780
+<v Maya>but they’re not giving Zoox the same maintenance support.
+
+66
+00:03:35.280 --> 00:03:38.860
+<v Alex>So Uber keeps the muscle on the tech side and just drops the cars.
+
+67
+00:03:39.520 --> 00:03:41.860
+<v Maya>They’re planning to keep it local for now,
+
+68
+00:03:41.860 --> 00:03:46.580
+<v Maya>with a multi‑year tie at MGM Resorts to help with pickups and signage.
+
+69
+00:03:47.270 --> 00:03:51.480
+<v Alex>I think that’s just a clever way to get a handle on the customer experience.
+
+70
+00:03:52.160 --> 00:03:57.880
+<v Maya>The plan is to expand supply later and maybe add a dedicated autonomous option when
+
+71
+00:03:57.880 --> 00:03:59.240
+<v Maya>reliability improves.
+
+72
+00:04:00.000 --> 00:04:03.780
+<v Alex>Sounds like Uber is testing the waters before fully committing,
+
+73
+00:04:03.780 --> 00:04:05.560
+<v Alex>while Zoox gets a foot in the door.
+
+74
+00:04:06.060 --> 00:04:07.640
+<v Alex>One thousand robotaxis?
+
+75
+00:04:07.640 --> 00:04:08.000
+<v Alex>Seriously?
+
+76
+00:04:08.640 --> 00:04:13.630
+<v Maya>Nevada Transportation Authority approved Uber to deploy up to that many Zoox units
+
+77
+00:04:13.630 --> 00:04:14.680
+<v Maya>in Clark County.
+
+78
+00:04:14.772 --> 00:04:16.200
+<v Alex>No direct selection yet.
+
+79
+00:04:16.580 --> 00:04:20.680
+<v Maya>Customers can tweak ride preferences to bump odds of getting a Zoox.
+
+80
+00:04:20.680 --> 00:04:21.360
+<v Alex>Hidden mode?
+
+81
+00:04:21.760 --> 00:04:26.860
+<v Maya>Uber plans a dedicated autonomous option once reliability improves,
+
+82
+00:04:26.860 --> 00:04:27.900
+<v Maya>maybe later this year.
+
+83
+00:04:28.060 --> 00:04:28.780
+<v Alex>MGM signage?
+
+84
+00:04:29.310 --> 00:04:34.560
+<v Maya>MGM Resorts will manage pickup zones and signage for Zoox robotaxis in their
+
+85
+00:04:34.560 --> 00:04:34.960
+<v Maya>properties.
+
+86
+00:04:35.440 --> 00:04:39.940
+<v Maya>So Uber is basically letting Zoox ride on their platform without maintenance—kind
+
+87
+00:04:39.940 --> 00:04:40.700
+<v Maya>of a free ride?
+
+88
+00:04:41.100 --> 00:04:41.980
+<v Alex>It's a test run.
+
+89
+00:04:41.980 --> 00:04:44.600
+<v Alex>They’re not putting their tech in the driver's seat.
+
+90
+00:04:44.960 --> 00:04:49.640
+<v Maya>But they’re still signing a multi-year deal with MGM; that feels like a strategic
+
+91
+00:04:49.640 --> 00:04:50.160
+<v Maya>foothold.
+
+92
+00:04:50.700 --> 00:04:54.260
+<v Alex>Maybe they just want the brand buzz, not the engineering headaches.
+
+93
+00:04:54.920 --> 00:05:00.100
+<v Maya>I think the real win is for Uber to own more autonomous supply before Waymo drops
+
+94
+00:05:00.100 --> 00:05:00.480
+<v Maya>out.
+
+95
+00:05:01.020 --> 00:05:01.900
+<v Alex>I’m not convinced.
+
+96
+00:05:01.900 --> 00:05:05.260
+<v Alex>If reliability lags, customers will get frustrated.
+
+97
+00:05:06.190 --> 00:05:10.910
+<v Maya>Still, having a dedicated autonomous option eventually could tidy up the app.
+
+98
+00:05:11.750 --> 00:05:14.080
+<v Alex>It sounds like a cautious rollout,
+
+99
+00:05:14.080 --> 00:05:17.930
+<v Alex>but the lack of maintenance support makes me wonder how long they’ll stick around.
+
+100
+00:05:19.600 --> 00:05:22.840
+<v Alex>Maya, did you hear the latest from The Verge about Nvidia chips?
+
+101
+00:05:23.440 --> 00:05:24.760
+<v Maya>Yeah, she fired the secretary.
+
+102
+00:05:25.500 --> 00:05:28.100
+<v Alex>She claims national security was undermined.
+
+103
+00:05:28.820 --> 00:05:30.500
+<v Maya>Companies tied to China got chips.
+
+104
+00:05:30.740 --> 00:05:31.680
+<v Alex>No way, big claim.
+
+105
+00:05:32.500 --> 00:05:35.020
+<v Maya>Letter cites clear congressional authority ignored.
+
+106
+00:05:35.840 --> 00:05:37.300
+<v Alex>Is the secretary being accused?
+
+107
+00:05:37.730 --> 00:05:39.460
+<v Maya>Letter sent Sunday, says The Verge.
+
+108
+00:05:39.970 --> 00:05:41.960
+<v Alex>We’ll unpack its supply chain impact.
+
+109
+00:05:42.940 --> 00:05:44.320
+<v Maya>What’s the core of the letter’s claim?
+
+110
+00:05:44.710 --> 00:05:49.960
+<v Alex>It says the Commerce Department has let AI chips slip into China through firms that
+
+111
+00:05:49.960 --> 00:05:54.240
+<v Alex>have business ties there, and that’s a breach of congressional authority.
+
+112
+00:05:54.540 --> 00:05:54.980
+<v Maya>No way.
+
+113
+00:05:55.430 --> 00:05:59.820
+<v Alex>The letter specifically calls that a “national security” issue,
+
+114
+00:05:59.820 --> 00:06:04.720
+<v Alex>saying the flow of those chips “undermines America’s technology advantage.”
+
+115
+00:06:05.340 --> 00:06:06.870
+<v Maya>So the Secretary’s name is in it?
+
+116
+00:06:07.220 --> 00:06:11.800
+<v Alex>Yes, the letter is addressed to Secretary Howard Lutnick and accuses him of
+
+117
+00:06:11.800 --> 00:06:15.620
+<v Alex>neglecting the rules that are supposed to keep the chips out of China.
+
+118
+00:06:15.700 --> 00:06:16.780
+<v Maya>Any counter from the DOC?
+
+119
+00:06:17.340 --> 00:06:21.640
+<v Alex>No response yet, the article only reports the Senator’s accusations.
+
+120
+00:06:22.410 --> 00:06:26.420
+<v Alex>So basically the DOC just handed over some chips and shrugged.
+
+121
+00:06:26.930 --> 00:06:29.840
+<v Maya>The letter says they let them slip through firms tied to China.
+
+122
+00:06:29.840 --> 00:06:30.440
+<v Alex>No way.
+
+123
+00:06:30.900 --> 00:06:33.720
+<v Maya>The Senator thinks it's a national‑security hit,
+
+124
+00:06:33.720 --> 00:06:35.990
+<v Maya>but the DOC hasn't even responded yet.
+
+125
+00:06:36.480 --> 00:06:38.320
+<v Alex>If the rules are clear, why the delay?
+
+126
+00:06:38.720 --> 00:06:42.010
+<v Maya>The letter says Congress gave the DOC the authority,
+
+127
+00:06:42.010 --> 00:06:43.700
+<v Maya>so the Secretary’s in the hot seat.
+
+128
+00:06:44.500 --> 00:06:47.640
+<v Alex>Maybe it’s just a bureaucratic slip, not a chess move.
+
+129
+00:06:48.061 --> 00:06:52.140
+<v Maya>The point is, the Senator wants to see enforcement, not just paperwork.
+
+130
+00:06:53.910 --> 00:06:58.900
+<v Maya>A Vulcan rocket fell back after launch, taking 40 Amazon satellites with it.
+
+131
+00:06:58.960 --> 00:07:00.060
+<v Alex>That’s a pretty big hit.
+
+132
+00:07:00.460 --> 00:07:05.300
+<v Maya>The rocket was supposed to launch half of the US military's upcoming space missions.
+
+133
+00:07:05.400 --> 00:07:06.240
+<v Alex>Uh, so they’re grounded?
+
+134
+00:07:06.740 --> 00:07:09.760
+<v Maya>Yes, for an indefinite period, according to the report.
+
+135
+00:07:10.000 --> 00:07:11.220
+<v Alex>Sounds like a frequent fail.
+
+136
+00:07:11.820 --> 00:07:16.440
+<v Maya>It’s not the first close call; previous boosters had issues but the rocket still
+
+137
+00:07:16.440 --> 00:07:17.120
+<v Maya>reached orbit.
+
+138
+00:07:17.880 --> 00:07:19.920
+<v Alex>So they’ll review it before flying again.
+
+139
+00:07:20.490 --> 00:07:24.310
+<v Alex>How many of those Amazon satellites were in the payload, exactly?
+
+140
+00:07:24.640 --> 00:07:29.720
+<v Maya>Forty, all part of a 38-launch contract to roll out Amazon’s broadband
+
+141
+00:07:29.720 --> 00:07:30.600
+<v Maya>constellation.
+
+142
+00:07:31.180 --> 00:07:35.420
+<v Alex>So they’re still slated to launch the rest, or is the schedule on hold?
+
+143
+00:07:35.720 --> 00:07:40.140
+<v Maya>They’re on hold indefinitely; the failure triggers a full review before any flight.
+
+144
+00:07:40.225 --> 00:07:41.580
+<v Alex>That review takes how long?
+
+145
+00:07:41.850 --> 00:07:46.700
+<v Maya>Months, but it’s already started; ULA had two earlier booster issues and still
+
+146
+00:07:46.700 --> 00:07:48.500
+<v Maya>launched on schedule after fixes.
+
+147
+00:07:49.020 --> 00:07:52.520
+<v Alex>Did ULA say why they kept going after the booster hiccups?
+
+148
+00:07:52.840 --> 00:07:58.360
+<v Maya>They mentioned “review and corrective actions” but no exact timeline; the report
+
+149
+00:07:58.360 --> 00:08:00.200
+<v Maya>just says they’ll resume when ready.
+
+150
+00:08:00.740 --> 00:08:03.440
+<v Maya>That review could drag on, months, maybe longer.
+
+151
+00:08:04.340 --> 00:08:06.180
+<v Alex>Yeah, but ULA has bounced before.
+
+152
+00:08:06.670 --> 00:08:08.260
+<v Maya>What about the $40 satellites?
+
+153
+00:08:09.000 --> 00:08:12.040
+<v Alex>40 is just a number, but it's a 38‑launch deal.
+
+154
+00:08:12.460 --> 00:08:14.300
+<v Maya>So the whole constellation is on hold.
+
+155
+00:08:14.800 --> 00:08:16.560
+<v Alex>It sounds like a delay, not a halt.
+
+156
+00:08:17.060 --> 00:08:19.100
+<v Maya>The military’s payloads might wait, too.
+
+157
+00:08:19.540 --> 00:08:23.600
+<v Alex>I think the real issue is the engineering gap that keeps cropping up.
+
+158
+00:08:25.400 --> 00:08:30.840
+<v Alex>Musk, Replit, Epic and Y Combinator all signed a petition for Nvidia's CEO back.
+
+159
+00:08:31.340 --> 00:08:36.000
+<v Maya>They say Huang was removed without due process, and they want an independent probe.
+
+160
+00:08:36.180 --> 00:08:36.640
+<v Alex>No way.
+
+161
+00:08:37.070 --> 00:08:41.840
+<v Maya>Nvidia named CFO Colette Kress interim while they hunt a permanent replacement.
+
+162
+00:08:42.520 --> 00:08:45.160
+<v Maya>It sounds like a big fan club rallying for a CEO.
+
+163
+00:08:45.780 --> 00:08:48.620
+<v Alex>Hold on, is this just hype or genuine concern?
+
+164
+00:08:48.940 --> 00:08:53.560
+<v Maya>According to TechCrunch, the petition demands a fair investigation and more public
+
+165
+00:08:53.560 --> 00:08:54.060
+<v Maya>info.
+
+166
+00:08:54.500 --> 00:08:56.160
+<v Maya>What’s still unclear for our listeners?
+
+167
+00:08:56.520 --> 00:08:59.820
+<v Maya>Wait, did you say 5,965 employees?
+
+168
+00:09:00.500 --> 00:09:06.540
+<v Alex>Yeah, and 1,108 former staff plus 63,063 shareholders.
+
+169
+00:09:07.280 --> 00:09:09.100
+<v Maya>That’s a mix of insiders and investors.
+
+170
+00:09:09.720 --> 00:09:14.460
+<v Alex>The petition says Huang was ousted without proper due process and wants an
+
+171
+00:09:14.460 --> 00:09:15.540
+<v Alex>independent probe.
+
+172
+00:09:16.020 --> 00:09:17.640
+<v Maya>So the board’s move is under fire.
+
+173
+00:09:18.050 --> 00:09:22.490
+<v Alex>With CFO Colette Kress stepping in, the stock took a dip,
+
+174
+00:09:22.490 --> 00:09:25.420
+<v Alex>and people worry the AI funding gap will widen.
+
+175
+00:09:25.910 --> 00:09:31.110
+<v Alex>No way, a CEO rally for the board to reverse a decision that was already made.
+
+176
+00:09:31.620 --> 00:09:35.140
+<v Maya>It sounds like a campaign to pressure the board to bring him back while an
+
+177
+00:09:35.140 --> 00:09:36.440
+<v Maya>independent probe runs.
+
+178
+00:09:36.950 --> 00:09:42.190
+<v Alex>Hold on, the petition says due process was missing, but that’s a political angle,
+
+179
+00:09:42.190 --> 00:09:43.290
+<v Alex>not a technical one.
+
+180
+00:09:43.630 --> 00:09:47.770
+<v Maya>The board had to act on governance; they didn’t ignore due process,
+
+181
+00:09:47.770 --> 00:09:49.360
+<v Maya>they chose an interim CEO.
+
+182
+00:09:50.410 --> 00:09:57.270
+<v Alex>But the numbers—5,965 employees, 1,108 ex‑staff,
+
+183
+00:09:57.270 --> 00:10:02.060
+<v Alex>63,063 shareholders—show real internal support.
+
+184
+00:10:02.580 --> 00:10:06.320
+<v Maya>That mix shows the board faces pressure from inside and outside,
+
+185
+00:10:06.320 --> 00:10:07.320
+<v Maya>not just a fan club.
+
+186
+00:10:07.870 --> 00:10:13.220
+<v Alex>So my read is that this is more about optics and stakeholder confidence than actual
+
+187
+00:10:13.220 --> 00:10:14.200
+<v Alex>governance failure.
+
+188
+00:10:14.660 --> 00:10:17.800
+<v Maya>It is a sign that the board needs to explain its steps,
+
+189
+00:10:17.800 --> 00:10:21.350
+<v Maya>and the market will judge whether that transparency is enough.
+
+190
+00:10:23.160 --> 00:10:26.340
+<v Maya>Nvidia's CSO left August, CEO quits too.
+
+191
+00:10:26.890 --> 00:10:28.620
+<v Alex>Wait, two departures in a few months?
+
+192
+00:10:28.620 --> 00:10:29.200
+<v Alex>That's…
+
+193
+00:10:29.200 --> 00:10:29.640
+<v Alex>weird.
+
+194
+00:10:30.050 --> 00:10:32.400
+<v Maya>Reber said health reasons, Parkinson's.
+
+195
+00:10:32.400 --> 00:10:33.170
+<v Maya>He posted that.
+
+196
+00:10:33.590 --> 00:10:35.660
+<v Alex>Health reason, then CEO…
+
+197
+00:10:35.660 --> 00:10:36.580
+<v Alex>relationships now?
+
+198
+00:10:36.890 --> 00:10:40.160
+<v Maya>Huang linked to Megaspeed, and employee affairs.
+
+199
+00:10:40.160 --> 00:10:41.350
+<v Maya>TechCrunch cites reports.
+
+200
+00:10:42.280 --> 00:10:44.940
+<v Alex>Does the security team know about Megaspeed?
+
+201
+00:10:44.940 --> 00:10:45.440
+<v Alex>Unclear.
+
+202
+00:10:46.100 --> 00:10:49.840
+<v Maya>Security teams often underfunded, says ex‑intelligence officer.
+
+203
+00:10:50.760 --> 00:10:52.930
+<v Alex>Yeah, that means they might miss everyday leaks.
+
+204
+00:10:53.640 --> 00:10:56.840
+<v Alex>What’s the real scoop on the new CSO, Saša Zdjelar?
+
+205
+00:10:57.300 --> 00:11:02.560
+<v Maya>He’s a former ExxonMobil senior IT manager, moved to Salesforce,
+
+206
+00:11:02.560 --> 00:11:07.240
+<v Maya>then ReversingLabs before Nvidia, but no word on his security briefings.
+
+207
+00:11:07.920 --> 00:11:10.200
+<v Alex>So no link to Megaspeed or Huang’s affairs?
+
+208
+00:11:10.780 --> 00:11:12.100
+<v Maya>None surfaced.
+
+209
+00:11:12.100 --> 00:11:15.720
+<v Maya>The only public note is that the lawyer was in talks with the government over
+
+210
+00:11:15.720 --> 00:11:17.120
+<v Maya>Megaspeed a year ago.
+
+211
+00:11:17.200 --> 00:11:18.440
+<v Alex>Lawyer talks, not security?
+
+212
+00:11:18.980 --> 00:11:19.930
+<v Maya>Exactly.
+
+213
+00:11:19.930 --> 00:11:24.100
+<v Maya>The security team’s remit is narrow, and they get flagged as “compliance” only.
+
+214
+00:11:24.640 --> 00:11:27.160
+<v Alex>That paint a picture of a bubble‑filled org chart.
+
+215
+00:11:27.550 --> 00:11:30.720
+<v Maya>And the ex‑intelligence officer said they’re underfunded,
+
+216
+00:11:30.720 --> 00:11:32.460
+<v Maya>so low‑level chatter slips by.
+
+217
+00:11:32.970 --> 00:11:35.360
+<v Alex>So the leaks that happen every day just slip through?
+
+218
+00:11:35.680 --> 00:11:40.880
+<v Maya>It sounds like Nvidia just completely dropped the ball on security, honestly.
+
+219
+00:11:40.880 --> 00:11:44.540
+<v Maya>A lawyer talking to the government, but not the security team?
+
+220
+00:11:44.540 --> 00:11:45.430
+<v Maya>That’s…
+
+221
+00:11:45.430 --> 00:11:45.900
+<v Maya>concerning.
+
+222
+00:11:46.590 --> 00:11:47.920
+<v Alex>Hold on, though.
+
+223
+00:11:47.920 --> 00:11:50.120
+<v Alex>It's not necessarily a dropped ball.
+
+224
+00:11:50.120 --> 00:11:54.310
+<v Alex>Maybe the lawyer’s involvement was standard procedure,
+
+225
+00:11:54.310 --> 00:11:58.260
+<v Alex>and that's what they meant when they said they regularly contact officials.
+
+226
+00:11:58.840 --> 00:12:03.000
+<v Maya>Since when does “regular contact” with the government cover up personal
+
+227
+00:12:03.000 --> 00:12:05.320
+<v Maya>relationships and potential chip smuggling?
+
+228
+00:12:05.760 --> 00:12:08.330
+<v Maya>But if they should have been, Alex, that’s the problem.
+
+229
+00:12:08.330 --> 00:12:10.840
+<v Maya>Underfunded, narrowly focused…
+
+230
+00:12:10.840 --> 00:12:12.680
+<v Maya>that’s a recipe for missing the obvious.
+
+231
+00:12:13.280 --> 00:12:13.960
+<v Alex>Maybe.
+
+232
+00:12:13.960 --> 00:12:17.950
+<v Alex>But it’s also easy to armchair quarterback from the outside.
+
+233
+00:12:17.950 --> 00:12:22.980
+<v Alex>It’s a huge company, with complex layers of reporting and information flow—things
+
+234
+00:12:22.980 --> 00:12:23.720
+<v Alex>slip through.
+
+235
+00:12:24.180 --> 00:12:25.290
+<v Maya>I suppose.
+
+236
+00:12:25.290 --> 00:12:28.100
+<v Maya>But the optics are terrible, regardless.
+
+237
+00:12:28.100 --> 00:12:31.280
+<v Maya>Two key departures, linked to serious issues…
+
+238
+00:12:31.280 --> 00:12:33.360
+<v Maya>it doesn't reflect well on the board’s oversight.
+
+239
+00:12:33.950 --> 00:12:39.030
+<v Alex>It paints a picture of a company prioritizing growth over everything else,
+
+240
+00:12:39.030 --> 00:12:43.400
+<v Alex>and that’s a pattern you see in a lot of tech—it’s a fragile foundation.
+
+241
+00:12:45.040 --> 00:12:46.440
+<v Alex>The biggest shock?
+
+242
+00:12:46.440 --> 00:12:50.380
+<v Alex>42% of AI projects get abandoned by their own parents.
+
+243
+00:12:50.380 --> 00:12:51.720
+<v Maya>TechCrunch says that figure.
+
+244
+00:12:52.680 --> 00:12:53.500
+<v Alex>42 percent?
+
+245
+00:12:53.500 --> 00:12:55.040
+<v Alex>That’s a lot of dead weight.
+
+246
+00:12:55.110 --> 00:12:55.720
+<v Maya>Makes sense.
+
+247
+00:12:56.500 --> 00:12:58.380
+<v Alex>What’s the most headline‑grabbing exit?
+
+248
+00:12:59.100 --> 00:13:03.120
+<v Maya>Character.ai went bankrupt, and Ollie shut down citing competition.
+
+249
+00:13:03.660 --> 00:13:05.720
+<v Alex>And OpenAI’s “super app” attempt?
+
+250
+00:13:06.130 --> 00:13:10.480
+<v Maya>They rolled back a cluttered redesign and folded features into ChatGPT,
+
+251
+00:13:10.480 --> 00:13:12.120
+<v Maya>but still lost Sora.
+
+252
+00:13:12.580 --> 00:13:14.180
+<v Maya>So what about the Apple delays, Alex?
+
+253
+00:13:14.620 --> 00:13:18.500
+<v Alex>They kept pushing Siri back because of bugs and engineering issues.
+
+254
+00:13:18.570 --> 00:13:19.300
+<v Maya>That’s the usual.
+
+255
+00:13:19.880 --> 00:13:25.380
+<v Alex>Yeah, and the $250 million settlement came after the iPhone 16 launch.
+
+256
+00:13:25.600 --> 00:13:25.970
+<v Maya>Oh?
+
+257
+00:13:25.970 --> 00:13:26.760
+<v Maya>What did Apple say?
+
+258
+00:13:27.120 --> 00:13:30.750
+<v Alex>They blamed the delay on technical hurdles, a typical excuse.
+
+259
+00:13:31.660 --> 00:13:33.660
+<v Maya>And Sora—why did it fail so fast?
+
+260
+00:13:34.160 --> 00:13:36.240
+<v Alex>High operating costs and low retention.
+
+261
+00:13:36.770 --> 00:13:38.530
+<v Maya>It shows the market’s harsh test.
+
+262
+00:13:39.320 --> 00:13:41.080
+<v Alex>Character.ai and Ollie—both shut down.
+
+263
+00:13:41.130 --> 00:13:42.000
+<v Maya>They couldn't keep up.
+
+264
+00:13:42.120 --> 00:13:43.420
+<v Alex>OpenAI's super app?
+
+265
+00:13:43.780 --> 00:13:47.500
+<v Maya>They folded it back into ChatGPT, but Sora died fast.
+
+266
+00:13:48.000 --> 00:13:52.740
+<v Alex>Apple keeps delaying Siri, then a $250 million settlement.
+
+267
+00:13:53.260 --> 00:13:57.200
+<v Maya>So the lesson is that hype alone won’t survive without solid demand.
+
+268
+00:13:58.830 --> 00:14:01.420
+<v Maya>Alex, Nvidia's CEO spot—what's the buzz?
+
+269
+00:14:01.860 --> 00:14:03.780
+<v Alex>Nvidia’s hiring, yeah.
+
+270
+00:14:03.780 --> 00:14:04.980
+<v Alex>They’re looking for a new head.
+
+271
+00:14:05.460 --> 00:14:07.040
+<v Maya>It’s not just a tech shift.
+
+272
+00:14:07.040 --> 00:14:08.100
+<v Maya>The market is watching.
+
+273
+00:14:08.690 --> 00:14:10.080
+<v Alex>Hold on, what about the numbers?
+
+274
+00:14:10.700 --> 00:14:15.780
+<v Maya>Anthropic is eyeing a $1.4 trillion IPO, but that’s a side note.
+
+275
+00:14:16.330 --> 00:14:20.400
+<v Alex>So they’re hiring while another AI firm is planning a huge IPO?
+
+276
+00:14:20.640 --> 00:14:21.660
+<v Maya>The timing feels tight.
+
+277
+00:14:22.230 --> 00:14:25.150
+<v Alex>I think it’s a signal that the AI race is heating up.
+
+278
+00:14:25.460 --> 00:14:26.660
+<v Alex>Wait, who exactly’s filing?
+
+279
+00:14:27.000 --> 00:14:27.580
+<v Alex>And the numbers?
+
+280
+00:14:28.120 --> 00:14:35.040
+<v Maya>They’re targeting 825 million Class A shares, priced $70‑$78 each,
+
+281
+00:14:35.040 --> 00:14:37.300
+<v Maya>aiming for $64.3 billion.
+
+282
+00:14:37.800 --> 00:14:38.640
+<v Alex>That’s a big leap.
+
+283
+00:14:39.140 --> 00:14:42.620
+<v Maya>They also project a valuation up to $1.4 trillion.
+
+284
+00:14:43.240 --> 00:14:44.820
+<v Alex>So the IPO is a big deal.
+
+285
+00:14:45.600 --> 00:14:50.040
+<v Maya>Plus, the White House meeting with Speaker Johnson had tech execs on the table.
+
+286
+00:14:50.600 --> 00:14:52.680
+<v Maya>This feels like a chess move, not a scramble.
+
+287
+00:14:53.260 --> 00:14:58.020
+<v Alex>Hold on, what’s the point of a CEO hunt when the market’s already eyeing a
+
+288
+00:14:58.020 --> 00:14:59.360
+<v Alex>trillion‑dollar IPO?
+
+289
+00:15:00.020 --> 00:15:04.580
+<v Maya>I think it signals confidence in AI revenue streams; the timing is just a
+
+290
+00:15:04.580 --> 00:15:05.000
+<v Maya>coincidence.
+
+291
+00:15:05.710 --> 00:15:09.320
+<v Alex>I don't buy that; the timing suggests a tug‑of‑war for talent.
+
+292
+00:15:09.770 --> 00:15:13.450
+<v Maya>The White House meeting shows regulators want to stay ahead,
+
+293
+00:15:13.450 --> 00:15:16.080
+<v Maya>so Nvidia’s leadership change could smooth that.
+
+294
+00:15:16.567 --> 00:15:20.340
+<v Alex>But if Anthropic is pulling $64 billion,
+
+295
+00:15:20.340 --> 00:15:23.180
+<v Alex>Nvidia’s new CEO might just be a placeholder.
+
+296
+00:15:23.880 --> 00:15:28.580
+<v Maya>It could be a strategic hedge; keeping Nvidia stable while the IPO plays out.
+
+297
+00:15:29.140 --> 00:15:33.860
+<v Alex>In short, it’s a sign that the AI race isn’t just tech, it’s a market sprint.
+
+298
+00:15:35.540 --> 00:15:38.530
+<v Alex>You're listening to First Tick, from Bits and Tickers.
+
+299
+00:15:38.530 --> 00:15:40.270
+<v Alex>That's about the halfway mark.
+
+300
+00:15:40.270 --> 00:15:41.040
+<v Alex>Still to come.
+
+301
+00:15:41.040 --> 00:15:44.980
+<v Alex>AI debt surges, IMF warns.
+
+302
+00:15:44.980 --> 00:15:48.280
+<v Alex>Nvidia earnings, a succession drama, and China.
+
+303
+00:15:48.280 --> 00:15:51.540
+<v Alex>And Uber picks up Amazon’s driverless cars in Vegas.
+
+304
+00:15:52.080 --> 00:15:55.340
+<v Maya>And if you just joined us, I'm Maya, that's Alex,
+
+305
+00:15:55.340 --> 00:15:57.480
+<v Maya>and every story is linked in the show notes.
+
+306
+00:15:59.090 --> 00:16:03.950
+<v Alex>IMF says the AI market is basically a debt‑backed one‑legged stand.
+
+307
+00:16:04.400 --> 00:16:08.260
+<v Maya>It’s $1 trillion, two‑thirds debt, according to CNBC.
+
+308
+00:16:08.652 --> 00:16:09.280
+<v Alex>That fast?
+
+309
+00:16:09.720 --> 00:16:11.270
+<v Maya>Who’s pulling the strings on that debt?
+
+310
+00:16:11.470 --> 00:16:16.420
+<v Alex>Investors keep buying AI companies, then sell back through orders, making a loop.
+
+311
+00:16:17.120 --> 00:16:22.310
+<v Maya>And the risk is that a sudden pullback could knock $50 billion out, UBS notes.
+
+312
+00:16:22.620 --> 00:16:27.020
+<v Alex>If rates climb and borrowing costs rise, that loop could tighten quickly.
+
+313
+00:16:27.830 --> 00:16:31.260
+<v Maya>So the market could wobble if confidence dips, IMF warns.
+
+314
+00:16:31.903 --> 00:16:35.780
+<v Maya>What exactly do you mean by “circular financing” in the AI space?
+
+315
+00:16:36.140 --> 00:16:41.240
+<v Alex>It’s when money poured into an AI firm ends up flowing back when that firm places
+
+316
+00:16:41.240 --> 00:16:46.680
+<v Alex>orders with suppliers—so the investor’s cash circles back through the supply chain.
+
+317
+00:16:47.230 --> 00:16:49.660
+<v Maya>So it’s not a straight line of funding, it loops back?
+
+318
+00:16:50.030 --> 00:16:53.920
+<v Alex>And the IMF says that whole loop now totals just over $1 trillion.
+
+319
+00:16:54.850 --> 00:16:57.960
+<v Maya>Two‑thirds of that is debt—do we know why it’s so leveraged?
+
+320
+00:16:58.400 --> 00:17:03.800
+<v Alex>Investors are chasing quick returns; debt lets them amplify exposure without
+
+321
+00:17:03.800 --> 00:17:05.670
+<v Alex>putting more equity on the table.
+
+322
+00:17:06.120 --> 00:17:08.090
+<v Maya>But who’s the main debt‑lender in this loop?
+
+323
+00:17:08.380 --> 00:17:14.200
+<v Alex>The article points to Nvidia’s financing pullback as a big threat—UBS estimates a
+
+324
+00:17:14.200 --> 00:17:17.230
+<v Alex>$50 billion hit if Nvidia pulls back.
+
+325
+00:17:17.880 --> 00:17:22.680
+<v Alex>I think the debt loop is a fragile trampoline; one misstep and the whole thing
+
+326
+00:17:22.680 --> 00:17:23.960
+<v Alex>could bounce out of shape.
+
+327
+00:17:24.760 --> 00:17:28.210
+<v Maya>Yeah, but the IMF says it’s “orderly” right now,
+
+328
+00:17:28.210 --> 00:17:30.730
+<v Maya>so maybe it’s just a shaky platform that’s holding up.
+
+329
+00:17:31.270 --> 00:17:35.180
+<v Alex>The loop’s already over a trillion—more than a typical startup round.
+
+330
+00:17:35.630 --> 00:17:38.220
+<v Maya>It’s debt‑heavy, so if the interest rates climb,
+
+331
+00:17:38.220 --> 00:17:41.000
+<v Maya>the cost of keeping that loop alive spikes.
+
+332
+00:17:41.540 --> 00:17:45.060
+<v Alex>So the pullback from Nvidia could yank $50 billion?
+
+333
+00:17:45.060 --> 00:17:47.230
+<v Alex>That’s a lot of debt suddenly gone.
+
+334
+00:17:47.660 --> 00:17:52.160
+<v Maya>My read is that the market is watching the AI leg; if confidence dips,
+
+335
+00:17:52.160 --> 00:17:54.130
+<v Maya>the whole supply chain feels it.
+
+336
+00:17:54.480 --> 00:17:59.680
+<v Alex>It’s like building a house on a single beam; if one bolt loosens, the roof tilts.
+
+337
+00:18:00.030 --> 00:18:03.880
+<v Maya>So the takeaway is, keep an eye on the debt load—if it wobbles,
+
+338
+00:18:03.880 --> 00:18:05.570
+<v Maya>the whole economy might feel the shake.
+
+339
+00:18:07.260 --> 00:18:11.580
+<v Maya>This earnings report caught my eye because it’s the first one since Jensen Huang
+
+340
+00:18:11.580 --> 00:18:13.940
+<v Maya>stepped down, according to CNBC.
+
+341
+00:18:14.380 --> 00:18:15.020
+<v Alex>Stepped down?
+
+342
+00:18:15.540 --> 00:18:17.870
+<v Maya>Yeah, he resigned last Thursday,
+
+343
+00:18:17.870 --> 00:18:21.800
+<v Maya>and Colette Kress is now interim CEO while they look for a replacement.
+
+344
+00:18:22.060 --> 00:18:22.860
+<v Alex>Okay, that's new.
+
+345
+00:18:23.410 --> 00:18:25.760
+<v Maya>They're expecting significant growth,
+
+346
+00:18:25.760 --> 00:18:31.280
+<v Maya>still – 91% revenue growth is the current estimate – but the real questions are
+
+347
+00:18:31.280 --> 00:18:35.840
+<v Maya>about China, deals with cloud providers, and what the future looks like.
+
+348
+00:18:36.280 --> 00:18:37.580
+<v Alex>The stock’s been tanking, huh?
+
+349
+00:18:38.000 --> 00:18:42.900
+<v Maya>Six weeks straight, the longest losing streak since 2012.
+
+350
+00:18:42.900 --> 00:18:47.110
+<v Maya>Nvidia’s pushing back on some of the concerns about their China sales,
+
+351
+00:18:47.110 --> 00:18:49.460
+<v Maya>saying they haven't been contacted by the government.
+
+352
+00:18:49.920 --> 00:18:51.900
+<v Alex>Hold on, what’s the story with Megaspeed?
+
+353
+00:18:52.320 --> 00:18:57.540
+<v Maya>Apparently, there are claims about Huang's connections to a Megaspeed executive and
+
+354
+00:18:57.540 --> 00:18:59.880
+<v Maya>potential diversion of chips.
+
+355
+00:18:59.880 --> 00:19:01.940
+<v Maya>They're doing an internal investigation.
+
+356
+00:19:02.550 --> 00:19:04.220
+<v Alex>What about the China sales claims?
+
+357
+00:19:04.660 --> 00:19:11.460
+<v Maya>They say 20% of 2026 compute revenue was driven by China, per a short‑seller note.
+
+358
+00:19:12.320 --> 00:19:13.530
+<v Alex>So the numbers are in the mix.
+
+359
+00:19:14.140 --> 00:19:18.580
+<v Maya>The company denies any diversion, saying no evidence of illegal activity.
+
+360
+00:19:18.580 --> 00:19:19.660
+<v Alex>And the Megaspeed probe?
+
+361
+00:19:20.160 --> 00:19:25.180
+<v Maya>Megaspeed says it's doing a full internal review; the exec linked to Alice Huang
+
+362
+00:19:25.180 --> 00:19:27.220
+<v Maya>left in 2025.
+
+363
+00:19:27.460 --> 00:19:28.420
+<v Alex>That’s a tight timeline.
+
+364
+00:19:28.940 --> 00:19:33.220
+<v Maya>Kress has to walk that tightrope while answering the board’s questions on supply
+
+365
+00:19:33.220 --> 00:19:34.800
+<v Maya>constraints and future growth.
+
+366
+00:19:35.220 --> 00:19:39.720
+<v Maya>I think it’s pretty clear that the market isn’t buying the denials about China.
+
+367
+00:19:39.720 --> 00:19:42.320
+<v Maya>Six weeks of losses is a reaction, Alex.
+
+368
+00:19:43.000 --> 00:19:43.540
+<v Alex>It is.
+
+369
+00:19:43.540 --> 00:19:48.600
+<v Alex>But the stock dropping doesn't automatically mean they’re guilty of anything.
+
+370
+00:19:48.600 --> 00:19:50.280
+<v Alex>It just means people are nervous.
+
+371
+00:19:50.940 --> 00:19:55.480
+<v Maya>Nervous enough to wipe out $1.7 trillion in market cap.
+
+372
+00:19:55.480 --> 00:19:56.640
+<v Maya>That’s a lot of nervousness.
+
+373
+00:19:57.110 --> 00:19:59.700
+<v Alex>Still, the Megaspeed investigation…
+
+374
+00:19:59.700 --> 00:20:01.420
+<v Alex>that’s the interesting part, I think.
+
+375
+00:20:01.980 --> 00:20:02.640
+<v Maya>Really?
+
+376
+00:20:02.640 --> 00:20:06.960
+<v Maya>I’m more concerned about the potential revenue impact if those China sales were
+
+377
+00:20:06.960 --> 00:20:07.400
+<v Maya>diverted.
+
+378
+00:20:07.960 --> 00:20:10.240
+<v Alex>Diversion is a big claim.
+
+379
+00:20:10.240 --> 00:20:14.340
+<v Alex>And frankly, it sounds like Megaspeed is trying to look proactive,
+
+380
+00:20:14.340 --> 00:20:16.200
+<v Alex>even if they’re just scrambling now.
+
+381
+00:20:16.990 --> 00:20:21.660
+<v Maya>But Kress has a tough job ahead of her - she needs to reassure everyone and somehow
+
+382
+00:20:21.660 --> 00:20:25.700
+<v Maya>steer growth projections forward, all while navigating this mess.
+
+383
+00:20:26.020 --> 00:20:29.910
+<v Alex>It seems like they’re building a narrative around compliance,
+
+384
+00:20:29.910 --> 00:20:34.340
+<v Alex>but I suspect the underlying questions about their distribution network aren’t
+
+385
+00:20:34.340 --> 00:20:36.280
+<v Alex>going away anytime soon.
+
+386
+00:20:37.940 --> 00:20:41.000
+<v Alex>Uber’s now handing us Zoox rides, no extra cost.
+
+387
+00:20:41.500 --> 00:20:42.540
+<v Maya>That’s from the Verge, right?
+
+388
+00:20:42.990 --> 00:20:45.460
+<v Alex>Yeah, they’re opening their fleet to a third‑party app.
+
+389
+00:20:46.040 --> 00:20:49.000
+<v Maya>Uber’s still partnering with Waymo, but Zoox is new.
+
+390
+00:20:49.400 --> 00:20:52.070
+<v Alex>They’re only covering Strip, downtown, Arts District.
+
+391
+00:20:52.650 --> 00:20:54.720
+<v Maya>Makes sense, those are tourist hotspots.
+
+392
+00:20:55.480 --> 00:20:58.280
+<v Alex>Zoox keeps its own app too—won’t it split the market?
+
+393
+00:20:58.720 --> 00:21:02.540
+<v Maya>They’re also tweaking pickup zones with MGM to avoid chaos.
+
+394
+00:21:03.260 --> 00:21:05.140
+<v Maya>What’s the deal with the MGM partnership?
+
+395
+00:21:05.730 --> 00:21:11.160
+<v Alex>They’re putting in custom wayfinding signs and app prompts so the pods can actually
+
+396
+00:21:11.160 --> 00:21:14.340
+<v Alex>pick people up at the Bellagio and MGM Grand.
+
+397
+00:21:14.550 --> 00:21:15.160
+<v Maya>That sounds…
+
+398
+00:21:15.160 --> 00:21:16.000
+<v Maya>complicated.
+
+399
+00:21:16.560 --> 00:21:19.700
+<v Alex>The resorts are turning into a maze of valets, tour buses,
+
+400
+00:21:19.700 --> 00:21:22.550
+<v Alex>and tourists—hard for an AI to parse.
+
+401
+00:21:23.140 --> 00:21:24.990
+<v Maya>And they’re still keeping Zoox’s own app?
+
+402
+00:21:25.360 --> 00:21:29.380
+<v Alex>They’re not abandoning it; they’ll run the pods both through Uber and their
+
+403
+00:21:29.380 --> 00:21:30.540
+<v Alex>standalone platform.
+
+404
+00:21:30.700 --> 00:21:31.820
+<v Maya>So future LA launch?
+
+405
+00:21:32.300 --> 00:21:38.780
+<v Alex>Zoox plans to debut in Los Angeles by the end of 2026 with Uber integration
+
+406
+00:21:38.780 --> 00:21:41.180
+<v Alex>following in 2027.
+
+407
+00:21:41.610 --> 00:21:45.290
+<v Alex>That partnership feels like a safety net for Uber's brand,
+
+408
+00:21:45.290 --> 00:21:48.180
+<v Alex>but it also means more layers of tech we have to trust.
+
+409
+00:21:48.560 --> 00:21:52.900
+<v Maya>But the fact that Zoox keeps its own app shows they’re not fully committed to
+
+410
+00:21:52.900 --> 00:21:53.840
+<v Maya>Uber’s ecosystem.
+
+411
+00:21:54.540 --> 00:21:57.100
+<v Alex>Makes sense that they want to keep their own fan base.
+
+412
+00:21:57.750 --> 00:22:00.630
+<v Maya>So, Uber is just a conduit now, not the builder.
+
+413
+00:22:01.600 --> 00:22:05.980
+<v Alex>Exactly—Uber’s platform is becoming the playground for anyone who can drive a car.
+
+414
+00:22:06.510 --> 00:22:11.090
+<v Maya>Hold on, that could dilute the market; if Zoox can pull riders off Uber,
+
+415
+00:22:11.090 --> 00:22:12.540
+<v Maya>the partnership might backfire.
+
+416
+00:22:13.000 --> 00:22:17.800
+<v Alex>I think the MGM tweaks are clever—clear signage and app prompts could actually
+
+417
+00:22:17.800 --> 00:22:18.660
+<v Alex>reduce chaos.
+
+418
+00:22:19.720 --> 00:22:22.610
+<v Maya>It sounds like a partnership that could smooth the ride,
+
+419
+00:22:22.610 --> 00:22:24.360
+<v Maya>but only if the tech adapts quickly.
+
+420
+00:22:26.040 --> 00:22:28.420
+<v Maya>Apparently, Jensen Huang stepped down.
+
+421
+00:22:28.420 --> 00:22:29.480
+<v Maya>That's the biggest thing, right?
+
+422
+00:22:29.480 --> 00:22:29.940
+<v Alex>Huh.
+
+423
+00:22:29.940 --> 00:22:30.740
+<v Alex>Didn’t see that coming.
+
+424
+00:22:35.450 --> 00:22:36.260
+<v Maya>The news broke Friday and the stock is still dropping, down almost 4% now,
+
+425
+00:22:36.260 --> 00:22:37.840
+<v Maya>according to CNBC.
+
+426
+00:22:38.280 --> 00:22:39.710
+<v Alex>A petition to reinstate him?
+
+427
+00:22:40.000 --> 00:22:42.840
+<v Maya>It already has over 170,000 signatures.
+
+428
+00:22:43.580 --> 00:22:45.420
+<v Alex>Hold on, what’s the reason he resigned?
+
+429
+00:22:45.880 --> 00:22:50.260
+<v Maya>It was reported he had romantic relationships with employees.
+
+430
+00:22:50.260 --> 00:22:51.580
+<v Maya>Nvidia hasn’t commented.
+
+431
+00:22:52.110 --> 00:22:56.040
+<v Alex>And now Treasury Secretary Bessent wants a “dramatic shakeup” too?
+
+432
+00:22:56.400 --> 00:22:58.680
+<v Alex>What’s the next thing people’re still hanging on to?
+
+433
+00:22:59.080 --> 00:23:03.060
+<v Maya>Colette Kress, the finance chief, stepped in as interim CEO,
+
+434
+00:23:03.060 --> 00:23:08.540
+<v Maya>and the board said they’re weighing both inside and outside candidates—so it’s not
+
+435
+00:23:08.540 --> 00:23:10.230
+<v Maya>just a quick fix.
+
+436
+00:23:10.230 --> 00:23:14.820
+<v Maya>The Treasury Secretary called for a “dramatic shakeup” and even said other Nvidia
+
+437
+00:23:14.820 --> 00:23:18.260
+<v Maya>executives should be examined for export‑control compliance.
+
+438
+00:23:18.420 --> 00:23:19.360
+<v Alex>That’s a lot of drama.
+
+439
+00:23:19.890 --> 00:23:23.200
+<v Maya>The petition got over 170,000 signatures,
+
+440
+00:23:23.200 --> 00:23:26.540
+<v Maya>and tech leaders like Elon Musk joined the chorus,
+
+441
+00:23:26.540 --> 00:23:29.560
+<v Maya>which shows the rally isn’t just a fringe thing.
+
+442
+00:23:30.420 --> 00:23:31.840
+<v Alex>So the market’s feeling the heat?
+
+443
+00:23:32.160 --> 00:23:32.880
+<v Alex>Wow, that’s a hit.
+
+444
+00:23:33.780 --> 00:23:38.340
+<v Maya>It’s a sign the board’s in a tough spot; the next CEO choice will shape whether
+
+445
+00:23:38.340 --> 00:23:39.980
+<v Maya>investors stay or pull back.
+
+446
+00:23:40.560 --> 00:23:43.060
+<v Maya>I think the petition is a telling sign.
+
+447
+00:23:43.060 --> 00:23:47.840
+<v Maya>It shows how much people tied Nvidia’s success to Huang, and now they’re panicking.
+
+448
+00:23:48.380 --> 00:23:49.460
+<v Alex>That's wild.
+
+449
+00:23:49.460 --> 00:23:51.900
+<v Alex>People really latch on to personalities, don't they?
+
+450
+00:23:52.230 --> 00:23:54.160
+<v Maya>It’s more than just personality, Alex.
+
+451
+00:23:54.160 --> 00:23:57.250
+<v Maya>It's about stability and a track record.
+
+452
+00:23:57.250 --> 00:24:00.100
+<v Maya>The board is in a really awkward position now,
+
+453
+00:24:00.100 --> 00:24:02.520
+<v Maya>needing to find someone who can reassure the market.
+
+454
+00:24:03.040 --> 00:24:05.860
+<v Alex>Maybe the petition is just performative.
+
+455
+00:24:05.860 --> 00:24:08.770
+<v Alex>People online say a lot of things, right?
+
+456
+00:24:08.770 --> 00:24:12.560
+<v Alex>It doesn’t necessarily reflect what actual investors are doing.
+
+457
+00:24:13.140 --> 00:24:16.520
+<v Maya>Maybe, but the stock drop itself is undeniable.
+
+458
+00:24:16.520 --> 00:24:20.040
+<v Maya>That’s a tangible reaction, and it’s got to be worrying for the board.
+
+459
+00:24:20.590 --> 00:24:25.780
+<v Alex>I think Bessent’s call for a "dramatic shakeup" is the most interesting part.
+
+460
+00:24:25.780 --> 00:24:29.920
+<v Alex>That’s not something you hear every day, particularly someone in his position.
+
+461
+00:24:30.300 --> 00:24:34.500
+<v Maya>It’s a clear indication that they need to be looking outside the company,
+
+462
+00:24:34.500 --> 00:24:37.980
+<v Maya>which suggests they don't see an obvious internal candidate.
+
+463
+00:24:38.520 --> 00:24:42.600
+<v Alex>Ultimately, Nvidia built its reputation on execution,
+
+464
+00:24:42.600 --> 00:24:46.720
+<v Alex>and they need someone who can continue that, regardless of who’s leading.
+
+465
+00:24:48.310 --> 00:24:50.810
+<v Alex>Maya, have you heard the Vulcan launch fizzled out?
+
+466
+00:24:51.280 --> 00:24:53.900
+<v Maya>Yeah, 10 minutes in, it stalled and fell apart.
+
+467
+00:24:54.120 --> 00:24:55.220
+<v Alex>So it never reached orbit?
+
+468
+00:24:55.670 --> 00:24:58.760
+<v Maya>Exactly, 40 Amazon Leo satellites were lost.
+
+469
+00:24:59.360 --> 00:25:01.920
+<v Alex>That’s the first failure in ULA’s 20‑year run.
+
+470
+00:25:02.360 --> 00:25:05.600
+<v Maya>ULA said the cause is still unclear, but they’ll investigate.
+
+471
+00:25:05.820 --> 00:25:07.020
+<v Alex>Amazon’s still confident.
+
+472
+00:25:07.522 --> 00:25:10.760
+<v Maya>They posted on X that risk is normal, and they trust ULA.
+
+473
+00:25:11.220 --> 00:25:14.680
+<v Maya>I wonder, for those who are still wrapping their heads around this,
+
+474
+00:25:14.680 --> 00:25:17.100
+<v Maya>what exactly is an ‘anomaly’ in this context?
+
+475
+00:25:17.420 --> 00:25:21.040
+<v Alex>Apparently, it's what ULA is calling it for now.
+
+476
+00:25:21.040 --> 00:25:23.210
+<v Alex>They haven't pinpointed the root cause,
+
+477
+00:25:23.210 --> 00:25:27.920
+<v Alex>but it happened about ten minutes after launch, from Space Launch Complex 41.
+
+478
+00:25:28.560 --> 00:25:29.060
+<v Maya>Right.
+
+479
+00:25:29.060 --> 00:25:32.000
+<v Maya>And Amazon bought 38 more of these launches, didn’t they?
+
+480
+00:25:32.220 --> 00:25:32.400
+<v Maya>Huh.
+
+481
+00:25:32.900 --> 00:25:34.720
+<v Alex>They’re putting a brave face on it,
+
+482
+00:25:34.720 --> 00:25:38.070
+<v Alex>saying it’s part of the risk with inaugural missions.
+
+483
+00:25:38.070 --> 00:25:40.440
+<v Alex>It sounds like they’re trying to reassure investors.
+
+484
+00:25:41.180 --> 00:25:42.000
+<v Maya>I see.
+
+485
+00:25:42.000 --> 00:25:45.720
+<v Maya>So, just to be clear, the statement came from ULA’s X account?
+
+486
+00:25:46.020 --> 00:25:49.240
+<v Alex>Yep, and they say they’ll be transparent with their investigation.
+
+487
+00:25:49.910 --> 00:25:54.780
+<v Alex>So ULA lost all 40 Leo sats—first failure in two decades, huh?
+
+488
+00:25:54.820 --> 00:25:55.380
+<v Maya>A clean wipe.
+
+489
+00:25:55.540 --> 00:25:57.400
+<v Alex>Amazon still buying 38 more?
+
+490
+00:25:57.740 --> 00:25:59.120
+<v Maya>They’re betting on learning from this.
+
+491
+00:25:59.700 --> 00:26:01.930
+<v Alex>I think it shows a bigger risk for any launch.
+
+492
+00:26:02.830 --> 00:26:05.320
+<v Maya>And that’s exactly why they’re saying risk is normal.
+
+493
+00:26:05.900 --> 00:26:09.140
+<v Alex>But if the anomaly’s unclear, how can they promise success?
+
+494
+00:26:09.660 --> 00:26:12.970
+<v Maya>My read is that they’re just keeping investors calm while they dig in.
+
+495
+00:26:14.480 --> 00:26:19.160
+<v Maya>Apparently, there's a movement to reinstate Jensen Huang as Nvidia’s CEO.
+
+496
+00:26:19.480 --> 00:26:19.760
+<v Alex>Seriously?
+
+497
+00:26:20.350 --> 00:26:26.230
+<v Maya>According to CNBC, a petition has almost 180,000 signatures,
+
+498
+00:26:26.230 --> 00:26:28.770
+<v Maya>and people like Musk and Sweeney have signed it.
+
+499
+00:26:29.300 --> 00:26:31.040
+<v Alex>Hold on, why would they want that?
+
+500
+00:26:31.400 --> 00:26:35.210
+<v Maya>It follows his resignation last week, after reports about...
+
+501
+00:26:35.210 --> 00:26:37.840
+<v Maya>well, let's just say some personal matters surfaced.
+
+502
+00:26:38.370 --> 00:26:41.330
+<v Alex>Right, and now everyone’s a public relations expert.
+
+503
+00:26:41.660 --> 00:26:44.010
+<v Maya>The board is looking for replacements,
+
+504
+00:26:44.010 --> 00:26:48.860
+<v Maya>but shareholders like Brad Gerstner are urging them to consider Huang's return,
+
+505
+00:26:48.860 --> 00:26:50.660
+<v Maya>saying he deserves a fair process.
+
+506
+00:26:50.660 --> 00:26:51.320
+<v Alex>Says who?
+
+507
+00:26:51.840 --> 00:26:54.040
+<v Alex>What’s the board doing while the petition swells?
+
+508
+00:26:54.580 --> 00:26:57.940
+<v Maya>They’re still vetting candidates, even Colette Kress is interim.
+
+509
+00:26:58.410 --> 00:26:58.960
+<v Alex>Colette?
+
+510
+00:26:58.960 --> 00:27:00.840
+<v Alex>She’s the finance chief, not a tech guy.
+
+511
+00:27:01.380 --> 00:27:03.760
+<v Maya>Yeah, but she’s the one steering the search right now.
+
+512
+00:27:04.280 --> 00:27:05.720
+<v Alex>So no one’s pulling the trigger?
+
+513
+00:27:06.030 --> 00:27:08.370
+<v Maya>The board’s keeping options open,
+
+514
+00:27:08.370 --> 00:27:12.700
+<v Maya>but they’re also under pressure from investors like Brad Gerstner to be fair.
+
+515
+00:27:12.700 --> 00:27:13.240
+<v Alex>Fair how?
+
+516
+00:27:13.630 --> 00:27:17.480
+<v Maya>They’re calling for an independent probe into Huang’s exit and a transparent
+
+517
+00:27:17.480 --> 00:27:19.720
+<v Maya>process before picking a new CEO.
+
+518
+00:27:20.350 --> 00:27:23.600
+<v Maya>Well, the board is still hunting, but the petition keeps growing.
+
+519
+00:27:24.010 --> 00:27:27.720
+<v Alex>Seriously, a petition of 180,000?
+
+520
+00:27:27.720 --> 00:27:29.920
+<v Alex>That’s a lot of noise for a corporate board.
+
+521
+00:27:30.470 --> 00:27:35.000
+<v Maya>It shows shareholders like Gerstner feel the board should give Huang a fair process
+
+522
+00:27:35.000 --> 00:27:35.920
+<v Maya>before deciding.
+
+523
+00:27:36.840 --> 00:27:40.360
+<v Alex>Fair process or not, the board still needs to vet candidates,
+
+524
+00:27:40.360 --> 00:27:42.590
+<v Alex>and Colette is steering that search.
+
+525
+00:27:43.290 --> 00:27:47.590
+<v Maya>The pressure from investors could push the board toward a quick decision,
+
+526
+00:27:47.590 --> 00:27:51.220
+<v Maya>but they’re also under scrutiny for how they handle the investigation.
+
+527
+00:27:51.870 --> 00:27:56.580
+<v Alex>And we’re not even sure if the petition reflects real employee sentiment,
+
+528
+00:27:56.580 --> 00:27:58.480
+<v Alex>since those claims aren’t verified.
+
+529
+00:27:59.210 --> 00:28:02.530
+<v Maya>Still, it signals a loyalty to the founder’s vision,
+
+530
+00:28:02.530 --> 00:28:04.280
+<v Maya>and maybe that matters more than the hype.
+
+531
+00:28:04.810 --> 00:28:09.060
+<v Alex>My read is that the board will have to balance the petition’s weight with the need
+
+532
+00:28:09.060 --> 00:28:15.460
+<v Alex>for a transparent, independent probe before anyone steps back into the CEO role.
+
+533
+00:28:17.100 --> 00:28:21.880
+<v Alex>Amazon wants drones in 500 towns by 2026.
+
+534
+00:28:22.560 --> 00:28:25.760
+<v Maya>DoorDash, Zipline, Uber, Walmart all in the game too.
+
+535
+00:28:25.820 --> 00:28:27.840
+<v Alex>Huh, that’s a lot of flying bots.
+
+536
+00:28:28.370 --> 00:28:31.320
+<v Maya>Dronophobia is a real thing, PTSD linked.
+
+537
+00:28:31.830 --> 00:28:34.580
+<v Alex>War footage fuels that fear, not just delivery.
+
+538
+00:28:35.280 --> 00:28:37.780
+<v Maya>FAA’s line-of-sight rules are still tightening.
+
+539
+00:28:38.310 --> 00:28:40.400
+<v Alex>So they’re moving beyond line-of-sight now.
+
+540
+00:28:40.760 --> 00:28:43.160
+<v Maya>That’s the next hurdle, but the anxiety stays.
+
+541
+00:28:43.800 --> 00:28:47.060
+<v Maya>What about the tech side—how do these drones actually drop stuff?
+
+542
+00:28:47.510 --> 00:28:50.820
+<v Alex>They use a little chute that lowers a bag via a winch.
+
+543
+00:28:50.820 --> 00:28:53.690
+<v Alex>The chute opens when it hits a curb or a lawn edge.
+
+544
+00:28:54.400 --> 00:28:56.380
+<v Maya>So they’re just like paratroopers for packages?
+
+545
+00:28:56.960 --> 00:28:57.600
+<v Maya>And the FAA?
+
+546
+00:28:57.600 --> 00:28:59.260
+<v Maya>Still tightening rules?
+
+547
+00:28:59.600 --> 00:29:02.080
+<v Alex>Yeah, the line‑of‑sight rule is easing,
+
+548
+00:29:02.080 --> 00:29:05.850
+<v Alex>but there’s a new waiver process that pilots need to file.
+
+549
+00:29:05.850 --> 00:29:07.040
+<v Alex>It’s a slow rollout.
+
+550
+00:29:07.210 --> 00:29:08.160
+<v Maya>Hold on, who’s filing?
+
+551
+00:29:08.610 --> 00:29:14.300
+<v Alex>Amazon, DoorDash, Zipline—each has its own compliance team pushing the paperwork.
+
+552
+00:29:15.240 --> 00:29:19.400
+<v Maya>Got it, so the anxiety stays but the tech is getting easier to deploy.
+
+553
+00:29:19.910 --> 00:29:21.600
+<v Alex>Feels like a sci‑fi plot, huh.
+
+554
+00:29:22.115 --> 00:29:23.920
+<v Maya>But the money's already on that side.
+
+555
+00:29:24.450 --> 00:29:27.640
+<v Alex>Still, dropping a bag on a lawn—simple tech, but safety?
+
+556
+00:29:28.320 --> 00:29:30.860
+<v Maya>Safety’s fine, but the anxiety keeps rising.
+
+557
+00:29:30.860 --> 00:29:32.200
+<v Alex>Drones = PTSD?
+
+558
+00:29:32.860 --> 00:29:34.340
+<v Maya>The footage fuels that, no doubt.
+
+559
+00:29:34.990 --> 00:29:36.920
+<v Alex>So we’re trading snack drops for nightmares.
+
+560
+00:29:37.610 --> 00:29:39.400
+<v Maya>That's the price we pay for convenience.
+
+561
+00:29:41.180 --> 00:29:43.940
+<v Maya>Nvidia shares dip premarket, CNBC says.
+
+562
+00:29:44.140 --> 00:29:45.540
+<v Alex>No way, Huang talks return?
+
+563
+00:29:46.050 --> 00:29:49.860
+<v Maya>Financial Times reports he discussed a comeback with confidants.
+
+564
+00:29:49.999 --> 00:29:51.240
+<v Alex>So the board’s in turmoil?
+
+565
+00:29:51.760 --> 00:29:55.260
+<v Maya>Cantor Fitzgerald’s share count cut by half, CNBC notes.
+
+566
+00:29:55.900 --> 00:29:58.760
+<v Alex>That’s a big change for a brokerage tied to Nvidia.
+
+567
+00:29:59.330 --> 00:30:05.380
+<v Maya>And the stock’s longest weekly loss since 2012, market value down $1.7 trillion.
+
+568
+00:30:06.670 --> 00:30:08.380
+<v Alex>What’s the takeaway for the tech scene?
+
+569
+00:30:08.800 --> 00:30:11.640
+<v Alex>So, what’s driving these reinstatement calls?
+
+570
+00:30:11.640 --> 00:30:13.480
+<v Alex>It’s not just about sentiment, is it?
+
+571
+00:30:13.740 --> 00:30:16.280
+<v Maya>Apparently, it's about the perceived value,
+
+572
+00:30:16.280 --> 00:30:20.870
+<v Maya>which they're calling the "Jensen premium." The article doesn’t really explain what
+
+573
+00:30:20.870 --> 00:30:23.220
+<v Maya>that is, but it’s clearly being debated.
+
+574
+00:30:23.360 --> 00:30:25.340
+<v Alex>A billion dollars on GTA VI?
+
+575
+00:30:25.760 --> 00:30:28.930
+<v Maya>Take-Two Interactive spent over a billion developing it,
+
+576
+00:30:28.930 --> 00:30:31.770
+<v Maya>according to Roth analyst Eric Handler.
+
+577
+00:30:31.770 --> 00:30:35.980
+<v Maya>And preorders are already through the roof, twelve million through November 13th.
+
+578
+00:30:36.730 --> 00:30:40.460
+<v Alex>Hold on, what does the summit in Shenzhen have to do with any of this?
+
+579
+00:30:40.840 --> 00:30:44.240
+<v Maya>It's a meeting between Xi Jinping, Putin, and Trump.
+
+580
+00:30:44.240 --> 00:30:47.320
+<v Maya>It’s described as unprecedented,
+
+581
+00:30:47.320 --> 00:30:50.180
+<v Maya>following multiple bilateral meetings over the years.
+
+582
+00:30:50.750 --> 00:30:53.080
+<v Alex>Just seems like a lot of noise all at once.
+
+583
+00:30:53.480 --> 00:30:59.220
+<v Maya>It is; Luke Fountain at CNBC says it’s a troubled time for the tech industry ahead
+
+584
+00:30:59.220 --> 00:31:01.120
+<v Maya>of the Nasdaq debut.
+
+585
+00:31:01.120 --> 00:31:02.700
+<v Maya>It’s all about the stakes being high.
+
+586
+00:31:03.230 --> 00:31:05.860
+<v Maya>The Jensen premium debate is heating up,
+
+587
+00:31:05.860 --> 00:31:08.700
+<v Maya>and people keep saying it’s the reason for the CEO chatter.
+
+588
+00:31:08.860 --> 00:31:09.320
+<v Alex>No way.
+
+589
+00:31:09.850 --> 00:31:13.340
+<v Maya>If the board is split, maybe it’s just a power play, not a tech issue.
+
+590
+00:31:13.360 --> 00:31:17.200
+<v Alex>The board’s split shows the chips are more fragile than the hardware.
+
+591
+00:31:17.930 --> 00:31:21.830
+<v Maya>Does the half‑cut at Cantor Fitzgerald mean investors are pulling back?
+
+592
+00:31:22.260 --> 00:31:27.220
+<v Alex>It looks like a big shift in ownership, but the article just reports the drop,
+
+593
+00:31:27.220 --> 00:31:27.920
+<v Alex>no analysis.
+
+594
+00:31:28.540 --> 00:31:31.700
+<v Maya>And GTA VI is already breaking pre‑order records!
+
+595
+00:31:32.220 --> 00:31:37.240
+<v Alex>In the end, it’s a reminder that even the biggest names can get tangled in politics
+
+596
+00:31:37.240 --> 00:31:40.360
+<v Alex>and numbers, and the market keeps moving regardless.
+
+597
+00:31:42.220 --> 00:31:43.300
+<v Alex>That's the news.
+
+598
+00:31:43.300 --> 00:31:44.370
+<v Alex>Time for The Takeaway.
+
+599
+00:31:44.760 --> 00:31:49.000
+<v Maya>I think the biggest thread connecting all this chaos is just how quickly things can
+
+600
+00:31:49.000 --> 00:31:54.280
+<v Maya>shift in the AI space—a rocket failure, a CEO stepping down,
+
+601
+00:31:54.280 --> 00:31:57.360
+<v Maya>a trillion dollars circling—it's all moving so fast.
+
+602
+00:31:57.840 --> 00:31:58.260
+<v Alex>Yeah.
+
+603
+00:31:58.260 --> 00:32:02.140
+<v Alex>It’s a stark reminder that building anything real is hard,
+
+604
+00:32:02.140 --> 00:32:04.650
+<v Alex>regardless of how much hype there is.
+
+605
+00:32:04.650 --> 00:32:06.620
+<v Alex>Makes you wonder what's genuinely solid.
+
+606
+00:32:07.390 --> 00:32:12.300
+<v Maya>I still think Nvidia's stock reaction is understated; the market is pricing in
+
+607
+00:32:12.300 --> 00:32:14.240
+<v Maya>something pretty significant.
+
+608
+00:32:14.240 --> 00:32:17.040
+<v Maya>I’ll be watching Colette Kress’s next moves closely.
+
+609
+00:32:17.440 --> 00:32:22.860
+<v Alex>I’m curious to see how the drone PTSD story develops—it's a valid concern,
+
+610
+00:32:22.860 --> 00:32:25.840
+<v Alex>and could genuinely impact adoption.
+
+611
+00:32:25.840 --> 00:32:26.320
+<v Alex>It’s just…
+
+612
+00:32:26.320 --> 00:32:27.340
+<v Alex>unexpected.
+
+613
+00:32:28.340 --> 00:32:31.340
+<v Maya>Hold on, you’re focusing on the niche concerns.
+
+614
+00:32:31.340 --> 00:32:36.060
+<v Maya>My take is that Nvidia’s reinstatement calls are just pure market signaling,
+
+615
+00:32:36.060 --> 00:32:38.160
+<v Maya>a bid to prop up a wobbling share price.
+
+616
+00:32:38.760 --> 00:32:41.440
+<v Alex>I don't disagree, but a petition from Musk?
+
+617
+00:32:41.440 --> 00:32:44.110
+<v Alex>That’s more than just simple signaling, isn’t it?
+
+618
+00:32:44.110 --> 00:32:44.500
+<v Alex>It’s…
+
+619
+00:32:45.160 --> 00:32:48.090
+<v Maya>I think it’s a performative gesture, Alex.
+
+620
+00:32:48.090 --> 00:32:51.300
+<v Maya>I remain convinced the market will ultimately dictate the outcome.
+
+621
+00:32:51.740 --> 00:32:56.080
+<v Alex>Well, I’m going to keep an eye on Vulcan's next attempt—it's a fascinating,
+
+622
+00:32:56.080 --> 00:32:59.080
+<v Alex>and arguably vital, alternative to SpaceX.
+
+623
+00:33:00.579 --> 00:33:01.980
+<v Maya>And that's First Tick.
+
+624
+00:33:01.980 --> 00:33:05.180
+<v Maya>Every story we talked about is linked in the show notes.
+
+625
+00:33:05.180 --> 00:33:06.740
+<v Maya>Got a question for us?
+
+626
+00:33:06.740 --> 00:33:08.680
+<v Maya>The link to send it is there too.
+
+627
+00:33:09.010 --> 00:33:10.720
+<v Alex>Next up is First Tick, tomorrow.
+
+628
+00:33:10.720 --> 00:33:14.160
+<v Alex>One reminder: nothing here is financial advice.
+
+629
+00:33:14.160 --> 00:33:16.440
+<v Alex>From Bits and Tickers, I'm Alex.
+
+630
+00:33:16.440 --> 00:33:17.480
+<v Alex>Keep building.
+
+631
+00:33:17.533 --> 00:33:18.040
+<v Maya>I'm Maya.
+
+632
+00:33:18.040 --> 00:33:19.100
+<v Maya>And keep counting.
