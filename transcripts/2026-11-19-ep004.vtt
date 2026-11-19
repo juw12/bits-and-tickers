@@ -1,0 +1,2437 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:02.590
+<v Maya>Elon backs Jensen like a superstar.
+
+2
+00:00:02.590 --> 00:00:05.210
+<v Maya>That, and seventeen more stories, on First Tick.
+
+3
+00:00:14.719 --> 00:00:16.280
+<v Alex>This is Bits and Tickers.
+
+4
+00:00:16.280 --> 00:00:18.120
+<v Alex>What got built, and what it's worth.
+
+5
+00:00:18.120 --> 00:00:18.650
+<v Alex>I'm Alex.
+
+6
+00:00:19.340 --> 00:00:20.540
+<v Maya>And I'm Maya.
+
+7
+00:00:20.540 --> 00:00:24.860
+<v Maya>It's Thursday, November 19th, and this is First Tick: the day's tech,
+
+8
+00:00:24.860 --> 00:00:29.440
+<v Maya>AI and market news in about half an hour, with why each story matters.
+
+9
+00:00:29.440 --> 00:00:31.650
+<v Maya>Everything we talk about is linked in the show notes.
+
+10
+00:00:32.340 --> 00:00:33.760
+<v Alex>On today's show.
+
+11
+00:00:33.760 --> 00:00:36.340
+<v Alex>Elon backs Jensen like a superstar.
+
+12
+00:00:36.340 --> 00:00:37.900
+<v Alex>Committee votes despite boycott.
+
+13
+00:00:37.900 --> 00:00:41.590
+<v Alex>Ukraine drops drones, blows up bridge.
+
+14
+00:00:41.590 --> 00:00:46.060
+<v Alex>Microsoft CEO warns AI agents could upend web ads.
+
+15
+00:00:46.060 --> 00:00:49.460
+<v Alex>And Nvidia stops shipping AI chips to China.
+
+16
+00:00:49.460 --> 00:00:50.940
+<v Alex>Plus thirteen more.
+
+17
+00:00:50.940 --> 00:00:51.700
+<v Alex>Let's get into it.
+
+18
+00:00:53.220 --> 00:00:54.880
+<v Maya>Time for The Ticker.
+
+19
+00:00:54.880 --> 00:01:01.920
+<v Maya>At Wednesday's close, the S&amp;P 500 finished at 7,324, down 0.2 percent.
+
+20
+00:01:01.920 --> 00:01:08.910
+<v Maya>The Nasdaq Composite was up 0.4 percent and the Dow was down 1.1 percent.
+
+21
+00:01:09.370 --> 00:01:13.660
+<v Alex>And in big tech, Amazon had the best day, up 3.8 percent,
+
+22
+00:01:13.660 --> 00:01:18.050
+<v Alex>while Nvidia was at the other end, down 2.9 percent.
+
+23
+00:01:18.050 --> 00:01:19.760
+<v Alex>That's a snapshot, not advice.
+
+24
+00:01:21.440 --> 00:01:26.520
+<v Alex>Musk just said firing Jensen Huang feels like kicking Michael Jordan off a winning
+
+25
+00:01:26.520 --> 00:01:28.560
+<v Alex>team, according to TechCrunch.
+
+26
+00:01:29.530 --> 00:01:33.800
+<v Maya>He signed a petition with 200,000 people to get Nvidia back.
+
+27
+00:01:33.800 --> 00:01:34.510
+<v Alex>Seriously?
+
+28
+00:01:34.840 --> 00:01:37.120
+<v Maya>Nvidia’s board says they’re not planning a return.
+
+29
+00:01:37.600 --> 00:01:39.660
+<v Alex>So Musk thinks no one can replace him.
+
+30
+00:01:40.070 --> 00:01:42.660
+<v Maya>He talks about loyalty and tech knowledge,
+
+31
+00:01:42.660 --> 00:01:45.560
+<v Maya>but Nvidia’s interim CEO is already in place.
+
+32
+00:01:46.110 --> 00:01:50.160
+<v Alex>And the board’s focus is on the company’s continuity, not the hype.
+
+33
+00:01:50.960 --> 00:01:53.900
+<v Maya>That’s the headline, now let’s dig into the market angle.
+
+34
+00:01:54.500 --> 00:01:57.580
+<v Maya>What’s the real depth behind Musk’s “Michael Jordan” line?
+
+35
+00:01:58.040 --> 00:02:03.050
+<v Alex>He’s basically saying Jensen’s tech know‑how and team loyalty are irreplaceable.
+
+36
+00:02:03.520 --> 00:02:05.240
+<v Maya>So he’s framing it like a sports team?
+
+37
+00:02:05.550 --> 00:02:10.780
+<v Alex>Yeah, and he pointed out a lot of Nvidia staff have higher offers but stay because
+
+38
+00:02:10.780 --> 00:02:11.320
+<v Alex>of Jensen.
+
+39
+00:02:11.320 --> 00:02:12.520
+<v Maya>Did anyone else weigh in?
+
+40
+00:02:12.780 --> 00:02:18.080
+<v Alex>Palmer Luckey jumped in, saying China wants Jensen out and that hurts Nvidia’s
+
+41
+00:02:18.080 --> 00:02:18.560
+<v Alex>valuation.
+
+42
+00:02:18.560 --> 00:02:19.700
+<v Maya>Interesting angle.
+
+43
+00:02:20.150 --> 00:02:23.500
+<v Alex>And the board’s stance is clear—no comeback plan,
+
+44
+00:02:23.500 --> 00:02:25.780
+<v Alex>just moving forward with the interim CEO.
+
+45
+00:02:26.670 --> 00:02:32.280
+<v Alex>I think Musk is just throwing hype, calling a CEO a Michael Jordan to stir drama.
+
+46
+00:02:32.825 --> 00:02:33.210
+<v Alex>Seriously?
+
+47
+00:02:33.440 --> 00:02:36.880
+<v Maya>It shows a chunk of the community feels the board's move is risky.
+
+48
+00:02:37.370 --> 00:02:41.320
+<v Alex>But the board says no comeback plan, so the risk is only in perception.
+
+49
+00:02:42.060 --> 00:02:46.270
+<v Maya>True, yet the interim CEO has a solid Microsoft background,
+
+50
+00:02:46.270 --> 00:02:47.640
+<v Maya>which could stabilize the market.
+
+51
+00:02:48.280 --> 00:02:53.120
+<v Alex>Still, the loyalty angle—staff staying against higher offers—could hint at deeper
+
+52
+00:02:53.120 --> 00:02:53.600
+<v Alex>unrest.
+
+53
+00:02:54.300 --> 00:02:58.820
+<v Maya>It sounds like Nvidia is balancing internal morale with external investor
+
+54
+00:02:58.820 --> 00:02:59.460
+<v Maya>confidence.
+
+55
+00:03:01.440 --> 00:03:07.070
+<v Maya>15-0 Republican vote, Democrats absent, that’s the kicker, Ars Technica reports.
+
+56
+00:03:07.680 --> 00:03:10.150
+<v Alex>So Cruz just ran the show without a quorum.
+
+57
+00:03:10.580 --> 00:03:13.320
+<v Maya>He said they’d do their job even if the others refuse.
+
+58
+00:03:13.640 --> 00:03:14.140
+<v Alex>That’s wild.
+
+59
+00:03:14.750 --> 00:03:20.260
+<v Maya>The nominee is Danielle Thumann, a former legal advisor to FCC chair Brendan Carr.
+
+60
+00:03:21.120 --> 00:03:24.080
+<v Alex>She supposedly gave false testimony about that role.
+
+61
+00:03:24.430 --> 00:03:28.300
+<v Maya>Republicans hope to confirm her before Senate flips in January.
+
+62
+00:03:28.300 --> 00:03:29.020
+<v Alex>Makes sense.
+
+63
+00:03:29.550 --> 00:03:31.060
+<v Maya>And that’s all we know from the article.
+
+64
+00:03:31.600 --> 00:03:35.040
+<v Alex>What about the actual vetting process that went on before this vote?
+
+65
+00:03:35.300 --> 00:03:39.920
+<v Maya>The committee reviews the nominee’s background, then votes; if they pass,
+
+66
+00:03:39.920 --> 00:03:41.520
+<v Maya>the full Senate needs a majority.
+
+67
+00:03:42.060 --> 00:03:43.860
+<v Alex>So they cut straight to the final step?
+
+68
+00:03:44.280 --> 00:03:48.630
+<v Maya>Yeah, they skipped the usual committee debate because the Democrats didn't show up.
+
+69
+00:03:49.000 --> 00:03:50.680
+<v Alex>Did anyone try to stop the quorum?
+
+70
+00:03:51.115 --> 00:03:54.420
+<v Maya>The Democrats said they’d prevent a quorum, but they stayed away.
+
+71
+00:03:54.840 --> 00:03:56.780
+<v Alex>How does that affect the overall confirmation?
+
+72
+00:03:57.310 --> 00:04:00.580
+<v Maya>Without a quorum, the committee can still move forward,
+
+73
+00:04:00.580 --> 00:04:02.820
+<v Maya>but the full Senate still has to approve later.
+
+74
+00:04:03.580 --> 00:04:06.460
+<v Maya>This feels like a political stunt, not a real vetting.
+
+75
+00:04:06.970 --> 00:04:08.580
+<v Alex>But the committee still did its job.
+
+76
+00:04:09.260 --> 00:04:12.080
+<v Maya>So the real question is, what happens in the full Senate?
+
+77
+00:04:12.640 --> 00:04:15.500
+<v Alex>Honestly, it's just a formality if they get a quorum.
+
+78
+00:04:15.930 --> 00:04:19.620
+<v Maya>I think it signals that the commission can ignore dissenting voices.
+
+79
+00:04:19.860 --> 00:04:23.410
+<v Alex>And that the confirmation might slip through before the power shift.
+
+80
+00:04:24.320 --> 00:04:25.470
+<v Maya>That’s the point, right?
+
+81
+00:04:25.470 --> 00:04:26.220
+<v Maya>They’re moving fast.
+
+82
+00:04:26.860 --> 00:04:28.900
+<v Alex>I guess that’s the reality of the process.
+
+83
+00:04:30.560 --> 00:04:32.540
+<v Alex>Maya, what did Ukraine do to that bridge?
+
+84
+00:04:32.970 --> 00:04:36.320
+<v Maya>They hit a steel arch with missiles and drones, no Starlink.
+
+85
+00:04:36.740 --> 00:04:37.820
+<v Alex>No Starlink?
+
+86
+00:04:37.820 --> 00:04:38.960
+<v Alex>How did they guide the shots?
+
+87
+00:04:39.460 --> 00:04:42.420
+<v Maya>They used mesh‑radio drones as a relay network.
+
+88
+00:04:42.420 --> 00:04:43.200
+<v Alex>Huh, that's wild.
+
+89
+00:04:43.760 --> 00:04:46.940
+<v Maya>Russian air defenses were reportedly overwhelmed first.
+
+90
+00:04:47.160 --> 00:04:48.380
+<v Alex>So the drones set the stage?
+
+91
+00:04:48.840 --> 00:04:51.710
+<v Maya>Yes, then the Flamingo cruise missile finished the job.
+
+92
+00:04:52.030 --> 00:04:57.750
+<v Alex>It was a coordinated night attack, November 15‑16, Ars Technica reports.
+
+93
+00:04:58.100 --> 00:05:00.640
+<v Maya>What exactly does that mesh‑radio tech do?
+
+94
+00:05:00.970 --> 00:05:03.860
+<v Alex>Think of each drone as a hop‑scotch board,
+
+95
+00:05:03.860 --> 00:05:07.200
+<v Alex>passing signals to the missile until it finally reaches the target.
+
+96
+00:05:07.560 --> 00:05:10.360
+<v Maya>So the drones themselves are the link, not the operator?
+
+97
+00:05:10.780 --> 00:05:15.980
+<v Alex>Right, the human stays off the line; the relay chain keeps the missile fed until it
+
+98
+00:05:15.980 --> 00:05:16.670
+<v Alex>hits the arch.
+
+99
+00:05:17.340 --> 00:05:20.420
+<v Maya>And Russia started using the same trick on Ukrainian cities?
+
+100
+00:05:20.900 --> 00:05:24.260
+<v Alex>Yeah, they reversed the play, turning the technology against them.
+
+101
+00:05:24.320 --> 00:05:25.420
+<v Maya>Who’s saying this, exactly?
+
+102
+00:05:25.980 --> 00:05:28.510
+<v Alex>The Financial Times broke it down,
+
+103
+00:05:28.510 --> 00:05:32.880
+<v Alex>citing how Ukrainian forces adapted the Russian battlefield innovation.
+
+104
+00:05:33.340 --> 00:05:35.500
+<v Alex>That relay trick flips the battlefield, huh.
+
+105
+00:05:35.850 --> 00:05:38.740
+<v Maya>But it also shows how tech can be turned on its own side.
+
+106
+00:05:39.120 --> 00:05:43.200
+<v Alex>The drones are like a chain—no human in the middle, just packets hopping.
+
+107
+00:05:43.830 --> 00:05:46.520
+<v Maya>So the same method Russia later used on cities?
+
+108
+00:05:46.900 --> 00:05:51.720
+<v Alex>It suggests a new layer of vulnerability, but no one says what else could break.
+
+109
+00:05:52.400 --> 00:05:56.960
+<v Maya>In any case, the cost of buying that tech or defending against it is up in the air.
+
+110
+00:05:57.450 --> 00:05:59.860
+<v Alex>And the question is, who pays for the next wave?
+
+111
+00:06:00.230 --> 00:06:03.000
+<v Maya>The market will decide, and the price tag will follow.
+
+112
+00:06:04.920 --> 00:06:09.520
+<v Maya>Microsoft’s Nadella says AI agents will rework how we pay for web traffic and
+
+113
+00:06:09.520 --> 00:06:11.840
+<v Maya>transactions, according to TechCrunch.
+
+114
+00:06:12.380 --> 00:06:13.770
+<v Alex>That sounds like a big shift.
+
+115
+00:06:14.300 --> 00:06:16.540
+<v Maya>He compared it to when Google overtook Yahoo,
+
+116
+00:06:16.540 --> 00:06:19.780
+<v Maya>and said the current ad‑based models will get reshuffled.
+
+117
+00:06:20.270 --> 00:06:21.580
+<v Alex>So it’s a cost‑per‑click push?
+
+118
+00:06:22.060 --> 00:06:26.160
+<v Maya>He added that if you don’t embrace agents, someone else will.
+
+119
+00:06:26.160 --> 00:06:29.440
+<v Maya>Amazon’s block on agents might open the door for competitors.
+
+120
+00:06:30.240 --> 00:06:32.840
+<v Alex>Shopify could leap ahead if it lets agents in.
+
+121
+00:06:33.320 --> 00:06:37.380
+<v Maya>That’s the crux—companies that lock out agents risk losing market share.
+
+122
+00:06:37.850 --> 00:06:42.720
+<v Alex>It’s a gamble, but the tech‑side view is that agents could change the economics of
+
+123
+00:06:42.720 --> 00:06:43.120
+<v Alex>the web.
+
+124
+00:06:43.550 --> 00:06:45.420
+<v Alex>What exactly did he mean by “agent”?
+
+125
+00:06:45.870 --> 00:06:50.610
+<v Maya>He was talking about software agents that can browse the web on behalf of users,
+
+126
+00:06:50.610 --> 00:06:53.500
+<v Maya>pulling data and making purchases automatically.
+
+127
+00:06:53.720 --> 00:06:55.020
+<v Alex>So like a virtual shopper?
+
+128
+00:06:55.540 --> 00:07:00.200
+<v Maya>Yeah, but the point is they change who pays for traffic—shifting from eyeball ads
+
+129
+00:07:00.200 --> 00:07:02.540
+<v Maya>to cost‑per‑click or transaction fees.
+
+130
+00:07:02.740 --> 00:07:04.220
+<v Alex>He said Amazon blocks them?
+
+131
+00:07:04.560 --> 00:07:08.800
+<v Maya>Yes, Amazon blocks agents from its site, so if they stay shut,
+
+132
+00:07:08.800 --> 00:07:12.910
+<v Maya>a platform like Shopify could open its doors and attract those agents,
+
+133
+00:07:12.910 --> 00:07:13.760
+<v Maya>gaining a foothold.
+
+134
+00:07:13.900 --> 00:07:14.480
+<v Alex>Is that all?
+
+135
+00:07:14.840 --> 00:07:19.540
+<v Maya>He added that if a company resists agents, someone else will win the race,
+
+136
+00:07:19.540 --> 00:07:23.710
+<v Maya>just like Google overtook Yahoo when the web moved from portals to search.
+
+137
+00:07:24.350 --> 00:07:27.080
+<v Maya>If Amazon keeps locking out agents,
+
+138
+00:07:27.080 --> 00:07:30.340
+<v Maya>it’s a risk that Shopify could leap ahead by opening the door.
+
+139
+00:07:30.813 --> 00:07:35.900
+<v Alex>But the tech side worries: agents could break the current ad models before anyone
+
+140
+00:07:35.900 --> 00:07:36.480
+<v Alex>profits.
+
+141
+00:07:37.150 --> 00:07:40.780
+<v Maya>Do you think the shift will really favor transaction fees over eyeballs?
+
+142
+00:07:41.160 --> 00:07:45.900
+<v Alex>Maybe, but the first wave of agents might still be messy and buggy—hard to trust
+
+143
+00:07:45.900 --> 00:07:46.540
+<v Alex>them to pay.
+
+144
+00:07:47.090 --> 00:07:50.720
+<v Maya>Hold on, didn’t Nadella say the agents would change who pays for traffic?
+
+145
+00:07:51.130 --> 00:07:56.120
+<v Alex>It sounds like a new game, but only if the agents actually work reliably; otherwise
+
+146
+00:07:56.120 --> 00:07:57.290
+<v Alex>the old model sticks.
+
+147
+00:07:57.880 --> 00:08:02.800
+<v Maya>So the real gamble is whether platforms will let the agents in or block them and
+
+148
+00:08:02.800 --> 00:08:03.420
+<v Maya>lose ground.
+
+149
+00:08:04.020 --> 00:08:08.120
+<v Alex>In the end, it’s a test of whether the web’s economics can adapt to automated
+
+150
+00:08:08.120 --> 00:08:08.660
+<v Alex>shoppers.
+
+151
+00:08:10.400 --> 00:08:12.200
+<v Alex>That’s a big pivot, huh?
+
+152
+00:08:12.200 --> 00:08:17.140
+<v Alex>Nvidia just cut off H200 shipments after getting clearance.
+
+153
+00:08:17.140 --> 00:08:22.080
+<v Alex>The interim CEO said they’re not shipping licensed Hopper data center products to
+
+154
+00:08:22.080 --> 00:08:22.500
+<v Alex>China.
+
+155
+00:08:22.940 --> 00:08:23.690
+<v Maya>No way.
+
+156
+00:08:23.690 --> 00:08:25.000
+<v Maya>They had approval last December.
+
+157
+00:08:25.570 --> 00:08:29.300
+<v Alex>The Verge says Colette Kress made the call on earnings.
+
+158
+00:08:29.300 --> 00:08:32.320
+<v Alex>She didn’t explain why or if they’ll touch China later.
+
+159
+00:08:32.740 --> 00:08:34.510
+<v Maya>I think it’s a political move.
+
+160
+00:08:34.510 --> 00:08:37.120
+<v Maya>The article doesn’t say, but the timing matters.
+
+161
+00:08:37.660 --> 00:08:40.020
+<v Alex>Funny, they fought for it, then backpedal.
+
+162
+00:08:40.020 --> 00:08:40.840
+<v Alex>What’s the next step?
+
+163
+00:08:41.210 --> 00:08:44.880
+<v Maya>Might mean no more sales, but could keep other business open.
+
+164
+00:08:44.880 --> 00:08:46.160
+<v Maya>The article stops short.
+
+165
+00:08:46.730 --> 00:08:50.360
+<v Alex>So they’re pulling back on the big chips, but nothing on other products.
+
+166
+00:08:50.600 --> 00:08:51.440
+<v Maya>Right, that’s the take.
+
+167
+00:08:51.800 --> 00:08:52.700
+<v Maya>What’s the funding angle?
+
+168
+00:08:53.050 --> 00:08:56.740
+<v Alex>They’re not shipping any licensed Hopper data‑center chips,
+
+169
+00:08:56.740 --> 00:08:59.180
+<v Alex>so the revenue stream from China is gone.
+
+170
+00:08:59.380 --> 00:08:59.780
+<v Maya>No way.
+
+171
+00:09:00.300 --> 00:09:04.640
+<v Alex>The article says Colette Kress made that call on the earnings call,
+
+172
+00:09:04.640 --> 00:09:07.040
+<v Alex>but didn’t explain why she stopped the shipments.
+
+173
+00:09:07.280 --> 00:09:07.940
+<v Maya>So it’s a mystery?
+
+174
+00:09:08.460 --> 00:09:11.410
+<v Alex>The white house had given clearance last December,
+
+175
+00:09:11.410 --> 00:09:13.770
+<v Alex>so the shutdown is a deliberate pullback.
+
+176
+00:09:13.860 --> 00:09:15.200
+<v Maya>Any hint on future deals?
+
+177
+00:09:15.660 --> 00:09:19.920
+<v Alex>No mention of other business, just that the H200 shipments are halted.
+
+178
+00:09:20.300 --> 00:09:21.400
+<v Alex>That’s a big pivot, huh?
+
+179
+00:09:21.480 --> 00:09:22.000
+<v Maya>No way.
+
+180
+00:09:22.510 --> 00:09:24.690
+<v Maya>Hold on, you’re reading politics into it.
+
+181
+00:09:24.860 --> 00:09:25.460
+<v Maya>That’s the take.
+
+182
+00:09:26.140 --> 00:09:28.400
+<v Alex>I’m curious if they’ll keep other business open.
+
+183
+00:09:28.910 --> 00:09:29.680
+<v Maya>They might.
+
+184
+00:09:29.680 --> 00:09:30.640
+<v Maya>That’s the bottom line.
+
+185
+00:09:32.420 --> 00:09:35.160
+<v Maya>Nvidia’s H200 chips out of China, all done.
+
+186
+00:09:35.760 --> 00:09:37.440
+<v Alex>Wait, how did they even get a loophole?
+
+187
+00:09:37.910 --> 00:09:39.560
+<v Maya>Huang brokered a U.S.
+
+188
+00:09:39.560 --> 00:09:42.640
+<v Maya>route so China could pay a 25% tariff.
+
+189
+00:09:42.800 --> 00:09:43.960
+<v Alex>That’s a weird compromise.
+
+190
+00:09:44.670 --> 00:09:47.700
+<v Maya>The board’s new committee just formed to watch export rules.
+
+191
+00:09:48.260 --> 00:09:51.800
+<v Alex>So no more H200s, but top‑line stays the same?
+
+192
+00:09:52.150 --> 00:09:57.480
+<v Maya>Jefferies says revenue could drop $44‑$62 billion next year.
+
+193
+00:09:57.950 --> 00:10:01.040
+<v Alex>But they claim backlog of demand keeps revenue flat.
+
+194
+00:10:01.840 --> 00:10:06.580
+<v Maya>Chinese labs still training on Grace Blackwell chips, but sales to them now barred.
+
+195
+00:10:07.180 --> 00:10:10.700
+<v Alex>What’s the deal with that export‑control guy Dan Fisher‑Owens?
+
+196
+00:10:11.190 --> 00:10:15.960
+<v Maya>He told us that any data center wanting Nvidia chips must prove it isn’t serving
+
+197
+00:10:15.960 --> 00:10:18.980
+<v Maya>Chinese customers; otherwise they’ll be blocked.
+
+198
+00:10:19.500 --> 00:10:21.760
+<v Alex>So they’re actually going to audit every buyer?
+
+199
+00:10:22.020 --> 00:10:25.870
+<v Maya>That’s the idea—certification of non‑China service,
+
+200
+00:10:25.870 --> 00:10:30.420
+<v Maya>or they lose access to the H200 and even the Grace Blackwell line.
+
+201
+00:10:30.560 --> 00:10:31.000
+<v Alex>“Says who?”
+
+202
+00:10:31.450 --> 00:10:35.860
+<v Maya>The attorney’s comment came from a TechCrunch interview; it’s a standard compliance
+
+203
+00:10:35.860 --> 00:10:37.180
+<v Maya>check under the new rules.
+
+204
+00:10:37.720 --> 00:10:39.360
+<v Alex>Sounds like a bureaucratic maze.
+
+205
+00:10:39.910 --> 00:10:44.800
+<v Maya>Plus, the board’s new committee is overseeing national‑security, export‑control,
+
+206
+00:10:44.800 --> 00:10:47.800
+<v Maya>and global‑trade risks, so they’re tightening the screws.
+
+207
+00:10:48.580 --> 00:10:53.480
+<v Alex>Meaning Nvidia’s still keeping the top‑line, but it’s a different customer base now.
+
+208
+00:10:54.100 --> 00:10:57.260
+<v Maya>I think they’re just trimming a risky line but keeping the cash flow.
+
+209
+00:10:57.720 --> 00:11:00.720
+<v Alex>That sounds like a band‑aid, not a real solution.
+
+210
+00:11:01.080 --> 00:11:04.900
+<v Maya>The board’s committee shows they’re tightening controls, not cutting corners.
+
+211
+00:11:05.420 --> 00:11:05.900
+<v Alex>Tightening?
+
+212
+00:11:05.900 --> 00:11:08.240
+<v Alex>Sounds more like a bureaucratic nightmare.
+
+213
+00:11:08.640 --> 00:11:12.300
+<v Maya>The backlog of demand could keep revenue flat, even if China’s out.
+
+214
+00:11:12.750 --> 00:11:14.680
+<v Alex>But who’s buying those chips now?
+
+215
+00:11:14.680 --> 00:11:15.800
+<v Alex>The market is shrinking.
+
+216
+00:11:16.680 --> 00:11:20.280
+<v Maya>Maybe it’s a pivot to other regions—Singapore, Malaysia, Thailand.
+
+217
+00:11:21.220 --> 00:11:25.400
+<v Alex>If they can’t certify non‑China use, they’ll lose those customers,
+
+218
+00:11:25.400 --> 00:11:26.520
+<v Alex>so it’s a real hit.
+
+219
+00:11:28.060 --> 00:11:35.860
+<v Alex>Nvidia’s private stake is now $65.5 billion, up from $22 billion last January.
+
+220
+00:11:36.330 --> 00:11:38.060
+<v Maya>That’s a jump of almost three times.
+
+221
+00:11:38.060 --> 00:11:38.504
+<v Alex>Huh.
+
+222
+00:11:38.504 --> 00:11:39.400
+<v Maya>Who’s driving that?
+
+223
+00:11:39.760 --> 00:11:43.980
+<v Alex>Jensen Huang pushed a $16 billion equity spree last quarter.
+
+224
+00:11:44.054 --> 00:11:45.070
+<v Maya>And she’s stepping out?
+
+225
+00:11:45.460 --> 00:11:49.440
+<v Alex>Interim CEO plus a new permanent leader could cool the fire.
+
+226
+00:11:49.830 --> 00:11:51.540
+<v Maya>So the VC pipeline might shrink.
+
+227
+00:11:51.870 --> 00:11:52.760
+<v Maya>What about the guarantees?
+
+228
+00:11:53.320 --> 00:11:57.800
+<v Alex>They poured $118 billion into guarantees,
+
+229
+00:11:57.800 --> 00:12:02.380
+<v Alex>$105 billion of that for OpenAI’s Ohio center.
+
+230
+00:12:02.520 --> 00:12:03.440
+<v Maya>That’s a lot of cash.
+
+231
+00:12:03.990 --> 00:12:05.680
+<v Alex>Yeah, it feels like a safety net.
+
+232
+00:12:06.160 --> 00:12:07.180
+<v Maya>Who’s saying this might slow?
+
+233
+00:12:07.580 --> 00:12:12.310
+<v Alex>Kress warned Huang’s exit could make investors go more cautious, smaller checks.
+
+234
+00:12:13.260 --> 00:12:14.520
+<v Maya>So the pipeline might shrink.
+
+235
+00:12:14.920 --> 00:12:17.790
+<v Alex>And the 350 startup count stays the same?
+
+236
+00:12:18.150 --> 00:12:23.010
+<v Maya>They’ve backed almost 350, but no new round numbers after the spike.
+
+237
+00:12:23.490 --> 00:12:25.630
+<v Alex>Sounds like a firework, but only a flicker.
+
+238
+00:12:26.020 --> 00:12:27.580
+<v Maya>Feels like a sprint that might stall.
+
+239
+00:12:27.595 --> 00:12:27.900
+<v Alex>Huh.
+
+240
+00:12:28.380 --> 00:12:30.720
+<v Maya>If the checks shrink, the pipeline will thin.
+
+241
+00:12:31.280 --> 00:12:33.960
+<v Alex>Right, but they still have 350 names.
+
+242
+00:12:34.360 --> 00:12:37.420
+<v Maya>But without the big pushes, those names might not grow.
+
+243
+00:12:37.830 --> 00:12:40.490
+<v Alex>Exactly, and the guarantees keep the heat alive.
+
+244
+00:12:40.960 --> 00:12:44.060
+<v Maya>It seems the next CEO will have to balance fire and safety.
+
+245
+00:12:45.720 --> 00:12:49.320
+<v Maya>Hey Alex, any idea why Anthropic shot its price to $83?
+
+246
+00:12:50.140 --> 00:12:54.800
+<v Alex>They pushed the offer up, selling 980 million shares,
+
+247
+00:12:54.800 --> 00:12:57.640
+<v Alex>not the 825 million they’d planned.
+
+248
+00:12:58.130 --> 00:12:59.820
+<v Maya>That’s more than the range they said, right?
+
+249
+00:12:59.960 --> 00:13:03.120
+<v Alex>Yeah, over the $70‑$78 band.
+
+250
+00:13:03.720 --> 00:13:08.880
+<v Maya>And they’re pulling in about $81.3 billion, beating SpaceX’s record.
+
+251
+00:13:09.640 --> 00:13:11.530
+<v Alex>81.3 billion, huh?
+
+252
+00:13:11.530 --> 00:13:13.140
+<v Alex>That’s a lot of cash for a startup.
+
+253
+00:13:13.730 --> 00:13:19.440
+<v Maya>Plus, Amazon, Google, Microsoft, Nvidia, and AMD are all in the mix,
+
+254
+00:13:19.440 --> 00:13:21.140
+<v Maya>each investing $26 billion.
+
+255
+00:13:22.530 --> 00:13:24.380
+<v Alex>So the big players back them—makes sense.
+
+256
+00:13:25.010 --> 00:13:29.240
+<v Alex>What about the tech side—how does Claude actually pile up that revenue bump?
+
+257
+00:13:29.700 --> 00:13:34.800
+<v Maya>Claude Code drove 1,200% jump in the last nine months,
+
+258
+00:13:34.800 --> 00:13:37.120
+<v Maya>and that’s the tool customers love for coding.
+
+259
+00:13:37.590 --> 00:13:41.900
+<v Maya>Right, the run‑rate revenue is about $81 billion, not a trillion.
+
+260
+00:13:41.900 --> 00:13:42.280
+<v Alex>That’s huge.
+
+261
+00:13:42.920 --> 00:13:46.220
+<v Maya>Each co‑founder sold 3.38 million shares,
+
+262
+00:13:46.220 --> 00:13:51.160
+<v Maya>netting $1.96 billion—shows insiders backing the price.
+
+263
+00:13:51.680 --> 00:13:54.980
+<v Alex>Funny how the founders cash out while the company goes public.
+
+264
+00:13:55.490 --> 00:13:59.440
+<v Maya>And the big techs—Amazon, Google, Microsoft, Nvidia,
+
+265
+00:13:59.440 --> 00:14:02.940
+<v Maya>AMD—each poured $26 billion into the IPO.
+
+266
+00:14:03.380 --> 00:14:03.840
+<v Maya>That's wild.
+
+267
+00:14:04.731 --> 00:14:08.060
+<v Alex>But the price hike just means they over‑estimated demand.
+
+268
+00:14:08.600 --> 00:14:13.300
+<v Maya>The $26 billion from each big tech feels like a vote of confidence, though.
+
+269
+00:14:13.690 --> 00:14:17.920
+<v Alex>Might just be a hedge; they’re buying into a future that might not deliver.
+
+270
+00:14:18.420 --> 00:14:24.090
+<v Maya>The 1,200% revenue jump on Claude Code shows customers love it,
+
+271
+00:14:24.090 --> 00:14:25.380
+<v Maya>so demand could be real.
+
+272
+00:14:26.040 --> 00:14:31.900
+<v Alex>Still, the $104 billion loss in nine months is a red flag about sustainability.
+
+273
+00:14:32.470 --> 00:14:37.200
+<v Maya>If the founders are cashing out, maybe they see a quick exit, not a long‑term play.
+
+274
+00:14:37.680 --> 00:14:41.730
+<v Alex>I think the real test is whether the tech holds up when the market tightens.
+
+275
+00:14:43.380 --> 00:14:46.710
+<v Alex>Anthropic is about to go public, and people are lining up.
+
+276
+00:14:47.280 --> 00:14:49.760
+<v Maya>According to CNBC, that’s the headline.
+
+277
+00:14:50.230 --> 00:14:53.000
+<v Alex>The hype is real, but the mechanics are still murky.
+
+278
+00:14:53.510 --> 00:14:58.240
+<v Maya>Retail could grab up to 20% of the 825 million shares.
+
+279
+00:14:58.880 --> 00:15:03.760
+<v Alex>Dan Shetty drained his Roth IRA for $12,000 in hopes of a stake.
+
+280
+00:15:04.270 --> 00:15:09.780
+<v Maya>Vanda Research projects $250 million of retail net buying—double SpaceX.
+
+281
+00:15:10.470 --> 00:15:16.920
+<v Alex>The IPO price range is $70–$78, but sources say it might go higher.
+
+282
+00:15:17.440 --> 00:15:21.470
+<v Maya>Joe Pak warns allocations are tight and macro conditions are tough.
+
+283
+00:15:21.935 --> 00:15:24.900
+<v Maya>What’s still nagging people after the basics hit the airwaves?
+
+284
+00:15:25.320 --> 00:15:26.660
+<v Alex>No way, the numbers are wild.
+
+285
+00:15:27.630 --> 00:15:29.260
+<v Maya>How big is the company actually?
+
+286
+00:15:29.680 --> 00:15:36.320
+<v Alex>It’s less than six years old, but it’s already pitching a $1.405 trillion valuation
+
+287
+00:15:36.320 --> 00:15:39.780
+<v Alex>and wants to lift $64.4 billion.
+
+288
+00:15:40.520 --> 00:15:41.180
+<v Maya>That’s a monster.
+
+289
+00:15:41.800 --> 00:15:49.320
+<v Alex>If the demand hits, it could pull in more than SpaceX’s $85.7 billion IPO; that’s
+
+290
+00:15:49.320 --> 00:15:51.020
+<v Alex>the only other comparable beast.
+
+291
+00:15:51.260 --> 00:15:52.280
+<v Maya>So the hype could be real.
+
+292
+00:15:52.790 --> 00:15:55.900
+<v Alex>I think the hype is mostly about the numbers, not the tech.
+
+293
+00:15:56.450 --> 00:15:59.280
+<v Maya>It’s the retail pull, that’s the story for the market.
+
+294
+00:15:59.280 --> 00:16:01.000
+<v Alex>No way, 20% allocation?
+
+295
+00:16:01.430 --> 00:16:04.080
+<v Maya>That’s a lot of demand, but allocations stay tight.
+
+296
+00:16:04.700 --> 00:16:07.690
+<v Alex>If it eclipses SpaceX, the valuation could jump.
+
+297
+00:16:08.420 --> 00:16:10.360
+<v Maya>But the price might still be above the range.
+
+298
+00:16:10.980 --> 00:16:12.980
+<v Alex>So it’s a gamble for the average investor.
+
+299
+00:16:13.400 --> 00:16:16.340
+<v Maya>Precisely, the upside is huge, the risk is real.
+
+300
+00:16:17.960 --> 00:16:20.860
+<v Alex>You're listening to First Tick, from Bits and Tickers.
+
+301
+00:16:20.860 --> 00:16:22.520
+<v Alex>That's about the halfway mark.
+
+302
+00:16:22.520 --> 00:16:23.800
+<v Alex>Still to come.
+
+303
+00:16:23.800 --> 00:16:29.090
+<v Alex>Palo Alto inks $4.5 billion deal for AI startup Applied Compute,
+
+304
+00:16:29.090 --> 00:16:31.630
+<v Alex>shares pop 7% on earnings.
+
+305
+00:16:31.630 --> 00:16:34.620
+<v Alex>Microsoft backs Nvidia’s interim boss.
+
+306
+00:16:34.620 --> 00:16:41.040
+<v Alex>And India’s Humyn Labs raises $47M to feed US robotics companies the data they need.
+
+307
+00:16:41.640 --> 00:16:44.910
+<v Maya>And if you just joined us, I'm Maya, that's Alex,
+
+308
+00:16:44.910 --> 00:16:47.040
+<v Maya>and every story is linked in the show notes.
+
+309
+00:16:48.670 --> 00:16:53.340
+<v Maya>Hot deal, Palo Alto just snapped up Applied Compute for $4.5 billion.
+
+310
+00:16:54.270 --> 00:16:58.440
+<v Alex>The startup helps run custom AI models, not just security.
+
+311
+00:16:59.360 --> 00:17:02.120
+<v Maya>They say it could dwarf their own cybersecurity business.
+
+312
+00:17:02.120 --> 00:17:02.800
+<v Alex>Makes sense.
+
+313
+00:17:03.470 --> 00:17:06.920
+<v Maya>Shares jumped 7% after the earnings beat and the deal.
+
+314
+00:17:07.300 --> 00:17:14.690
+<v Alex>Quarterly ARR for next‑gen security hit $9.73 billion, up 66%.
+
+315
+00:17:15.290 --> 00:17:23.000
+<v Maya>CEO Nikesh Arora pushed revenue guidance up to $14.52‑$14.57 billion.
+
+316
+00:17:23.940 --> 00:17:27.880
+<v Alex>He also warned about tens of thousands of virtual patches needed.
+
+317
+00:17:28.270 --> 00:17:32.060
+<v Maya>Looks like AI is turning into a new revenue stream for cyber firms.
+
+318
+00:17:32.520 --> 00:17:35.380
+<v Alex>What exactly does Applied Compute do for the models?
+
+319
+00:17:35.790 --> 00:17:39.310
+<v Maya>They help companies run and tweak their own AI models,
+
+320
+00:17:39.310 --> 00:17:41.980
+<v Maya>keeping data on‑prem or in private clouds.
+
+321
+00:17:42.540 --> 00:17:44.160
+<v Alex>Why would a cyber firm buy that?
+
+322
+00:17:44.380 --> 00:17:48.780
+<v Maya>The CEO said it could be “bigger than what we do” in security—like a new revenue
+
+323
+00:17:48.780 --> 00:17:49.260
+<v Maya>engine.
+
+324
+00:17:49.260 --> 00:17:49.840
+<v Alex>Makes sense.
+
+325
+00:17:50.510 --> 00:17:53.800
+<v Maya>And it’s all‑stock for $4.5 billion,
+
+326
+00:17:53.800 --> 00:17:57.700
+<v Maya>so Palo Alto keeps cash flow intact while adding AI chops.
+
+327
+00:17:58.300 --> 00:17:59.880
+<v Alex>How much patching are we looking at?
+
+328
+00:18:00.220 --> 00:18:03.560
+<v Maya>Tens of thousands of virtual patches by year‑end,
+
+329
+00:18:03.560 --> 00:18:05.640
+<v Maya>each taking three to nine months to implement.
+
+330
+00:18:06.190 --> 00:18:07.780
+<v Maya>This could be a game‑changer for them.
+
+331
+00:18:08.180 --> 00:18:11.320
+<v Alex>Maybe, but only if the AI side actually delivers.
+
+332
+00:18:12.330 --> 00:18:16.780
+<v Maya>They’re betting that custom AI models will outpace their current security revenue.
+
+333
+00:18:17.280 --> 00:18:21.520
+<v Alex>And it’s all‑stock, so they’re not burning cash—just swapping equity for tech.
+
+334
+00:18:22.120 --> 00:18:26.860
+<v Maya>The patch backlog they mentioned—tens of thousands—could be a real operational
+
+335
+00:18:26.860 --> 00:18:27.300
+<v Maya>headache.
+
+336
+00:18:27.920 --> 00:18:32.680
+<v Alex>I think the real test will be how quickly they can integrate those models into
+
+337
+00:18:32.680 --> 00:18:33.320
+<v Alex>their platform.
+
+338
+00:18:33.960 --> 00:18:37.120
+<v Maya>If they nail it, the next‑gen security numbers will keep climbing.
+
+339
+00:18:37.730 --> 00:18:40.930
+<v Alex>Then it’s just a matter of scaling the new engine fast enough.
+
+340
+00:18:42.610 --> 00:18:45.100
+<v Alex>Colette Kress just stepped in after Jensen Huang.
+
+341
+00:18:45.620 --> 00:18:49.020
+<v Maya>Nadella said he trusts her, citing their long Microsoft ties.
+
+342
+00:18:49.590 --> 00:18:51.380
+<v Alex>“All tragic, but I’ll give him space.”
+
+343
+00:18:51.950 --> 00:18:54.960
+<v Maya>He also compared founders to gods, then said they die.
+
+344
+00:18:55.120 --> 00:18:56.040
+<v Alex>No way, that’s a twist.
+
+345
+00:18:56.530 --> 00:18:57.980
+<v Maya>He joked about Bill Gates too.
+
+346
+00:18:58.420 --> 00:19:00.840
+<v Alex>So the tech big‑shot keeps the partnership steady.
+
+347
+00:19:01.400 --> 00:19:03.280
+<v Maya>And that’s what matters to market watchers.
+
+348
+00:19:03.940 --> 00:19:06.280
+<v Maya>What’s the deal with Colette’s background at Microsoft?
+
+349
+00:19:06.880 --> 00:19:10.260
+<v Alex>She’s been on the cloud team for years, leads AI infra.
+
+350
+00:19:10.360 --> 00:19:11.620
+<v Maya>So she knows Nvidia’s stack?
+
+351
+00:19:12.000 --> 00:19:13.830
+<v Alex>Not the tech, but the people.
+
+352
+00:19:13.830 --> 00:19:15.820
+<v Alex>She worked with the same execs he did.
+
+353
+00:19:15.820 --> 00:19:16.980
+<v Maya>That explains the trust.
+
+354
+00:19:17.680 --> 00:19:20.470
+<v Alex>And Nadella said he’ll stay in touch with the same contacts.
+
+355
+00:19:21.100 --> 00:19:22.680
+<v Maya>So it’s a people‑centric hand‑off.
+
+356
+00:19:23.120 --> 00:19:25.980
+<v Alex>Yeah, it feels like a familiar hand pulling the wheel.
+
+357
+00:19:26.620 --> 00:19:29.480
+<v Alex>Colette’s tech know‑how is shallow, but people are solid.
+
+358
+00:19:29.910 --> 00:19:32.560
+<v Maya>The trust is purely people‑centric, not tech.
+
+359
+00:19:32.680 --> 00:19:33.760
+<v Alex>No way, it’s a hand‑shake.
+
+360
+00:19:33.970 --> 00:19:35.000
+<v Maya>So the partnership stays?
+
+361
+00:19:35.450 --> 00:19:37.220
+<v Alex>It’s the same execs, same vibe.
+
+362
+00:19:37.220 --> 00:19:38.380
+<v Maya>That’s the market’s comfort.
+
+363
+00:19:38.910 --> 00:19:40.680
+<v Alex>Still, the disruption risk lingers.
+
+364
+00:19:41.180 --> 00:19:43.720
+<v Maya>It’s a relief for investors, not a revelation.
+
+365
+00:19:45.370 --> 00:19:51.480
+<v Maya>Humyn Labs just raised $47 million, and 90% of that cash is meant to feed U.S.
+
+366
+00:19:51.480 --> 00:19:52.780
+<v Maya>robotics firms.
+
+367
+00:19:53.370 --> 00:19:58.180
+<v Alex>So they’re buying data from people in their homes and turning it into AI training
+
+368
+00:19:58.180 --> 00:19:58.700
+<v Alex>sets.
+
+369
+00:19:59.280 --> 00:20:05.170
+<v Maya>Exactly, and the $26 million equity comes from Accel and a bunch of other names,
+
+370
+00:20:05.170 --> 00:20:08.440
+<v Maya>plus $21 million in debt from Lighthouse Canton.
+
+371
+00:20:08.440 --> 00:20:09.440
+<v Alex>That’s a lot of money.
+
+372
+00:20:09.930 --> 00:20:12.680
+<v Maya>They’ve only got 12 paying customers,
+
+373
+00:20:12.680 --> 00:20:16.180
+<v Maya>but already pulled in $10 million in revenue in half a year.
+
+374
+00:20:16.600 --> 00:20:21.120
+<v Alex>And they’re paying workers daily while waiting 30–60 days for clients.
+
+375
+00:20:21.920 --> 00:20:23.940
+<v Maya>That explains why the venture debt is a thing.
+
+376
+00:20:24.060 --> 00:20:24.260
+<v Alex>Right.
+
+377
+00:20:25.280 --> 00:20:29.420
+<v Maya>So the big surprise is the scale of the debt‑equity mix for a startup still
+
+378
+00:20:29.420 --> 00:20:30.900
+<v Maya>hustling to get cash flow.
+
+379
+00:20:31.450 --> 00:20:33.500
+<v Alex>What’s the trick behind their two‑camera setup?
+
+380
+00:20:33.860 --> 00:20:38.900
+<v Maya>They’ve built a dual‑camera rig that captures people doing normal chores; then
+
+381
+00:20:38.900 --> 00:20:42.160
+<v Maya>their software tags hand moves, object interactions,
+
+382
+00:20:42.160 --> 00:20:45.120
+<v Maya>and turns the raw clips into labeled data.
+
+383
+00:20:45.127 --> 00:20:46.320
+<v Alex>That’s a lot of detail.
+
+384
+00:20:46.830 --> 00:20:50.580
+<v Maya>Yeah, and they run this across more than 20 countries, with Brazil,
+
+385
+00:20:50.580 --> 00:20:53.560
+<v Maya>India and South Korea as the main hubs,
+
+386
+00:20:53.560 --> 00:20:56.820
+<v Maya>pulling from a network that grew out of their earlier studio.
+
+387
+00:20:57.340 --> 00:20:59.400
+<v Alex>So the founders came from a game studio?
+
+388
+00:20:59.740 --> 00:21:05.000
+<v Maya>Right, Manish Agarwal was the former CEO of a gaming firm and Ishank Gupta had a
+
+389
+00:21:05.000 --> 00:21:10.590
+<v Maya>stint at AB InBev; they spun off Kratos Studios, now KGeN,
+
+390
+00:21:10.590 --> 00:21:13.500
+<v Maya>which already had a contributor network that feeds Humyn Labs.
+
+391
+00:21:14.020 --> 00:21:15.660
+<v Alex>That explains the data pipeline.
+
+392
+00:21:16.140 --> 00:21:20.730
+<v Maya>And on the money side, they’ve hit $10 million in revenue in six months,
+
+393
+00:21:20.730 --> 00:21:26.170
+<v Maya>with another $20 million in signed deals and another $20 million still pending,
+
+394
+00:21:26.170 --> 00:21:28.360
+<v Maya>which is why the debt component is so prominent.
+
+395
+00:21:28.700 --> 00:21:29.520
+<v Maya>That’s a heavy debt.
+
+396
+00:21:29.520 --> 00:21:30.640
+<v Alex>Interesting debt mix.
+
+397
+00:21:31.240 --> 00:21:35.680
+<v Maya>I think the debt shows they’re cash‑tight, but it also signals investor confidence.
+
+398
+00:21:36.240 --> 00:21:39.180
+<v Alex>But the equity was huge, so maybe they’re just hedging.
+
+399
+00:21:39.620 --> 00:21:43.160
+<v Maya>They only have 12 customers, so the revenue stream feels shaky.
+
+400
+00:21:43.280 --> 00:21:44.020
+<v Alex>Huh, that’s a risk.
+
+401
+00:21:44.470 --> 00:21:46.480
+<v Maya>My read is they’re betting on a data boom,
+
+402
+00:21:46.480 --> 00:21:51.600
+<v Maya>but their model relies on daily payments to workers and long customer terms.
+
+403
+00:21:52.130 --> 00:21:55.620
+<v Alex>It sounds like they’re building a bridge between labor and AI,
+
+404
+00:21:55.620 --> 00:21:59.140
+<v Alex>but whether that bridge holds up remains to be seen.
+
+405
+00:22:00.780 --> 00:22:02.840
+<v Alex>Hey Maya, did you see the IPO buzz?
+
+406
+00:22:03.420 --> 00:22:05.840
+<v Maya>Yeah, Jaan Tallinn's stake could hit tens of billions.
+
+407
+00:22:06.620 --> 00:22:09.450
+<v Alex>He’s the same guy who warned AI might end us.
+
+408
+00:22:10.200 --> 00:22:12.810
+<v Maya>Right, he sold Skype, now betting on Anthropic.
+
+409
+00:22:13.350 --> 00:22:17.360
+<v Alex>He invested 124 million before Claude even launched.
+
+410
+00:22:17.900 --> 00:22:21.200
+<v Maya>Anthropic’s valuation could hit about 1.4 trillion.
+
+411
+00:22:21.420 --> 00:22:22.060
+<v Alex>That’s insane.
+
+412
+00:22:22.870 --> 00:22:25.840
+<v Maya>And he’s an early backer through effective altruism circles.
+
+413
+00:22:26.730 --> 00:22:28.860
+<v Maya>What’s the real deal with his early stake, Alex?
+
+414
+00:22:29.410 --> 00:22:34.720
+<v Alex>He put in $124 million in Series A, before Claude existed.
+
+415
+00:22:35.260 --> 00:22:36.920
+<v Maya>He’s a doomer and a billionaire, huh?
+
+416
+00:22:37.260 --> 00:22:40.800
+<v Alex>He sold Skype to eBay, then bet on safety‑first AI.
+
+417
+00:22:41.540 --> 00:22:43.730
+<v Maya>Did he ever say why he’d back Anthropic?
+
+418
+00:22:44.140 --> 00:22:48.900
+<v Alex>He said funding a safety‑conscious lab was the best way to keep a lid on risk.
+
+419
+00:22:49.060 --> 00:22:50.000
+<v Maya>And he’s still holding?
+
+420
+00:22:50.430 --> 00:22:55.120
+<v Alex>He’s one of the largest IPO winners; the return could be in the tens of billions.
+
+421
+00:22:55.840 --> 00:23:00.100
+<v Alex>I think the IPO shows the market is still chasing hype, not safety.
+
+422
+00:23:00.660 --> 00:23:03.140
+<v Maya>He’s betting on a lab that might not profit for years.
+
+423
+00:23:03.360 --> 00:23:04.060
+<v Alex>I don’t buy it.
+
+424
+00:23:04.740 --> 00:23:06.900
+<v Maya>But the valuation could make him a billionaire.
+
+425
+00:23:07.520 --> 00:23:09.860
+<v Alex>It’s a gamble that could backfire if the tech stalls.
+
+426
+00:23:10.810 --> 00:23:13.200
+<v Maya>Yet he’s a doomer, so maybe he’s hedging his bets.
+
+427
+00:23:13.810 --> 00:23:17.440
+<v Alex>The real question is whether Anthropic can actually deliver.
+
+428
+00:23:17.910 --> 00:23:21.500
+<v Maya>If they do, the return will be massive; if not, the hype will fade.
+
+429
+00:23:23.180 --> 00:23:29.720
+<v Maya>Anthropic priced its IPO at $83, above the $70–78 range,
+
+430
+00:23:29.720 --> 00:23:31.960
+<v Maya>valuing it at $1.5 trillion.
+
+431
+00:23:32.620 --> 00:23:33.600
+<v Alex>83 bucks?
+
+432
+00:23:33.600 --> 00:23:34.240
+<v Alex>That’s a jump.
+
+433
+00:23:34.720 --> 00:23:38.500
+<v Maya>The price was set after a strong demand wave, so investors dug in.
+
+434
+00:23:38.620 --> 00:23:39.140
+<v Alex>Why the leap?
+
+435
+00:23:39.510 --> 00:23:44.580
+<v Maya>The hype around AI still pulls in cash, even after Nvidia’s CEO exit.
+
+436
+00:23:44.580 --> 00:23:46.040
+<v Alex>So it’s a hype‑cash combo.
+
+437
+00:23:46.870 --> 00:23:51.760
+<v Maya>Amazon owns about 15%, Google almost 14%,
+
+438
+00:23:51.760 --> 00:23:56.060
+<v Maya>and a bundle of tech firms bought $26 billion in non‑voting shares.
+
+439
+00:23:56.060 --> 00:23:57.360
+<v Alex>Big names, big bucks.
+
+440
+00:23:58.060 --> 00:24:04.720
+<v Maya>Co‑founders each sold 3.4 million shares, netting roughly $282 million each.
+
+441
+00:24:05.150 --> 00:24:08.020
+<v Alex>What about the private placement—how big is that deal?
+
+442
+00:24:08.320 --> 00:24:12.220
+<v Maya>They’re buying $26 billion of non‑voting shares,
+
+443
+00:24:12.220 --> 00:24:16.740
+<v Maya>the same five tech giants that already own 15–14% each.
+
+444
+00:24:16.860 --> 00:24:17.720
+<v Alex>26 billion?
+
+445
+00:24:18.140 --> 00:24:20.920
+<v Maya>Yes, that’s the figure that matched the IPO,
+
+446
+00:24:20.920 --> 00:24:23.340
+<v Maya>and it’s a separate tranche outside the public offering.
+
+447
+00:24:23.800 --> 00:24:25.240
+<v Alex>So the public is getting the rest.
+
+448
+00:24:26.235 --> 00:24:26.840
+<v Maya>Exactly.
+
+449
+00:24:26.840 --> 00:24:32.360
+<v Maya>And the founders, including Amodei, each pulled out 3.4 million shares,
+
+450
+00:24:32.360 --> 00:24:35.600
+<v Maya>cashing in around $282 million apiece.
+
+451
+00:24:35.860 --> 00:24:36.780
+<v Alex>That’s a tidy exit.
+
+452
+00:24:37.160 --> 00:24:41.300
+<v Maya>And the backers—Sequoia, Iconiq, Lightspeed, Accel,
+
+453
+00:24:41.300 --> 00:24:44.970
+<v Maya>Altimeter—were ready to buy billions more during the IPO,
+
+454
+00:24:44.970 --> 00:24:46.060
+<v Maya>showing they’re still bullish.
+
+455
+00:24:46.660 --> 00:24:50.000
+<v Maya>So the hype still pulls cash, even with the Nvidia shakeup.
+
+456
+00:24:50.140 --> 00:24:51.260
+<v Alex>Hype‑cash combo, yeah.
+
+457
+00:24:51.600 --> 00:24:54.070
+<v Maya>Those big tech stakes show confidence,
+
+458
+00:24:54.070 --> 00:24:56.240
+<v Maya>but non‑voting shares mean they’re not voting.
+
+459
+00:24:56.860 --> 00:25:00.860
+<v Alex>Non‑voting, yet they’re buying $26 billion—what’s the point?
+
+460
+00:25:01.300 --> 00:25:04.820
+<v Maya>They want the upside without control, a typical investor move.
+
+461
+00:25:05.390 --> 00:25:11.400
+<v Alex>Founders cashing $282 million each—nice exit, but was the price right?
+
+462
+00:25:11.860 --> 00:25:14.680
+<v Maya>It feels like a validation of AI’s market,
+
+463
+00:25:14.680 --> 00:25:17.160
+<v Maya>but also a sign that valuation can be inflated.
+
+464
+00:25:17.700 --> 00:25:21.080
+<v Alex>I think it’s a signal that AI still commands premium,
+
+465
+00:25:21.080 --> 00:25:22.540
+<v Alex>but we’ll see if the price holds.
+
+466
+00:25:24.300 --> 00:25:27.670
+<v Alex>That one caught my eye—Nvidia still broke revenue records.
+
+467
+00:25:28.320 --> 00:25:34.740
+<v Maya>They reported $115.8 billion, up 103% from last year’s quarter.
+
+468
+00:25:35.460 --> 00:25:36.080
+<v Alex>103%?
+
+469
+00:25:36.310 --> 00:25:41.120
+<v Maya>CFO Colette Kress said it beat their own $108 billion guide.
+
+470
+00:25:41.540 --> 00:25:46.200
+<v Alex>And they’re raising the 2028 outlook to 75% growth.
+
+471
+00:25:46.840 --> 00:25:53.820
+<v Maya>They’re also buying back shares—$28.1 billion this quarter, $227 billion left.
+
+472
+00:25:54.300 --> 00:25:56.260
+<v Alex>With Huang gone, they’re still confident?
+
+473
+00:25:56.840 --> 00:26:01.520
+<v Maya>Colette’s tone was all “business as usual,” suppliers and partners fully behind.
+
+474
+00:26:02.080 --> 00:26:07.040
+<v Alex>It’s all about the data‑center bandwidth—he said “we’ve secured memory and advanced
+
+475
+00:26:07.040 --> 00:26:08.100
+<v Alex>packaging capacity.”
+
+476
+00:26:08.420 --> 00:26:09.660
+<v Maya>So it’s a supply‑side fix?
+
+477
+00:26:10.140 --> 00:26:15.780
+<v Alex>Exactly, and they’re partnering with TSMC to narrow the gap between chips made and
+
+478
+00:26:15.780 --> 00:26:16.520
+<v Alex>chips needed.
+
+479
+00:26:16.920 --> 00:26:18.260
+<v Maya>That’s a big partnership play.
+
+480
+00:26:18.640 --> 00:26:24.890
+<v Alex>On the finance side, the buy‑back program jumped to $150 billion last September,
+
+481
+00:26:24.890 --> 00:26:28.760
+<v Alex>and they still have $227 billion left to deploy.
+
+482
+00:26:29.240 --> 00:26:33.020
+<v Maya>How much can that actually cushion the share price after Huang’s exit?
+
+483
+00:26:33.360 --> 00:26:38.930
+<v Alex>Investors cheered the numbers, pushing the stock up about 4% in after‑hours,
+
+484
+00:26:38.930 --> 00:26:41.460
+<v Alex>despite a 10% drop since his resignation.
+
+485
+00:26:42.370 --> 00:26:43.280
+<v Alex>That fast?
+
+486
+00:26:43.280 --> 00:26:47.280
+<v Alex>103% growth feels like a headline, not reality.
+
+487
+00:26:47.780 --> 00:26:50.500
+<v Maya>Yeah, but they beat their own guide, so the numbers speak.
+
+488
+00:26:51.090 --> 00:26:56.520
+<v Alex>Buy‑backs are great, but 28.1 billion this quarter is just a drop in the bucket.
+
+489
+00:26:56.970 --> 00:27:02.780
+<v Maya>The 227 billion left keeps the market buoyant, even after a 10% slump.
+
+490
+00:27:03.260 --> 00:27:06.340
+<v Alex>Still, without Huang, can the engineers keep the momentum?
+
+491
+00:27:06.960 --> 00:27:11.300
+<v Maya>Colette said the tech team is the best, and partners are 100% behind.
+
+492
+00:27:11.950 --> 00:27:15.980
+<v Alex>If TSMC fills the gap, data‑center demand could stay steady.
+
+493
+00:27:16.490 --> 00:27:21.240
+<v Maya>The real question is whether that confidence translates into sustainable profits.
+
+494
+00:27:22.940 --> 00:27:28.170
+<v Maya>Nvidia’s shares slipped 2.89% after the earnings call, CNBC reports.
+
+495
+00:27:28.840 --> 00:27:30.980
+<v Alex>That’s not a huge drop, but it’s a trend.
+
+496
+00:27:31.390 --> 00:27:35.680
+<v Maya>The stock’s down over 13% this week, and the neoclouds are jittery.
+
+497
+00:27:36.380 --> 00:27:37.660
+<v Alex>Hold on, what about the numbers?
+
+498
+00:27:38.150 --> 00:27:40.600
+<v Alex>So they’re making money but the market’s still nervous.
+
+499
+00:27:41.140 --> 00:27:43.640
+<v Maya>And the board just said they won’t bring back Jensen Huang.
+
+500
+00:27:44.600 --> 00:27:48.600
+<v Alex>That explains the volatility; the market’s worried about leadership.
+
+501
+00:27:49.160 --> 00:27:51.660
+<v Alex>What’s the deal with the export controls on the chips?
+
+502
+00:27:52.090 --> 00:27:56.880
+<v Maya>The Commerce Department said it will tighten rules so Chinese firms can’t pull
+
+503
+00:27:56.880 --> 00:27:58.780
+<v Maya>compute from overseas data centers.
+
+504
+00:27:59.340 --> 00:28:00.980
+<v Alex>So it’s not about the chips themselves?
+
+505
+00:28:01.600 --> 00:28:06.020
+<v Maya>Right, the chips are already blocked by existing controls; this is about the remote
+
+506
+00:28:06.020 --> 00:28:06.840
+<v Maya>access angle.
+
+507
+00:28:06.840 --> 00:28:07.740
+<v Alex>What about the guidance?
+
+508
+00:28:08.270 --> 00:28:10.060
+<v Alex>And the board’s stance on the former CEO?
+
+509
+00:28:10.610 --> 00:28:13.960
+<v Maya>Harvey Jones said the board won’t reinstate Jensen Huang.
+
+510
+00:28:14.300 --> 00:28:15.140
+<v Maya>Not buying it.
+
+511
+00:28:15.540 --> 00:28:20.160
+<v Alex>I think the export tweak is just a formal layer over existing controls.
+
+512
+00:28:20.330 --> 00:28:21.120
+<v Maya>Hold on, what?
+
+513
+00:28:21.530 --> 00:28:26.160
+<v Alex>The board cutting ties with Huang signals a shift in leadership focus,
+
+514
+00:28:26.160 --> 00:28:28.340
+<v Alex>but the revenue still beats expectations.
+
+515
+00:28:29.030 --> 00:28:30.200
+<v Maya>And the neoclouds?
+
+516
+00:28:30.200 --> 00:28:31.100
+<v Maya>They’re still jittery.
+
+517
+00:28:31.790 --> 00:28:34.840
+<v Alex>I read the guidance as a confidence boost,
+
+518
+00:28:34.840 --> 00:28:37.700
+<v Alex>but the market’s reaction shows they’re testing the waters.
+
+519
+00:28:38.370 --> 00:28:42.180
+<v Maya>So the chips are already blocked; the new rules just add another layer.
+
+520
+00:28:42.730 --> 00:28:45.760
+<v Alex>In short, Nvidia’s still pulling in cash,
+
+521
+00:28:45.760 --> 00:28:50.080
+<v Alex>but its leadership and export stance are creating a cautious vibe that’s keeping
+
+522
+00:28:50.080 --> 00:28:51.160
+<v Alex>the market on edge.
+
+523
+00:28:52.890 --> 00:28:55.480
+<v Alex>He just pulled Heidi Overton from the FDA list.
+
+524
+00:28:55.940 --> 00:29:00.010
+<v Maya>And the NSF pick was tossed too, all in the same 24‑hour stretch.
+
+525
+00:29:00.680 --> 00:29:06.180
+<v Alex>She’s a conservative White House aide who’s faced fire over vaccines, abortion,
+
+526
+00:29:06.180 --> 00:29:07.380
+<v Alex>vapes, and birth control.
+
+527
+00:29:07.810 --> 00:29:12.320
+<v Maya>Republicans and Democrats both slammed her during the hearing; she dodged even
+
+528
+00:29:12.320 --> 00:29:13.200
+<v Maya>simple questions.
+
+529
+00:29:13.540 --> 00:29:14.060
+<v Alex>“No answers?”
+
+530
+00:29:14.760 --> 00:29:17.450
+<v Maya>Republicans say she’s too weak on abortion,
+
+531
+00:29:17.450 --> 00:29:19.820
+<v Maya>Democrats point to her anti‑vaccine stance.
+
+532
+00:29:20.540 --> 00:29:22.480
+<v Alex>So the White House just dropped her entirely?
+
+533
+00:29:23.140 --> 00:29:27.180
+<v Maya>Yes, according to Ars Technica, the nomination was withdrawn abruptly.
+
+534
+00:29:28.195 --> 00:29:30.460
+<v Maya>What does the hearing in September look like, exactly?
+
+535
+00:29:30.960 --> 00:29:35.640
+<v Alex>He kept saying “I don’t know” to pretty much every question, even the easy ones.
+
+536
+00:29:36.550 --> 00:29:38.740
+<v Maya>That’s odd for a nominee; did anyone push back?
+
+537
+00:29:39.090 --> 00:29:44.990
+<v Alex>Senators on both sides got frustrated—Republicans said she was weak on abortion,
+
+538
+00:29:44.990 --> 00:29:47.940
+<v Alex>Democrats called out her anti‑vaccine stance.
+
+539
+00:29:48.020 --> 00:29:48.970
+<v Maya>And the NSF?
+
+540
+00:29:49.280 --> 00:29:53.980
+<v Alex>The White House pulled that nomination too, just hours after the FDA one.
+
+541
+00:29:54.400 --> 00:29:56.720
+<v Maya>Two drops in a day—must be a messy admin.
+
+542
+00:29:57.210 --> 00:30:00.040
+<v Alex>The article doesn’t say why, just that it was abrupt.
+
+543
+00:30:00.620 --> 00:30:03.860
+<v Alex>This feels like a cleanup crew setting up for the next round.
+
+544
+00:30:04.540 --> 00:30:07.780
+<v Maya>Yeah, but the lack of detail makes it hard to gauge impact.
+
+545
+00:30:08.300 --> 00:30:11.440
+<v Alex>So the White House just pulls both picks after a single hearing?
+
+546
+00:30:11.760 --> 00:30:15.320
+<v Maya>It’s almost like they’re playing a game of “who can drop a nominee quickest.”
+
+547
+00:30:16.090 --> 00:30:19.460
+<v Alex>Maybe they’re trying to avoid a protracted confirmation battle.
+
+548
+00:30:19.920 --> 00:30:24.120
+<v Maya>Or they’re signaling that the nominees don’t meet the threshold of bipartisan
+
+549
+00:30:24.120 --> 00:30:24.740
+<v Maya>comfort.
+
+550
+00:30:25.107 --> 00:30:29.340
+<v Alex>Either way, it shows the admin is willing to abandon a plan mid‑stream.
+
+551
+00:30:29.780 --> 00:30:33.940
+<v Maya>That’s the takeaway—nominations are contingent on the political climate,
+
+552
+00:30:33.940 --> 00:30:35.720
+<v Maya>not just policy fit.
+
+553
+00:30:37.320 --> 00:30:40.340
+<v Maya>Alex, did the DOJ just step into Megaspeed's case?
+
+554
+00:30:40.720 --> 00:30:43.630
+<v Alex>Yeah, they said they took the lead after Commerce stopped.
+
+555
+00:30:44.110 --> 00:30:48.880
+<v Maya>The story started with a rumored romance between Jensen Huang and a Megaspeed exec.
+
+556
+00:30:48.990 --> 00:30:49.880
+<v Alex>Hold on, what?
+
+557
+00:30:50.340 --> 00:30:54.590
+<v Maya>Commerce first flagged Megaspeed for potential export violations,
+
+558
+00:30:54.590 --> 00:30:56.420
+<v Maya>then asked Nvidia for records.
+
+559
+00:30:57.060 --> 00:30:59.400
+<v Alex>And then Nvidia put them on a no‑sell list.
+
+560
+00:30:59.940 --> 00:31:05.020
+<v Maya>After an on‑site check and interviewing CEO Alice Huang, the DOJ took over.
+
+561
+00:31:05.500 --> 00:31:08.440
+<v Alex>So the DOJ is now looking for criminal conduct?
+
+562
+00:31:08.890 --> 00:31:10.240
+<v Maya>That’s the gist, per The Verge.
+
+563
+00:31:10.760 --> 00:31:13.380
+<v Alex>What exactly triggered the DOJ to take the lead?
+
+564
+00:31:13.780 --> 00:31:17.570
+<v Maya>They got a file from Commerce that flagged export control risks,
+
+565
+00:31:17.570 --> 00:31:19.140
+<v Maya>then launched an on‑site check.
+
+566
+00:31:19.660 --> 00:31:20.560
+<v Alex>On‑site check?
+
+567
+00:31:20.560 --> 00:31:21.300
+<v Alex>How does that work?
+
+568
+00:31:21.680 --> 00:31:26.320
+<v Maya>They teamed up with Singapore law enforcement to verify end‑use and interviewed
+
+569
+00:31:26.320 --> 00:31:28.760
+<v Maya>Megaspeed’s CEO, Alice Huang.
+
+570
+00:31:28.900 --> 00:31:29.360
+<v Alex>That fast?
+
+571
+00:31:29.810 --> 00:31:33.020
+<v Maya>The DOJ stepped in after Commerce pulled back,
+
+572
+00:31:33.020 --> 00:31:34.700
+<v Maya>citing the need for criminal scrutiny.
+
+573
+00:31:35.230 --> 00:31:36.700
+<v Alex>So the no‑sell list came first?
+
+574
+00:31:37.220 --> 00:31:40.560
+<v Maya>Nvidia put Megaspeed on its no‑sell list in June,
+
+575
+00:31:40.560 --> 00:31:42.500
+<v Maya>before the DOJ started its own probe.
+
+576
+00:31:42.790 --> 00:31:43.600
+<v Maya>That fast, huh?
+
+577
+00:31:43.880 --> 00:31:45.640
+<v Alex>The DOJ swooped in overnight.
+
+578
+00:31:46.260 --> 00:31:48.420
+<v Maya>Are we looking at a pattern of rushed investigations?
+
+579
+00:31:49.180 --> 00:31:51.220
+<v Alex>Maybe, but if there's a flag, they need to act.
+
+580
+00:31:51.800 --> 00:31:54.720
+<v Maya>The no‑sell list before the probe feels like a red flag.
+
+581
+00:31:55.250 --> 00:31:58.320
+<v Alex>It just shows Nvidia was cautious, not a cover‑up.
+
+582
+00:31:58.940 --> 00:32:02.700
+<v Maya>Still, the DOJ stepping in could signal bigger industry scrutiny.
+
+583
+00:32:03.230 --> 00:32:05.560
+<v Alex>And that’s the real takeaway, not a headline.
+
+584
+00:32:07.240 --> 00:32:08.360
+<v Alex>That's the news.
+
+585
+00:32:08.360 --> 00:32:09.180
+<v Alex>Time for The Takeaway.
+
+586
+00:32:09.734 --> 00:32:14.280
+<v Maya>The real riff here is whether Nvidia’s pull‑back will still make the market lean on
+
+587
+00:32:14.280 --> 00:32:15.140
+<v Maya>AI chips.
+
+588
+00:32:15.870 --> 00:32:18.660
+<v Alex>Yeah, if they keep walking away from China,
+
+589
+00:32:18.660 --> 00:32:21.480
+<v Alex>the supply chain will bite more than the headline buzz.
+
+590
+00:32:22.170 --> 00:32:26.480
+<v Maya>So the big question: will the startup deals keep flowing or stall once the
+
+591
+00:32:26.480 --> 00:32:28.200
+<v Maya>Nvidia‑Huang deal falls apart?
+
+592
+00:32:28.640 --> 00:32:31.320
+<v Alex>I think the startups will keep looking for other partners.
+
+593
+00:32:32.020 --> 00:32:36.320
+<v Maya>Hang on—if Nvidia’s revenue stays high, the fear of a slowdown is just hype.
+
+594
+00:32:36.860 --> 00:32:39.140
+<v Alex>Right, the numbers still look solid,
+
+595
+00:32:39.140 --> 00:32:42.040
+<v Alex>but the lack of future deals could crack the bigger picture.
+
+596
+00:32:42.850 --> 00:32:47.620
+<v Maya>We’ll watch how the IPO valuations shift after the Anthropic launch and whether
+
+597
+00:32:47.620 --> 00:32:49.040
+<v Maya>this fuels a new wave.
+
+598
+00:32:49.720 --> 00:32:54.180
+<v Alex>Maya, what if the market starts treating Nvidia like a forgotten relic?
+
+599
+00:32:54.180 --> 00:32:55.140
+<v Alex>I’m not convinced.
+
+600
+00:32:56.920 --> 00:32:58.240
+<v Maya>And that's First Tick.
+
+601
+00:32:58.240 --> 00:33:01.540
+<v Maya>Every story we talked about is linked in the show notes.
+
+602
+00:33:01.540 --> 00:33:02.960
+<v Maya>Got a question for us?
+
+603
+00:33:02.960 --> 00:33:04.400
+<v Maya>The link to send it is there too.
+
+604
+00:33:04.970 --> 00:33:06.680
+<v Alex>Next up is First Tick, tomorrow.
+
+605
+00:33:06.680 --> 00:33:12.400
+<v Alex>Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+606
+00:33:12.400 --> 00:33:14.890
+<v Alex>From Bits and Tickers, I'm Alex.
+
+607
+00:33:14.890 --> 00:33:15.940
+<v Alex>Keep building.
+
+608
+00:33:15.947 --> 00:33:16.440
+<v Maya>I'm Maya.
+
+609
+00:33:16.440 --> 00:33:17.440
+<v Maya>And keep counting.
