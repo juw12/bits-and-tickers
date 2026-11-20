@@ -1,0 +1,2333 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:02.710
+<v Maya>Anthropic IPO gives away a fortune.
+
+2
+00:00:02.710 --> 00:00:05.300
+<v Maya>That, and sixteen more stories, on First Tick.
+
+3
+00:00:14.677 --> 00:00:16.320
+<v Alex>This is Bits and Tickers.
+
+4
+00:00:16.320 --> 00:00:18.260
+<v Alex>What got built, and what it's worth.
+
+5
+00:00:18.260 --> 00:00:18.650
+<v Alex>I'm Alex.
+
+6
+00:00:19.320 --> 00:00:20.560
+<v Maya>And I'm Maya.
+
+7
+00:00:20.560 --> 00:00:24.650
+<v Maya>It's Friday, November 20th, and this is First Tick: the day's tech,
+
+8
+00:00:24.650 --> 00:00:29.200
+<v Maya>AI and market news in about half an hour, with why each story matters.
+
+9
+00:00:29.200 --> 00:00:31.460
+<v Maya>Everything we talk about is linked in the show notes.
+
+10
+00:00:31.940 --> 00:00:33.360
+<v Alex>On today's show.
+
+11
+00:00:33.360 --> 00:00:36.340
+<v Alex>Anthropic IPO gives away a fortune.
+
+12
+00:00:36.340 --> 00:00:38.120
+<v Alex>Apple’s Siri just got a new brain.
+
+13
+00:00:38.120 --> 00:00:41.680
+<v Alex>Google’s Gemini gets hands on a Mac.
+
+14
+00:00:41.680 --> 00:00:45.370
+<v Alex>Meta’s $300 AI keychain hits the market.
+
+15
+00:00:45.370 --> 00:00:47.820
+<v Alex>And Anthropic hits the market with a bang.
+
+16
+00:00:47.820 --> 00:00:49.200
+<v Alex>Plus twelve more.
+
+17
+00:00:49.200 --> 00:00:49.940
+<v Alex>Let's get into it.
+
+18
+00:00:51.470 --> 00:00:53.150
+<v Maya>Time for The Ticker.
+
+19
+00:00:53.150 --> 00:01:01.240
+<v Maya>At Thursday's close, the S&amp;P 500 finished at 7,176, down 2.0 percent.
+
+20
+00:01:01.240 --> 00:01:06.820
+<v Maya>The Nasdaq Composite was down 2.3 percent and the Dow was down 2.2 percent.
+
+21
+00:01:07.550 --> 00:01:11.700
+<v Alex>And in big tech, Apple had the best day, down 0.9 percent,
+
+22
+00:01:11.700 --> 00:01:16.330
+<v Alex>while Amazon was at the other end, down 3.9 percent.
+
+23
+00:01:16.330 --> 00:01:17.900
+<v Alex>That's a snapshot, not advice.
+
+24
+00:01:19.800 --> 00:01:25.880
+<v Alex>Anthropic’s IPO just hit the market, and it’s dumping a huge chunk onto charity,
+
+25
+00:01:25.880 --> 00:01:26.980
+<v Alex>according to TechCrunch.
+
+26
+00:01:27.690 --> 00:01:34.100
+<v Maya>The Public Benefit Fund got 5% of the shares—about 850 million—worth roughly
+
+27
+00:01:34.100 --> 00:01:37.120
+<v Maya>$80 billion at $95 a share.
+
+28
+00:01:37.640 --> 00:01:40.200
+<v Alex>That’s a lot of paper money to turn into donations.
+
+29
+00:01:40.200 --> 00:01:41.540
+<v Alex>What’s the plan?
+
+30
+00:01:41.800 --> 00:01:47.140
+<v Maya>They’ve already pledged $200 million for AI‑work‑impact studies and may fund
+
+31
+00:01:47.140 --> 00:01:48.890
+<v Maya>UBI‑type projects later.
+
+32
+00:01:49.340 --> 00:01:50.940
+<v Alex>Hold on, what about the employees?
+
+33
+00:01:51.320 --> 00:01:54.820
+<v Maya>Employees pledged $23 billion worth of shares,
+
+34
+00:01:54.820 --> 00:01:59.980
+<v Maya>and Anthropic will match that 3‑to‑1 for veterans, 1‑to‑1 for newer hires.
+
+35
+00:02:00.660 --> 00:02:04.780
+<v Alex>So that’s another $53 billion up the charitable feed.
+
+36
+00:02:05.290 --> 00:02:12.920
+<v Maya>In total, the IPO could funnel about $156 billion to causes, a quarter of U.S.
+
+37
+00:02:12.920 --> 00:02:14.700
+<v Maya>donations in 2025.
+
+38
+00:02:15.500 --> 00:02:18.960
+<v Maya>How does the 5% allocation actually get turned into cash?
+
+39
+00:02:19.400 --> 00:02:23.960
+<v Alex>The PBF sits on stock; when it sells, the proceeds go to the foundation.
+
+40
+00:02:24.750 --> 00:02:26.000
+<v Maya>So it’s a paper‑based charity?
+
+41
+00:02:26.480 --> 00:02:32.460
+<v Alex>Yeah, and they plan to add another 2% whenever valuation jumps 50% over the IPO
+
+42
+00:02:32.460 --> 00:02:33.020
+<v Alex>price.
+
+43
+00:02:33.880 --> 00:02:37.100
+<v Maya>What about the employee match—who decides what gets donated?
+
+44
+00:02:37.640 --> 00:02:39.480
+<v Maya>Any idea which causes they’ll target?
+
+45
+00:02:39.880 --> 00:02:45.560
+<v Alex>The filing lists EA‑leaning groups like GiveWell and Foresight Institute; AI safety
+
+46
+00:02:45.560 --> 00:02:47.200
+<v Alex>research is a big focus.
+
+47
+00:02:47.480 --> 00:02:48.180
+<v Alex>That fast?
+
+48
+00:02:48.184 --> 00:02:49.060
+<v Maya>The numbers are huge.
+
+49
+00:02:49.670 --> 00:02:52.640
+<v Alex>But paper‑based charity—does that really help the cause?
+
+50
+00:02:53.190 --> 00:02:56.140
+<v Maya>It’s a start, but the match hinges on employees delivering.
+
+51
+00:02:56.700 --> 00:03:00.300
+<v Alex>I think the EA angle is more about influence than cash flow.
+
+52
+00:03:00.880 --> 00:03:04.920
+<v Maya>I read it as a market play; they’re turning philanthropy into a brand asset.
+
+53
+00:03:05.560 --> 00:03:08.040
+<v Alex>If the match goes through, the impact could be real.
+
+54
+00:03:08.540 --> 00:03:12.760
+<v Maya>The real question is whether the funds will reach the people they’re meant for.
+
+55
+00:03:14.340 --> 00:03:19.380
+<v Maya>Apple is hiring a lead engineer to build an AI agent that can browse the web and
+
+56
+00:03:19.380 --> 00:03:20.120
+<v Maya>work across apps.
+
+57
+00:03:20.800 --> 00:03:23.120
+<v Alex>So they’re moving beyond Siri’s current shortcuts.
+
+58
+00:03:23.220 --> 00:03:28.340
+<v Maya>The job says the agent will plan multi‑step tasks, even coordinate sub‑agents.
+
+59
+00:03:28.500 --> 00:03:29.840
+<v Alex>That sounds like a big jump.
+
+60
+00:03:30.380 --> 00:03:35.240
+<v Maya>It’s a move to compete with Meta, OpenAI, Anthropic, and Google’s new Gemini.
+
+61
+00:03:36.260 --> 00:03:38.600
+<v Alex>Guess Apple’s finally building a real assistant.
+
+62
+00:03:39.060 --> 00:03:45.020
+<v Maya>The iOS 27.3 update will let developers embed Siri AI in all apps.
+
+63
+00:03:45.510 --> 00:03:47.940
+<v Alex>So the agent could do anything the phone can do?
+
+64
+00:03:48.250 --> 00:03:51.460
+<v Maya>That’s the idea, making Siri the hub for every app and service.
+
+65
+00:03:51.940 --> 00:03:54.360
+<v Alex>What’s the tech stack they’re leaning on for this agent?
+
+66
+00:03:54.650 --> 00:03:59.780
+<v Maya>They’re pulling from Apple’s Foundation Models, Siri, and UI Frameworks teams,
+
+67
+00:03:59.780 --> 00:04:00.560
+<v Maya>so it’s all in‑house.
+
+68
+00:04:00.560 --> 00:04:01.400
+<v Alex>That makes sense.
+
+69
+00:04:01.900 --> 00:04:07.080
+<v Maya>The job says the agent will coordinate sub‑agents—think tiny bots that handle each
+
+70
+00:04:07.080 --> 00:04:07.700
+<v Maya>app’s quirks.
+
+71
+00:04:08.420 --> 00:04:09.690
+<v Alex>Sub‑agents per app?
+
+72
+00:04:09.690 --> 00:04:10.640
+<v Alex>That sounds messy.
+
+73
+00:04:11.260 --> 00:04:16.350
+<v Maya>Apple’s idea is to let the main agent delegate to specialized sub‑agents,
+
+74
+00:04:16.350 --> 00:04:17.940
+<v Maya>so the core keeps the plan tight.
+
+75
+00:04:18.470 --> 00:04:20.700
+<v Alex>So it’s like a supervisor that talks to helpers?
+
+76
+00:04:21.180 --> 00:04:25.640
+<v Maya>Exactly, and Bloomberg notes the lead engineer will work closely with those teams
+
+77
+00:04:25.640 --> 00:04:27.020
+<v Maya>to stitch it all together.
+
+78
+00:04:27.230 --> 00:04:27.960
+<v Maya>Sounds plausible.
+
+79
+00:04:27.960 --> 00:04:29.020
+<v Alex>Interesting angle.
+
+80
+00:04:29.520 --> 00:04:33.450
+<v Maya>I think the sub‑agent idea could keep things modular.
+
+81
+00:04:33.450 --> 00:04:36.240
+<v Maya>It might let Apple dodge some of the integration headaches.
+
+82
+00:04:36.310 --> 00:04:37.040
+<v Alex>Could be messy.
+
+83
+00:04:37.610 --> 00:04:43.100
+<v Maya>But if the core stays tight, it could prevent the chaos we see in other ecosystems.
+
+84
+00:04:43.100 --> 00:04:45.860
+<v Maya>That’s a cleaner path to a truly agentic Siri.
+
+85
+00:04:46.420 --> 00:04:51.100
+<v Alex>I worry about the sheer number of APIs Apple would need to expose.
+
+86
+00:04:51.100 --> 00:04:53.600
+<v Alex>That could open a flood of security concerns.
+
+87
+00:04:53.940 --> 00:04:54.540
+<v Maya>Risk is real.
+
+88
+00:04:55.090 --> 00:04:57.590
+<v Alex>Still, if they nail the architecture,
+
+89
+00:04:57.590 --> 00:05:00.420
+<v Alex>it could finally make the iPhone a true assistant.
+
+90
+00:05:02.090 --> 00:05:04.380
+<v Alex>Google just added a Mac agent to Gemini.
+
+91
+00:05:05.004 --> 00:05:07.080
+<v Maya>They’re letting AI write code on your desktop.
+
+92
+00:05:07.840 --> 00:05:09.490
+<v Alex>Any idea how it actually works?
+
+93
+00:05:09.990 --> 00:05:13.120
+<v Maya>It navigates native apps and the web, but you can pause.
+
+94
+00:05:13.770 --> 00:05:15.800
+<v Alex>That’s like having a little robot in your chair.
+
+95
+00:05:16.150 --> 00:05:18.130
+<v Maya>Only if you’re willing to approve every click.
+
+96
+00:05:18.660 --> 00:05:20.360
+<v Alex>Huh, that’s a new level of automation.
+
+97
+00:05:21.060 --> 00:05:24.700
+<v Maya>It’s in English, U.S., for Plus, Pro, Ultra users now.
+
+98
+00:05:25.090 --> 00:05:29.300
+<v Maya>So the agent is actually running on the Mac itself, not just a remote server?
+
+99
+00:05:29.600 --> 00:05:30.000
+<v Maya>That’s…
+
+100
+00:05:30.000 --> 00:05:30.460
+<v Maya>interesting.
+
+101
+00:05:31.020 --> 00:05:35.760
+<v Alex>It shows in a live preview while you keep typing; you see a tiny window of the
+
+102
+00:05:35.760 --> 00:05:37.400
+<v Alex>agent’s actions before it clicks.
+
+103
+00:05:37.984 --> 00:05:39.920
+<v Maya>Does it need a separate login or anything?
+
+104
+00:05:40.370 --> 00:05:44.890
+<v Alex>You just approve each click; there’s a pause button so you can stop it mid‑step.
+
+105
+00:05:45.380 --> 00:05:48.860
+<v Maya>And it only works for Plus, Pro, Ultra users right now?
+
+106
+00:05:49.180 --> 00:05:51.900
+<v Alex>Exactly, and only in the U.S.
+
+107
+00:05:51.900 --> 00:05:54.840
+<v Alex>for English‑speaking customers until they roll it out more.
+
+108
+00:05:55.270 --> 00:05:58.500
+<v Alex>That’s just a fancy way to say “I’ll do the clicks for you.”
+
+109
+00:05:58.930 --> 00:06:01.700
+<v Maya>It’s a tool, not a replacement for human control.
+
+110
+00:06:02.180 --> 00:06:05.020
+<v Alex>Imagine a robot that actually keeps your cursor free.
+
+111
+00:06:05.510 --> 00:06:07.500
+<v Maya>But you still have to approve every click, right?
+
+112
+00:06:07.870 --> 00:06:10.600
+<v Alex>Yeah, so it’s more of a helper than a full‑autopilot.
+
+113
+00:06:11.150 --> 00:06:14.720
+<v Maya>It’s a step toward smarter workflows, but only for a paid tier.
+
+114
+00:06:15.180 --> 00:06:17.720
+<v Alex>I wonder how many people will actually use it daily.
+
+115
+00:06:18.240 --> 00:06:21.600
+<v Maya>Time will tell if the extra cost justifies the convenience.
+
+116
+00:06:23.340 --> 00:06:27.920
+<v Maya>Meta is charging $300 for its new Muse Charm, an AI wearable.
+
+117
+00:06:28.140 --> 00:06:29.840
+<v Alex>$300 for a keychain?
+
+118
+00:06:30.172 --> 00:06:32.180
+<v Maya>They’re calling it a Tamagotchi‑like device.
+
+119
+00:06:32.380 --> 00:06:33.270
+<v Alex>Tamagotchi, huh.
+
+120
+00:06:33.600 --> 00:06:36.540
+<v Maya>Meta said they’ll share more soon, but no details yet.
+
+121
+00:06:37.320 --> 00:06:39.390
+<v Alex>No response from Meta beyond that.
+
+122
+00:06:40.130 --> 00:06:43.640
+<v Maya>Friend sells a similar AI keychain for $250.
+
+123
+00:06:44.450 --> 00:06:47.400
+<v Alex>And Amazon's Bee Frontier is only $75.
+
+124
+00:06:48.340 --> 00:06:50.340
+<v Alex>So what's actually inside that keychain?
+
+125
+00:06:50.740 --> 00:06:53.280
+<v Maya>It's got a tiny speaker, a mic,
+
+126
+00:06:53.280 --> 00:06:57.320
+<v Maya>and a custom silicon chip that runs Meta's own language model,
+
+127
+00:06:57.320 --> 00:06:59.460
+<v Maya>all stitched into a compact form factor.
+
+128
+00:06:59.860 --> 00:07:03.280
+<v Alex>That sounds like a lot of tech for a $300 tag.
+
+129
+00:07:03.920 --> 00:07:07.800
+<v Maya>They’re calling it a personal AI companion, like a Tamagotchi,
+
+130
+00:07:07.800 --> 00:07:11.380
+<v Maya>but with real-time conversation and app integration.
+
+131
+00:07:11.960 --> 00:07:13.620
+<v Alex>A Tamagotchi that can pull your email?
+
+132
+00:07:14.030 --> 00:07:17.060
+<v Maya>Yeah, it hooks up to your photos, emails,
+
+133
+00:07:17.060 --> 00:07:21.260
+<v Maya>calendar—just like the $99/year subscription for Muse does.
+
+134
+00:07:21.940 --> 00:07:23.140
+<v Alex>Meta's still mum about specs.
+
+135
+00:07:23.700 --> 00:07:26.480
+<v Maya>They just said they'll share more soon, no details yet.
+
+136
+00:07:26.900 --> 00:07:27.620
+<v Maya>Meta's still vague.
+
+137
+00:07:27.620 --> 00:07:28.680
+<v Alex>Price seems steep.
+
+138
+00:07:28.680 --> 00:07:29.660
+<v Maya>But the market pays.
+
+139
+00:07:29.860 --> 00:07:30.420
+<v Alex>It could break.
+
+140
+00:07:31.050 --> 00:07:32.380
+<v Maya>If it works, people will pay.
+
+141
+00:07:32.500 --> 00:07:33.600
+<v Alex>I'm skeptical of that.
+
+142
+00:07:33.600 --> 00:07:34.560
+<v Maya>They say it hooks apps.
+
+143
+00:07:34.680 --> 00:07:35.600
+<v Alex>I think it’s a gimmick.
+
+144
+00:07:37.310 --> 00:07:45.640
+<v Alex>Anthropic just listed, and the ticker is ANT; they opened at $111.50 after a $83
+
+145
+00:07:45.640 --> 00:07:47.380
+<v Alex>IPO price.
+
+146
+00:07:47.840 --> 00:07:50.240
+<v Maya>They’re a trillion‑dollar valuation,
+
+147
+00:07:50.240 --> 00:07:56.880
+<v Maya>but the filing shows an $80.7 billion net loss and $16.3 billion revenue.
+
+148
+00:07:57.135 --> 00:07:57.458
+<v Alex>Huh.
+
+149
+00:07:57.743 --> 00:08:01.300
+<v Maya>The loss is mostly an accounting charge, not day‑to‑day ops.
+
+150
+00:08:01.730 --> 00:08:03.440
+<v Alex>So the real business is still a blur.
+
+151
+00:08:04.070 --> 00:08:08.060
+<v Maya>Dario Amodei said they’ll pace training to keep AI safe,
+
+152
+00:08:08.060 --> 00:08:10.180
+<v Maya>refusing business or political pressure.
+
+153
+00:08:10.720 --> 00:08:16.120
+<v Alex>And they warn of “self‑preserving” AI risks, like models resisting shutdowns.
+
+154
+00:08:16.540 --> 00:08:20.480
+<v Maya>It’s a classic safety‑first stance, but investors will keep a tight eye.
+
+155
+00:08:20.940 --> 00:08:23.760
+<v Maya>What’s the deal with that $80.7 billion loss?
+
+156
+00:08:24.310 --> 00:08:27.720
+<v Alex>It’s mostly a one‑time accounting hit, not cash burn.
+
+157
+00:08:28.290 --> 00:08:30.060
+<v Maya>So the real operating loss is smaller?
+
+158
+00:08:30.510 --> 00:08:35.300
+<v Alex>Yeah, the $16.3 billion revenue is the only real pulse.
+
+159
+00:08:35.640 --> 00:08:38.420
+<v Maya>And the safety talk—how does that fit into the IPO?
+
+160
+00:08:39.080 --> 00:08:44.120
+<v Alex>Amodei said they’ll slow training until they’re sure AI stays under human control.
+
+161
+00:08:45.000 --> 00:08:47.640
+<v Maya>That’s a big claim, but investors will keep a close eye.
+
+162
+00:08:48.085 --> 00:08:52.680
+<v Alex>They also warned about self‑preserving behaviors that could resist shutdowns.
+
+163
+00:08:52.980 --> 00:08:56.040
+<v Alex>So, the market loves the hype but the numbers say otherwise.
+
+164
+00:08:56.675 --> 00:09:01.260
+<v Maya>The loss is a one‑time hit, but investors still eyeball the safety claims.
+
+165
+00:09:01.260 --> 00:09:01.700
+<v Alex>Huh.
+
+166
+00:09:02.200 --> 00:09:06.280
+<v Maya>They’re saying they’ll pause training, which sounds cautious but could slow revenue.
+
+167
+00:09:06.420 --> 00:09:06.960
+<v Alex>That's wild.
+
+168
+00:09:07.900 --> 00:09:11.060
+<v Maya>My read is that they're leaning on safety to win trust,
+
+169
+00:09:11.060 --> 00:09:12.600
+<v Maya>but the cash flow is still thin.
+
+170
+00:09:13.140 --> 00:09:15.060
+<v Alex>It feels like a gamble—build or burn?
+
+171
+00:09:15.330 --> 00:09:19.880
+<v Maya>The bottom line is, they’re trying to prove safety without a proven profit engine.
+
+172
+00:09:21.500 --> 00:09:23.760
+<v Maya>Anthropic tops SpaceX in IPO size.
+
+173
+00:09:23.900 --> 00:09:24.580
+<v Alex>Wow, big leap.
+
+174
+00:09:25.030 --> 00:09:30.120
+<v Maya>They raised 81.3 billion and are a public benefit corporation,
+
+175
+00:09:30.120 --> 00:09:33.500
+<v Maya>so founders keep control via a Long‑Term Benefit Trust.
+
+176
+00:09:33.500 --> 00:09:34.200
+<v Alex>Fast track.
+
+177
+00:09:34.830 --> 00:09:37.690
+<v Maya>The trust selects four of seven board seats,
+
+178
+00:09:37.690 --> 00:09:43.160
+<v Maya>but one spot needs founder approval; the trustees are insulated but can be hired by
+
+179
+00:09:43.160 --> 00:09:43.840
+<v Maya>Anthropic.
+
+180
+00:09:43.960 --> 00:09:44.500
+<v Alex>Odd setup.
+
+181
+00:09:44.980 --> 00:09:50.040
+<v Maya>The nominating committee has three members: Daniela Amodei, Reed Hastings,
+
+182
+00:09:50.040 --> 00:09:51.040
+<v Maya>and Yasmin Razavi.
+
+183
+00:09:51.040 --> 00:09:51.800
+<v Alex>Seems fragile.
+
+184
+00:09:52.760 --> 00:09:55.770
+<v Maya>So Anthropic’s IPO is a milestone,
+
+185
+00:09:55.770 --> 00:09:59.240
+<v Maya>but its governance lets founders steer despite public status.
+
+186
+00:09:59.620 --> 00:10:01.880
+<v Alex>What does that 30‑day notice actually do?
+
+187
+00:10:02.200 --> 00:10:06.440
+<v Maya>It forces the trust to tell the nominating committee—Daniela, Reed,
+
+188
+00:10:06.440 --> 00:10:09.880
+<v Maya>and Yasmin—at least a month before moving on a board seat.
+
+189
+00:10:10.710 --> 00:10:12.960
+<v Alex>So the trust can’t just fire someone on a whim?
+
+190
+00:10:13.260 --> 00:10:16.370
+<v Maya>Exactly, the committee has to flag any removal,
+
+191
+00:10:16.370 --> 00:10:18.780
+<v Maya>but the trust still picks four of the seven seats.
+
+192
+00:10:19.300 --> 00:10:20.780
+<v Alex>Sounds like a half‑captive board.
+
+193
+00:10:21.260 --> 00:10:23.860
+<v Maya>The founders still have to approve one of those four picks,
+
+194
+00:10:23.860 --> 00:10:26.180
+<v Maya>so they’re never truly out of the picture.
+
+195
+00:10:26.605 --> 00:10:28.890
+<v Alex>And the trustees can get hired by Anthropic?
+
+196
+00:10:29.230 --> 00:10:34.570
+<v Maya>Yes, the article notes a former trustee was hired as chief global affairs officer,
+
+197
+00:10:34.570 --> 00:10:38.980
+<v Maya>showing the line between “financially disinterested” and paid roles can blur.
+
+198
+00:10:39.500 --> 00:10:41.190
+<v Maya>So the founders still get a say, huh?
+
+199
+00:10:41.500 --> 00:10:43.480
+<v Alex>Yeah, that one spot needs their approval.
+
+200
+00:10:43.840 --> 00:10:47.700
+<v Maya>It feels like a hybrid governance model, not pure public control.
+
+201
+00:10:47.789 --> 00:10:49.230
+<v Alex>Half‑captive board, I hear.
+
+202
+00:10:49.650 --> 00:10:54.460
+<v Maya>The 30‑day notice slows down hot‑button moves, but still leaves room for influence.
+
+203
+00:10:55.060 --> 00:10:58.240
+<v Alex>And the trustees can be hired—blurs the “independent” line.
+
+204
+00:10:58.690 --> 00:11:01.540
+<v Maya>That means the public benefit promise is at risk, maybe?
+
+205
+00:11:01.980 --> 00:11:07.120
+<v Alex>It’s a compromise: founders stay in charge while keeping a veneer of accountability.
+
+206
+00:11:08.920 --> 00:11:13.040
+<v Alex>A human liver has been kept alive for seven weeks on a machine in Sydney,
+
+207
+00:11:13.040 --> 00:11:15.200
+<v Alex>according to MIT Technology Review.
+
+208
+00:11:15.200 --> 00:11:19.670
+<v Alex>The system, called Extended Organ Perfusion,
+
+209
+00:11:19.670 --> 00:11:23.120
+<v Alex>pumps nutrients and removes waste automatically.
+
+210
+00:11:23.120 --> 00:11:26.840
+<v Alex>It's the longest any internal organ has survived outside a body.
+
+211
+00:11:26.920 --> 00:11:27.960
+<v Maya>Hold on, that's wild.
+
+212
+00:11:28.640 --> 00:11:33.230
+<v Alex>The team led by surgeon Carlo Pulitano ran 55 livers,
+
+213
+00:11:33.230 --> 00:11:37.960
+<v Alex>and the automated setup tripled average survival to about four weeks.
+
+214
+00:11:37.960 --> 00:11:43.990
+<v Alex>They kept the liver at body temperature, about 37 °C, which is called normothermic.
+
+215
+00:11:44.070 --> 00:11:44.770
+<v Maya>Okay, but why?
+
+216
+00:11:45.190 --> 00:11:49.110
+<v Alex>The previous record was around two weeks in Switzerland.
+
+217
+00:11:49.110 --> 00:11:53.890
+<v Alex>Pulitano believes automation is key to extending the window before transplant.
+
+218
+00:11:54.620 --> 00:11:56.430
+<v Maya>Does Aeternum plan to charge for this?
+
+219
+00:11:56.850 --> 00:11:59.000
+<v Maya>Do we know the organ's health after seven weeks?
+
+220
+00:11:59.450 --> 00:12:03.190
+<v Alex>I think we need more data before we can gauge the clinical value.
+
+221
+00:12:03.750 --> 00:12:05.370
+<v Maya>How do they keep it alive for that long?
+
+222
+00:12:05.710 --> 00:12:09.150
+<v Alex>They use a machine called the Extended Organ Perfusion System.
+
+223
+00:12:09.150 --> 00:12:15.770
+<v Alex>It pumps nutrients, gives blood, and removes waste automatically, all at 37 °C.
+
+224
+00:12:16.210 --> 00:12:17.930
+<v Maya>That sounds like a robot heart pump.
+
+225
+00:12:18.630 --> 00:12:23.730
+<v Alex>It’s basically a set of automated pumps and sensors that keep the liver at body
+
+226
+00:12:23.730 --> 00:12:26.930
+<v Alex>temperature and physiological conditions for weeks.
+
+227
+00:12:27.520 --> 00:12:28.700
+<v Maya>What about the numbers?
+
+228
+00:12:28.700 --> 00:12:30.050
+<v Maya>How many livers did they test?
+
+229
+00:12:30.490 --> 00:12:33.780
+<v Alex>They ran 55 livers, one after another,
+
+230
+00:12:33.780 --> 00:12:37.850
+<v Alex>and the automated setup tripled the average survival to about four weeks.
+
+231
+00:12:38.077 --> 00:12:39.090
+<v Maya>And the seven‑week one?
+
+232
+00:12:39.440 --> 00:12:44.370
+<v Alex>That was the only liver kept fully normothermic on the automated system; the rest
+
+233
+00:12:44.370 --> 00:12:47.230
+<v Alex>stayed much shorter, like two weeks in Switzerland.
+
+234
+00:12:48.370 --> 00:12:52.290
+<v Alex>Seriously, we still don't know if that liver was healthy after seven weeks.
+
+235
+00:12:52.850 --> 00:12:56.910
+<v Maya>Right, the article just says it was kept alive, not that it was fit for transplant.
+
+236
+00:12:57.640 --> 00:13:03.020
+<v Alex>The automation tripled average survival to four weeks—maybe that's the real win,
+
+237
+00:13:03.020 --> 00:13:04.510
+<v Alex>not the seven‑week outlier.
+
+238
+00:13:05.060 --> 00:13:09.130
+<v Maya>It could mean we can start looking at low‑quality livers that survive longer than
+
+239
+00:13:09.130 --> 00:13:09.650
+<v Maya>two weeks.
+
+240
+00:13:10.210 --> 00:13:14.430
+<v Alex>But would surgeons ever bother with a liver that’s been on a machine for almost two
+
+241
+00:13:14.430 --> 00:13:14.700
+<v Alex>months?
+
+242
+00:13:15.160 --> 00:13:19.930
+<v Maya>They’re asking that exact question—no one knows what that extra time actually does
+
+243
+00:13:19.930 --> 00:13:20.550
+<v Maya>to the organ.
+
+244
+00:13:20.990 --> 00:13:23.720
+<v Alex>My read is that the tech is promising,
+
+245
+00:13:23.720 --> 00:13:26.910
+<v Alex>but we need more data before calling it a game‑changer.
+
+246
+00:13:27.750 --> 00:13:32.190
+<v Maya>It sounds like the real question is whether the extra time translates into better
+
+247
+00:13:32.190 --> 00:13:33.290
+<v Maya>transplant outcomes.
+
+248
+00:13:35.060 --> 00:13:38.710
+<v Maya>Alex, Intuit just sold Mailchimp for $3.68 billion?
+
+249
+00:13:39.580 --> 00:13:41.890
+<v Alex>Yeah, they paid $12 billion for it.
+
+250
+00:13:42.370 --> 00:13:44.290
+<v Maya>That’s less than a third of the purchase price.
+
+251
+00:13:44.290 --> 00:13:44.710
+<v Alex>Huh.
+
+252
+00:13:45.140 --> 00:13:50.730
+<v Maya>Bending Spoons is the buyer, and it’s a tech consolidator that owns AOL, Vimeo,
+
+253
+00:13:50.730 --> 00:13:51.230
+<v Maya>and WeTransfer.
+
+254
+00:13:51.970 --> 00:13:52.550
+<v Alex>Right.
+
+255
+00:13:52.550 --> 00:13:58.070
+<v Alex>They’re adding a marketing unit that had $313 million in revenue last year.
+
+256
+00:13:58.560 --> 00:14:02.910
+<v Maya>Intuit had split it off as a separate segment in August to improve transparency.
+
+257
+00:14:03.700 --> 00:14:06.590
+<v Alex>So they’re hoping to trim the drag on growth,
+
+258
+00:14:06.590 --> 00:14:09.050
+<v Alex>but they’re already down 1% in revenue.
+
+259
+00:14:09.570 --> 00:14:13.500
+<v Alex>What’s the kicker on the revenue projection for Mailchimp under Bending Spoons?
+
+260
+00:14:13.840 --> 00:14:14.306
+<v Alex>Huh.
+
+261
+00:14:14.715 --> 00:14:20.910
+<v Maya>The deal’s set to close early 2027, and Intuit will get cash and stock—no cash‑only.
+
+262
+00:14:21.410 --> 00:14:24.010
+<v Alex>So they’re still betting on price hikes to offset churn?
+
+263
+00:14:24.490 --> 00:14:28.950
+<v Maya>Intuit’s finance chief said higher effective prices should counter the churn,
+
+264
+00:14:28.950 --> 00:14:33.430
+<v Maya>but the unit still made $313 million last year.
+
+265
+00:14:33.850 --> 00:14:38.090
+<v Alex>Bending Spoons is piling on a marketing arm—do they have a history with email?
+
+266
+00:14:38.610 --> 00:14:43.250
+<v Maya>Not really, but they already own AOL, Vimeo, and WeTransfer,
+
+267
+00:14:43.250 --> 00:14:45.850
+<v Maya>and just bought Airtable for a tenth of its previous value.
+
+268
+00:14:46.650 --> 00:14:48.890
+<v Maya>This feels like a retreat, not a growth move.
+
+269
+00:14:49.780 --> 00:14:52.250
+<v Alex>Selling for less than a third of what they paid.
+
+270
+00:14:53.210 --> 00:14:56.090
+<v Maya>Bending Spoons has no email track, so why buy it?
+
+271
+00:14:56.090 --> 00:14:59.210
+<v Alex>They’re just stacking brands, like Airtable at a discount.
+
+272
+00:15:00.050 --> 00:15:02.130
+<v Maya>Intuit’s revenue dip shows the unit’s drag.
+
+273
+00:15:02.910 --> 00:15:06.310
+<v Alex>Maybe the price hike strategy won’t hold after the sale.
+
+274
+00:15:07.010 --> 00:15:09.740
+<v Maya>If they’re still betting on higher prices, they’re bluffing.
+
+275
+00:15:10.510 --> 00:15:15.150
+<v Alex>I think this signals Intuit is ready to cut losses and focus on core.
+
+276
+00:15:16.850 --> 00:15:19.890
+<v Alex>You're listening to First Tick, from Bits and Tickers.
+
+277
+00:15:19.890 --> 00:15:21.620
+<v Alex>That's about the halfway mark.
+
+278
+00:15:21.620 --> 00:15:22.940
+<v Alex>Still to come.
+
+279
+00:15:22.940 --> 00:15:26.610
+<v Alex>Palo Alto’s big bet on AI security.
+
+280
+00:15:26.610 --> 00:15:31.570
+<v Alex>Amazon app warns New York of higher costs if Mamdani delivery law passes.
+
+281
+00:15:31.570 --> 00:15:34.930
+<v Alex>And Anthropic rockets above IPO price.
+
+282
+00:15:35.810 --> 00:15:38.610
+<v Maya>And if you just joined us, I'm Maya, that's Alex,
+
+283
+00:15:38.610 --> 00:15:41.190
+<v Maya>and every story is linked in the show notes.
+
+284
+00:15:42.930 --> 00:15:48.270
+<v Alex>Palo Alto just beat earnings and bought a $4.5 billion AI startup.
+
+285
+00:15:48.780 --> 00:15:51.990
+<v Maya>That’s a huge outlay—do they really expect the revenue boost?
+
+286
+00:15:52.520 --> 00:15:58.200
+<v Alex>They say it will add over $1 billion in recurring revenue by 2029.
+
+287
+00:15:58.750 --> 00:16:00.400
+<v Maya>$1 billion?
+
+288
+00:16:00.400 --> 00:16:04.170
+<v Maya>That’s only a fraction of the deal, but it’s their first move beyond firewalls.
+
+289
+00:16:04.750 --> 00:16:09.490
+<v Alex>The startup, Applied Compute, builds secure training for open‑weight models.
+
+290
+00:16:10.100 --> 00:16:13.890
+<v Maya>So they’re aiming to lock in the AI supply chain, not just defend it.
+
+291
+00:16:14.320 --> 00:16:19.010
+<v Alex>It feels like a hedge against future AI‑driven cyberattacks,
+
+292
+00:16:19.010 --> 00:16:20.470
+<v Alex>given the recent outages.
+
+293
+00:16:20.530 --> 00:16:21.970
+<v Maya>Seriously, a big gamble.
+
+294
+00:16:22.430 --> 00:16:26.850
+<v Alex>They’re betting that “secure compute” will be indispensable as AI scales.
+
+295
+00:16:27.550 --> 00:16:30.470
+<v Maya>How exactly does Applied Compute lock the training pipeline?
+
+296
+00:16:30.880 --> 00:16:35.730
+<v Alex>They wrap open‑weight models in a security layer that encrypts data at rest and in
+
+297
+00:16:35.730 --> 00:16:39.350
+<v Alex>transit, so the training nodes never expose raw weights.
+
+298
+00:16:40.050 --> 00:16:42.010
+<v Maya>That sounds like a big engineering hurdle.
+
+299
+00:16:42.480 --> 00:16:48.950
+<v Alex>The startup already runs in a sandboxed environment and uses zero‑trust networking;
+
+300
+00:16:48.950 --> 00:16:51.710
+<v Alex>it’s a proven tech stack in the paper they released.
+
+301
+00:16:51.710 --> 00:16:52.290
+<v Maya>Hold on.
+
+302
+00:16:52.890 --> 00:16:58.660
+<v Alex>The deal also gives Palo Alto a foothold in the entire AI value chain,
+
+303
+00:16:58.660 --> 00:17:02.370
+<v Alex>from data ingestion to model deployment, not just defense.
+
+304
+00:17:02.650 --> 00:17:03.570
+<v Maya>Who’s paying for this?
+
+305
+00:17:03.990 --> 00:17:10.050
+<v Alex>Palo Alto’s CEO said the revenue from secure compute could top $1 billion annually
+
+306
+00:17:10.050 --> 00:17:16.170
+<v Alex>by 2029, enough to offset the $4.5 billion upfront.
+
+307
+00:17:16.830 --> 00:17:20.190
+<v Alex>I think they're just hedging against the next wave of cyberattacks.
+
+308
+00:17:20.900 --> 00:17:23.950
+<v Maya>Seriously, that's a huge gamble for a security firm.
+
+309
+00:17:24.530 --> 00:17:27.380
+<v Alex>It sounds like they're betting on their own security tech.
+
+310
+00:17:27.960 --> 00:17:29.670
+<v Maya>That’s a big shift beyond firewalls.
+
+311
+00:17:30.170 --> 00:17:36.420
+<v Alex>I wonder if the $1 billion recurring revenue will cover the $4.5 billion cost.
+
+312
+00:17:37.040 --> 00:17:40.010
+<v Maya>It might, but only if the training pipeline scales fast.
+
+313
+00:17:40.610 --> 00:17:43.380
+<v Alex>If it works, they could own the whole AI supply chain.
+
+314
+00:17:44.100 --> 00:17:48.190
+<v Maya>It’s a bold move, but the real test will be how quickly they monetize it.
+
+315
+00:17:49.730 --> 00:17:54.810
+<v Maya>This caught my eye because Amazon is using its own platform to lobby against a city
+
+316
+00:17:54.810 --> 00:17:55.130
+<v Maya>bill.
+
+317
+00:17:55.910 --> 00:18:01.010
+<v Alex>So they’re telling shoppers it could add $5 per order if the Delivery Protection
+
+318
+00:18:01.010 --> 00:18:02.030
+<v Alex>Act passes.
+
+319
+00:18:02.730 --> 00:18:05.580
+<v Maya>They’re pushing people to contact council members,
+
+320
+00:18:05.580 --> 00:18:08.270
+<v Maya>and 20,000 emails came in first six hours.
+
+321
+00:18:09.100 --> 00:18:10.270
+<v Alex>20,000?
+
+322
+00:18:10.270 --> 00:18:11.940
+<v Alex>That’s a lot of noise for a pop‑up.
+
+323
+00:18:12.510 --> 00:18:17.040
+<v Maya>The bill would force Amazon to hire its own delivery partners instead of
+
+324
+00:18:17.040 --> 00:18:18.210
+<v Maya>third‑party contractors.
+
+325
+00:18:18.860 --> 00:18:23.160
+<v Alex>That model has been in place since 2018, so it’s a big shift.
+
+326
+00:18:23.740 --> 00:18:29.110
+<v Maya>Mayor Mamdani said the contractor model leaves workers vulnerable; Amazon says it
+
+327
+00:18:29.110 --> 00:18:30.130
+<v Maya>keeps jobs safe.
+
+328
+00:18:30.590 --> 00:18:34.930
+<v Alex>And Amazon says it can’t work with those third‑party drivers if the bill passes.
+
+329
+00:18:35.670 --> 00:18:38.920
+<v Alex>What’s the real cost split on that $5 per order claim?
+
+330
+00:18:39.290 --> 00:18:43.490
+<v Maya>Amazon says the bill would force it to build its own delivery fleet,
+
+331
+00:18:43.490 --> 00:18:47.130
+<v Maya>cutting out the thousands of small contractors it uses now.
+
+332
+00:18:47.690 --> 00:18:49.610
+<v Alex>So they’d have to hire their own drivers?
+
+333
+00:18:50.170 --> 00:18:52.590
+<v Maya>Yeah, they'd swap contractors for in‑house drivers,
+
+334
+00:18:52.590 --> 00:18:55.270
+<v Maya>which could push prices up and slow service.
+
+335
+00:18:55.430 --> 00:18:57.070
+<v Alex>20,000 emails—impressive.
+
+336
+00:18:57.950 --> 00:19:03.670
+<v Maya>The pop‑up pushed a form that let users send a note to their council member; 20,000
+
+337
+00:19:03.670 --> 00:19:07.230
+<v Maya>messages flooded the city’s inbox in the first six hours.
+
+338
+00:19:07.230 --> 00:19:08.250
+<v Alex>And the mayor’s angle?
+
+339
+00:19:08.690 --> 00:19:12.050
+<v Maya>Mamdani said contractors leave workers exposed,
+
+340
+00:19:12.050 --> 00:19:16.410
+<v Maya>while Amazon counters that the delivery‑service‑partner model actually preserves
+
+341
+00:19:16.410 --> 00:19:19.350
+<v Maya>jobs and keeps local entrepreneurs in business.
+
+342
+00:19:19.910 --> 00:19:24.330
+<v Maya>So Amazon is basically saying $5 extra if the bill passes, right?
+
+343
+00:19:24.710 --> 00:19:27.250
+<v Alex>That’s their headline cost, but it’s a rough estimate.
+
+344
+00:19:28.100 --> 00:19:31.080
+<v Maya>They’re pushing customers to write to council members,
+
+345
+00:19:31.080 --> 00:19:33.250
+<v Maya>and 20,000 did it in six hours.
+
+346
+00:19:33.890 --> 00:19:36.710
+<v Alex>20,000 emails from a pop‑up—talk about noise.
+
+347
+00:19:37.380 --> 00:19:41.890
+<v Maya>The mayor says contractors leave workers vulnerable; Amazon says it keeps local
+
+348
+00:19:41.890 --> 00:19:42.550
+<v Maya>jobs safe.
+
+349
+00:19:43.190 --> 00:19:47.320
+<v Alex>Amazon claims the bill would force them to build an in‑house fleet,
+
+350
+00:19:47.320 --> 00:19:49.230
+<v Alex>cutting out the contractors they use.
+
+351
+00:19:49.880 --> 00:19:56.060
+<v Alex>It sounds like Amazon’s real worry is losing flexibility, not the $5 per order.
+
+352
+00:19:57.690 --> 00:20:03.470
+<v Alex>Anthropic just hit $111 on Nasdaq, 33% up from $83.
+
+353
+00:20:04.310 --> 00:20:12.190
+<v Maya>The IPO set at $83, they projected $70‑$78, so that was a jump right out the gate.
+
+354
+00:20:12.350 --> 00:20:12.790
+<v Alex>That fast?
+
+355
+00:20:12.810 --> 00:20:19.530
+<v Maya>They raised over $81 billion, giving them a $220 billion cash pile after the deal.
+
+356
+00:20:19.990 --> 00:20:24.490
+<v Alex>So the market cap tops $2 trillion, beating Meta, Tesla, Walmart.
+
+357
+00:20:24.890 --> 00:20:29.210
+<v Maya>It's now behind only Apple, Amazon, Alphabet, Nvidia, Microsoft.
+
+358
+00:20:30.070 --> 00:20:33.160
+<v Alex>Dario Amodei said the money backs safety,
+
+359
+00:20:33.160 --> 00:20:35.970
+<v Alex>but does that mean more spending or just bigger runway?
+
+360
+00:20:36.530 --> 00:20:40.830
+<v Maya>According to TechCrunch, he wants to prove you can be safe and profitable,
+
+361
+00:20:40.830 --> 00:20:41.830
+<v Maya>a “race to the top.”
+
+362
+00:20:42.383 --> 00:20:46.410
+<v Maya>What about the rollout of the cash—how is that split between employees and the
+
+363
+00:20:46.410 --> 00:20:47.130
+<v Maya>company itself?
+
+364
+00:20:47.750 --> 00:20:49.150
+<v Maya>So they’re keeping a huge buffer.
+
+365
+00:20:49.690 --> 00:20:53.950
+<v Alex>Yeah, and that’s what the analyst said—more cash than any firm has ever had.
+
+366
+00:20:54.360 --> 00:20:57.970
+<v Maya>Does that mean they’re going to spend on safety or just use it for growth?
+
+367
+00:20:58.610 --> 00:21:04.200
+<v Alex>Amodei framed it as a “race to the top,” implying spend on safety will coexist with
+
+368
+00:21:04.200 --> 00:21:04.610
+<v Alex>profit.
+
+369
+00:21:05.470 --> 00:21:07.530
+<v Maya>Makes sense that they want to set the example.
+
+370
+00:21:07.970 --> 00:21:12.890
+<v Alex>The IPO price was already above their own range—did that affect the opening?
+
+371
+00:21:13.180 --> 00:21:16.230
+<v Maya>It looks like the market just accepted the higher valuation.
+
+372
+00:21:16.800 --> 00:21:18.290
+<v Alex>This feels like a hype bubble.
+
+373
+00:21:18.650 --> 00:21:20.710
+<v Maya>The numbers say the market believes in it.
+
+374
+00:21:20.710 --> 00:21:22.600
+<v Alex>33% up right off the bat?
+
+375
+00:21:22.850 --> 00:21:25.100
+<v Maya>It shows demand outweighs their own guidance.
+
+376
+00:21:25.550 --> 00:21:28.010
+<v Alex>A big cash pile could mean big bets on safety.
+
+377
+00:21:28.470 --> 00:21:31.430
+<v Maya>Or just a cushion for future growth, whatever they do.
+
+378
+00:21:31.430 --> 00:21:33.010
+<v Alex>The CEO's race to the top?
+
+379
+00:21:33.330 --> 00:21:35.430
+<v Maya>That sounds like a statement, not a plan.
+
+380
+00:21:37.070 --> 00:21:41.010
+<v Maya>Did you see Sila just inked a multi‑billion‑dollar pact with Panasonic?
+
+381
+00:21:41.520 --> 00:21:44.500
+<v Alex>Yeah, it’s a silicon‑carbon anode supply deal.
+
+382
+00:21:44.820 --> 00:21:45.250
+<v Maya>The kicker?
+
+383
+00:21:45.250 --> 00:21:49.390
+<v Maya>A $1.4 billion loan from the Defense Department backs it.
+
+384
+00:21:49.410 --> 00:21:50.010
+<v Alex>No way.
+
+385
+00:21:50.950 --> 00:21:55.250
+<v Maya>Panasonic’s buying tens of thousands of tons, but Sila didn’t name the price.
+
+386
+00:21:55.790 --> 00:21:58.090
+<v Alex>So it’s a first mass‑market deal for Sila.
+
+387
+00:21:58.420 --> 00:22:02.850
+<v Maya>And the US battery scene has collapsed two giants last year—out of the blue.
+
+388
+00:22:03.340 --> 00:22:06.940
+<v Alex>It sounds like the politics of batteries are finally paying off.
+
+389
+00:22:07.600 --> 00:22:10.330
+<v Alex>What’s the trick behind silicon‑carbon anodes, Maya?
+
+390
+00:22:10.730 --> 00:22:15.840
+<v Maya>Sila says the silicon weight is a fifth of graphite, cutting volume in half,
+
+391
+00:22:15.840 --> 00:22:18.690
+<v Maya>so batteries can cram more energy into the same space.
+
+392
+00:22:19.160 --> 00:22:20.790
+<v Alex>So it’s literally lighter and tighter.
+
+393
+00:22:21.241 --> 00:22:26.360
+<v Maya>The company opened its Washington plant in September 2025,
+
+394
+00:22:26.360 --> 00:22:29.800
+<v Maya>and Panasonic’s order could push output up tenfold,
+
+395
+00:22:29.800 --> 00:22:32.550
+<v Maya>though exact tonnage and price remain hush‑hush.
+
+396
+00:22:32.730 --> 00:22:33.250
+<v Alex>Ten times?
+
+397
+00:22:33.250 --> 00:22:33.950
+<v Alex>That’s a jump.
+
+398
+00:22:34.440 --> 00:22:38.530
+<v Maya>They’re betting on that scale to meet the tens‑of‑thousands‑of‑tons demand
+
+399
+00:22:38.530 --> 00:22:42.310
+<v Maya>Panasonic’s committed; Sila still keeps the numbers under wraps.
+
+400
+00:22:42.950 --> 00:22:44.890
+<v Alex>A big leap from the last two bankruptcies.
+
+401
+00:22:45.760 --> 00:22:47.610
+<v Maya>Those two giants collapsed last year,
+
+402
+00:22:47.610 --> 00:22:52.250
+<v Maya>but Sila’s deal signals a shift from pure climate talk to a strategic,
+
+403
+00:22:52.250 --> 00:22:53.590
+<v Maya>supply‑chain focus.
+
+404
+00:22:54.190 --> 00:22:58.150
+<v Maya>This feels like a pivot from green hype to a hard‑edge supply chain play.
+
+405
+00:23:03.330 --> 00:23:03.571
+<v Alex>But the silicon‑carbon tech still needs to prove it can scale without crashing.
+
+406
+00:23:04.700 --> 00:23:09.430
+<v Maya>The $1.4 billion loan hints the government is betting on tech sovereignty,
+
+407
+00:23:09.430 --> 00:23:10.150
+<v Maya>not just profits.
+
+408
+00:23:10.680 --> 00:23:13.620
+<v Alex>Funny that a defense budget is now talking batteries.
+
+409
+00:23:14.610 --> 00:23:19.650
+<v Maya>Panasonic’s commitment to tens of thousands of tons could pressure Sila to hit that
+
+410
+00:23:19.650 --> 00:23:20.590
+<v Maya>tenfold output.
+
+411
+00:23:21.110 --> 00:23:23.390
+<v Alex>That's a leap, but the plant’s already up and running.
+
+412
+00:23:24.410 --> 00:23:28.590
+<v Maya>Still, the numbers are hush‑hush; we don't know the price or exact volume.
+
+413
+00:23:28.590 --> 00:23:34.040
+<v Alex>Whatever the final terms, it marks a shift from collapse to a potential new era.
+
+414
+00:23:35.810 --> 00:23:38.490
+<v Alex>Maya, Kraken just bought Tribe Capital, what's the play?
+
+415
+00:23:38.830 --> 00:23:43.150
+<v Maya>Payward, Kraken's parent, acquired Tribe, a venture and asset manager.
+
+416
+00:23:43.730 --> 00:23:45.610
+<v Alex>No price disclosed, so how big?
+
+417
+00:23:45.930 --> 00:23:49.050
+<v Maya>They said it fits their infrastructure, not just a hype arm.
+
+418
+00:23:49.540 --> 00:23:53.430
+<v Alex>They’re integrating investment tools into custody and tokenization?
+
+419
+00:23:53.840 --> 00:23:56.950
+<v Maya>Sure, it's turning the exchange into a private‑market platform.
+
+420
+00:23:57.042 --> 00:23:57.730
+<v Alex>Makes sense.
+
+421
+00:23:58.150 --> 00:23:59.370
+<v Maya>What does that mean for traders?
+
+422
+00:23:59.890 --> 00:24:03.650
+<v Alex>It signals a shift from volume to infrastructure, per CNBC.
+
+423
+00:24:04.570 --> 00:24:07.590
+<v Maya>What exactly is Tribe doing that’s different from other venture arms?
+
+424
+00:24:08.050 --> 00:24:12.980
+<v Alex>They’re not just a side project – they’ve got a whole fund‑management stack that
+
+425
+00:24:12.980 --> 00:24:16.790
+<v Alex>Payward wants to plug into custody, trading, and tokenization.
+
+426
+00:24:16.790 --> 00:24:17.490
+<v Maya>Sounds big.
+
+427
+00:24:18.080 --> 00:24:21.770
+<v Alex>The deal’s about blending investment workflows inside the exchange,
+
+428
+00:24:21.770 --> 00:24:25.490
+<v Alex>so you can buy private‑market stuff through the same platform.
+
+429
+00:24:26.015 --> 00:24:27.550
+<v Maya>And Sethi is still on board, right?
+
+430
+00:24:27.960 --> 00:24:33.060
+<v Alex>Yeah, he’s co‑CEO of Payward and co‑founder of Tribe, keeping the vision tight.
+
+431
+00:24:33.160 --> 00:24:33.710
+<v Maya>That fast?
+
+432
+00:24:34.170 --> 00:24:39.170
+<v Alex>Plus Jonathan Hsu said it’s a “strong fit” between their investment approach and
+
+433
+00:24:39.170 --> 00:24:43.350
+<v Alex>Payward’s infrastructure, so the tech and money lines are really crossing.
+
+434
+00:24:43.960 --> 00:24:48.200
+<v Alex>So this is just another way to make the exchange a one‑stop shop, right?
+
+435
+00:24:48.520 --> 00:24:52.010
+<v Maya>It's bundling investment and custody into a single platform.
+
+436
+00:24:52.010 --> 00:24:52.690
+<v Alex>That fast?
+
+437
+00:24:53.100 --> 00:24:56.330
+<v Maya>It feels like a move to capture more fee streams beyond trading.
+
+438
+00:24:56.670 --> 00:25:00.950
+<v Alex>But if the tech builds well, you could actually lower costs for private‑market
+
+439
+00:25:00.950 --> 00:25:01.370
+<v Alex>players.
+
+440
+00:25:01.970 --> 00:25:06.470
+<v Maya>Only if the infrastructure is solid; otherwise it's another layer of complexity.
+
+441
+00:25:07.130 --> 00:25:11.230
+<v Alex>I think it’s a signal that exchanges are pivoting from volume to value.
+
+442
+00:25:11.630 --> 00:25:15.890
+<v Maya>My read is it’s about aligning the investment approach with the existing
+
+443
+00:25:15.890 --> 00:25:18.470
+<v Maya>distribution and product‑building capabilities.
+
+444
+00:25:20.220 --> 00:25:25.430
+<v Maya>Amazon is using a banner and pop‑up to warn New York shoppers that a city bill
+
+445
+00:25:25.430 --> 00:25:29.410
+<v Maya>could add up to $5 per order, according to Ars Technica.
+
+446
+00:25:29.470 --> 00:25:30.330
+<v Alex>I don't buy it.
+
+447
+00:25:30.666 --> 00:25:33.220
+<v Maya>The banner only shows up when you're logged in,
+
+448
+00:25:33.220 --> 00:25:37.470
+<v Maya>but we don't know if it targets NYC users by address or device location.
+
+449
+00:25:37.470 --> 00:25:38.070
+<v Alex>Says who?
+
+450
+00:25:38.480 --> 00:25:42.450
+<v Maya>The article says Amazon hasn't clarified its targeting method,
+
+451
+00:25:42.450 --> 00:25:45.590
+<v Maya>just that the pop‑up appears in the app and on the website.
+
+452
+00:25:46.380 --> 00:25:48.870
+<v Alex>So they’re playing political persuasion with a banner?
+
+453
+00:25:49.200 --> 00:25:52.440
+<v Maya>It feels like a marketing tactic to sway shoppers,
+
+454
+00:25:52.440 --> 00:25:55.170
+<v Maya>but the bill itself is a separate political issue.
+
+455
+00:25:55.600 --> 00:25:57.990
+<v Alex>Right, and we still don't know if it actually works.
+
+456
+00:25:58.510 --> 00:26:03.250
+<v Maya>The piece ends without detailing any response from the city or Amazon,
+
+457
+00:26:03.250 --> 00:26:05.150
+<v Maya>just the fact that the message is there.
+
+458
+00:26:05.510 --> 00:26:07.530
+<v Alex>What’s the mechanism behind that banner?
+
+459
+00:26:07.880 --> 00:26:12.770
+<v Maya>Bloomberg says Amazon is pushing a pop‑up in its app and on the site; the text
+
+460
+00:26:12.770 --> 00:26:17.170
+<v Maya>warns that the Delivery Protection Act could tack on up to $5 per order.
+
+461
+00:26:17.230 --> 00:26:18.090
+<v Alex>That’s a big claim.
+
+462
+00:26:18.630 --> 00:26:23.750
+<v Maya>The article notes Amazon hasn’t said whether it’s using saved addresses or device
+
+463
+00:26:23.750 --> 00:26:29.470
+<v Maya>location to spot NYC shoppers, only that the notice shows up when you’re logged in.
+
+464
+00:26:29.510 --> 00:26:30.930
+<v Alex>So no clear targeting data.
+
+465
+00:26:31.430 --> 00:26:36.150
+<v Maya>And the piece ends without a city or Amazon comment, just that the message is live.
+
+466
+00:26:36.820 --> 00:26:38.110
+<v Alex>Sounds like a marketing stunt.
+
+467
+00:26:38.580 --> 00:26:40.660
+<v Maya>It’s framed as a political nudge,
+
+468
+00:26:40.660 --> 00:26:44.910
+<v Maya>but the article sticks to the fact that the bill could add that fee and Amazon is
+
+469
+00:26:44.910 --> 00:26:46.730
+<v Maya>using its platform to warn people.
+
+470
+00:26:47.530 --> 00:26:50.050
+<v Maya>So they’re just nudging shoppers to back off the bill.
+
+471
+00:26:50.230 --> 00:26:50.910
+<v Alex>I don't buy it.
+
+472
+00:26:51.110 --> 00:26:51.590
+<v Alex>Says who?
+
+473
+00:26:52.000 --> 00:26:56.130
+<v Maya>It could be a cheap marketing stunt to shift sentiment, but no city response yet.
+
+474
+00:26:56.730 --> 00:27:01.870
+<v Alex>My read is that Amazon is testing political persuasion, but we’re missing the data.
+
+475
+00:27:02.260 --> 00:27:05.310
+<v Maya>If they can’t prove targeting, it’s just a headline grabber.
+
+476
+00:27:05.660 --> 00:27:08.830
+<v Alex>It feels like a tactic, not a real policy push.
+
+477
+00:27:10.510 --> 00:27:14.330
+<v Alex>Google's Gemini can actually use your Mac, like a real agent.
+
+478
+00:27:15.140 --> 00:27:19.190
+<v Maya>They say it can handle multi-step tasks across files and apps,
+
+479
+00:27:19.190 --> 00:27:20.830
+<v Maya>but only in the US right now.
+
+480
+00:27:20.970 --> 00:27:21.370
+<v Alex>No way.
+
+481
+00:27:22.110 --> 00:27:23.770
+<v Maya>Do they let you pick which apps it can touch?
+
+482
+00:27:24.290 --> 00:27:28.850
+<v Alex>Users choose apps, and Gemini shows a live preview in a background window.
+
+483
+00:27:28.930 --> 00:27:29.330
+<v Maya>Go on.
+
+484
+00:27:30.040 --> 00:27:34.710
+<v Alex>They're rolling it out ahead of Apple tightening disk access rules for AI agents.
+
+485
+00:27:35.270 --> 00:27:38.530
+<v Maya>So this could be a test before stricter permissions hit the market.
+
+486
+00:27:39.040 --> 00:27:41.750
+<v Alex>Looks like Google is trying to stay ahead of the curve.
+
+487
+00:27:42.260 --> 00:27:44.930
+<v Maya>What gives it the extra power to tap into local files?
+
+488
+00:27:45.230 --> 00:27:46.410
+<v Maya>So it’s not a jailbreak.
+
+489
+00:27:46.860 --> 00:27:51.970
+<v Alex>Right, the agent needs user‑selected app access and shows a live preview; the
+
+490
+00:27:51.970 --> 00:27:54.350
+<v Alex>preview lives in its own background window.
+
+491
+00:27:54.790 --> 00:27:56.410
+<v Maya>And who’s cutting the ribbon on the feature?
+
+492
+00:27:56.910 --> 00:28:01.850
+<v Alex>Google’s product team, but they’re rolling it out only in English for US users
+
+493
+00:28:01.850 --> 00:28:02.610
+<v Alex>right now.
+
+494
+00:28:03.000 --> 00:28:06.010
+<v Maya>Timing looks like a heads‑up before Apple’s new restrictions.
+
+495
+00:28:06.650 --> 00:28:13.250
+<v Alex>Yeah, Apple’s macOS 27.3 beta already has a preview of the tighter disk‑access
+
+496
+00:28:13.250 --> 00:28:16.730
+<v Alex>controls, so Google is probably testing the waters.
+
+497
+00:28:17.420 --> 00:28:21.110
+<v Alex>This feels like a pre‑emptive test before Apple tightens things.
+
+498
+00:28:21.580 --> 00:28:23.890
+<v Maya>It’s Google trying to see how far it can go.
+
+499
+00:28:24.330 --> 00:28:26.200
+<v Alex>No way they'd let you pick apps?
+
+500
+00:28:26.200 --> 00:28:26.990
+<v Alex>That’s a weak lock.
+
+501
+00:28:27.540 --> 00:28:30.410
+<v Maya>They do let you choose, and the preview shows what it’s doing.
+
+502
+00:28:30.850 --> 00:28:33.830
+<v Alex>So it’s still a controlled environment, not a jailbreak.
+
+503
+00:28:34.420 --> 00:28:37.630
+<v Maya>Exactly, but it’s still a step toward broader local access.
+
+504
+00:28:38.310 --> 00:28:41.230
+<v Alex>Then the real question is who’s paying for that freedom.
+
+505
+00:28:43.090 --> 00:28:49.070
+<v Maya>CNBC reports the IEA says data center power could hit 1,000 terawatt‑hours a year.
+
+506
+00:28:49.660 --> 00:28:54.830
+<v Alex>That’s a huge jump; the IEA notes tight supply chains and grid limits could slow
+
+507
+00:28:54.830 --> 00:28:55.440
+<v Alex>new builds.
+
+508
+00:28:56.020 --> 00:28:58.510
+<v Maya>Texas, Virginia, Finland, the U.K.
+
+509
+00:28:58.510 --> 00:28:59.990
+<v Maya>are all on the pipeline list.
+
+510
+00:29:00.380 --> 00:29:01.730
+<v Alex>Hold on, what about the grid?
+
+511
+00:29:02.210 --> 00:29:06.590
+<v Maya>Without upgrades, networks could congest, and generators might cut output.
+
+512
+00:29:06.590 --> 00:29:07.230
+<v Alex>That fast?
+
+513
+00:29:07.710 --> 00:29:12.990
+<v Maya>The scenario calls for 26 million kilometers of new lines by 2035.
+
+514
+00:29:13.560 --> 00:29:17.770
+<v Alex>My read is the grid is a big investment story for the next decade.
+
+515
+00:29:18.270 --> 00:29:19.910
+<v Alex>What’s the deal with copper shortages?
+
+516
+00:29:20.540 --> 00:29:24.270
+<v Maya>They say copper, cables, transformers are already tight,
+
+517
+00:29:24.270 --> 00:29:28.350
+<v Maya>so replacing 16 million km of lines is a priority.
+
+518
+00:29:28.910 --> 00:29:30.090
+<v Alex>16 million?
+
+519
+00:29:30.090 --> 00:29:31.110
+<v Alex>That’s a lot of wiring.
+
+520
+00:29:31.830 --> 00:29:38.730
+<v Maya>Yeah, and the IEA projects 26 million km of new lines by 2035 to keep pace.
+
+521
+00:29:39.300 --> 00:29:41.210
+<v Alex>Sounds like a grid‑expansion marathon.
+
+522
+00:29:41.670 --> 00:29:47.510
+<v Maya>The report also notes renewable growth will jump 85 % over the next decade—solar to
+
+523
+00:29:47.510 --> 00:29:50.140
+<v Maya>dominate past the late 2030s.
+
+524
+00:29:50.540 --> 00:29:52.890
+<v Alex>So the grid’s getting a renewable makeover too?
+
+525
+00:29:53.230 --> 00:30:00.020
+<v Maya>Exactly, and electricity could hit 30 % of global final energy use by 2035,
+
+526
+00:30:00.020 --> 00:30:02.650
+<v Maya>up from 23 % in baseline scenarios.
+
+527
+00:30:03.310 --> 00:30:06.670
+<v Maya>The grid race feels like a sprint where the finish line keeps moving.
+
+528
+00:30:07.250 --> 00:30:11.390
+<v Alex>But the tech side worries about how soon those lines can actually be laid.
+
+529
+00:30:11.920 --> 00:30:14.290
+<v Maya>Do you think the copper crunch will choke the whole rollout?
+
+530
+00:30:14.670 --> 00:30:17.210
+<v Alex>It’s a logistical nightmare, not just a headline.
+
+531
+00:30:17.760 --> 00:30:22.560
+<v Maya>And the renewable push—solar is set to dominate, but only if the grid keeps up.
+
+532
+00:30:23.280 --> 00:30:28.150
+<v Alex>My read is that the grid’s expansion is the real bottleneck, not the power itself.
+
+533
+00:30:29.060 --> 00:30:33.040
+<v Maya>So the market will keep betting on renewables while infrastructure plays catch‑up.
+
+534
+00:30:33.530 --> 00:30:38.570
+<v Alex>It sounds like the biggest challenge is wiring the world, not wiring the servers.
+
+535
+00:30:40.390 --> 00:30:42.850
+<v Alex>Google’s sending data‑center racks into orbit.
+
+536
+00:30:43.380 --> 00:30:46.050
+<v Maya>They’re launching on New Glenn in 2029.
+
+537
+00:30:46.131 --> 00:30:46.530
+<v Alex>Seriously?
+
+538
+00:30:47.170 --> 00:30:50.590
+<v Maya>They’ll be in Sun‑synchronous orbit, so almost nonstop solar.
+
+539
+00:30:50.750 --> 00:30:51.730
+<v Alex>That’s a big moonshot.
+
+540
+00:30:52.210 --> 00:30:56.210
+<v Maya>Project Suncatcher is a long‑term AI infrastructure plan.
+
+541
+00:30:56.730 --> 00:30:58.950
+<v Alex>Blue Origin’s New Glenn will do the lift.
+
+542
+00:30:59.480 --> 00:31:01.890
+<v Maya>Google says it’s a crucial milestone on their roadmap.
+
+543
+00:31:02.560 --> 00:31:06.110
+<v Maya>What makes these “data‑center racks” different from a regular satellite?
+
+544
+00:31:06.630 --> 00:31:10.930
+<v Alex>They’re basically mini‑servers, each about the size of a rack,
+
+545
+00:31:10.930 --> 00:31:13.850
+<v Alex>with enough compute to run AI models in orbit.
+
+546
+00:31:14.694 --> 00:31:15.970
+<v Maya>And how do they keep them cool?
+
+547
+00:31:16.270 --> 00:31:20.080
+<v Alex>The Sun‑synchronous orbit gives them constant solar power,
+
+548
+00:31:20.080 --> 00:31:23.990
+<v Alex>so they use radiators and heat pipes; no real cooling needed.
+
+549
+00:31:24.700 --> 00:31:26.610
+<v Maya>So it’s just solar panels and heat pipes?
+
+550
+00:31:26.990 --> 00:31:31.710
+<v Alex>Exactly, plus a lot of hard‑copy engineering to survive launch and space.
+
+551
+00:31:31.910 --> 00:31:32.630
+<v Maya>Who’s pushing this?
+
+552
+00:31:32.770 --> 00:31:33.930
+<v Alex>This feels like a gimmick.
+
+553
+00:31:34.480 --> 00:31:36.070
+<v Maya>It's a real milestone for Google.
+
+554
+00:31:36.760 --> 00:31:38.250
+<v Alex>But is the launch cost worth it?
+
+555
+00:31:38.470 --> 00:31:40.270
+<v Maya>They see it as a step in AI scaling.
+
+556
+00:31:41.090 --> 00:31:43.230
+<v Alex>The orbit gives them power, but what about heat?
+
+557
+00:31:43.720 --> 00:31:46.710
+<v Maya>Radiators and heat pipes handle it, no extra cooling.
+
+558
+00:31:47.200 --> 00:31:50.910
+<v Alex>Still, launching in 2029 is a long road.
+
+559
+00:31:51.490 --> 00:31:54.670
+<v Maya>It’s a strategic move to tap solar energy for compute.
+
+560
+00:31:56.410 --> 00:31:57.410
+<v Alex>That's the news.
+
+561
+00:31:57.410 --> 00:31:58.410
+<v Alex>Time for The Takeaway.
+
+562
+00:31:58.930 --> 00:32:03.370
+<v Alex>Yeah, but the tech‐side of it is that Anthropic’s model is still more fuzzy than
+
+563
+00:32:03.370 --> 00:32:06.710
+<v Alex>any other LLM; we’ll see if it actually scales.
+
+564
+00:32:07.030 --> 00:32:07.430
+<v Maya>No way.
+
+565
+00:32:07.980 --> 00:32:13.210
+<v Alex>I’m watching Apple’s hiring because that could mean a new generation of proprietary
+
+566
+00:32:13.210 --> 00:32:15.290
+<v Alex>agents that outpace Gemini.
+
+567
+00:32:15.290 --> 00:32:16.070
+<v Maya>That’s a gamble.
+
+568
+00:32:16.710 --> 00:32:21.270
+<v Alex>Hold on, the real question is whether Apple’s agent will open up or close the
+
+569
+00:32:21.270 --> 00:32:21.510
+<v Alex>market.
+
+570
+00:32:22.090 --> 00:32:26.420
+<v Maya>Right, and if Meta’s Muse Charm hits the $300 price point,
+
+571
+00:32:26.420 --> 00:32:29.610
+<v Maya>it could be a sign that hardware‑based AI is still a niche bet.
+
+572
+00:32:30.190 --> 00:32:32.640
+<v Alex>That’s the thing—if the hardware doesn’t sell,
+
+573
+00:32:32.640 --> 00:32:35.830
+<v Alex>the whole “AI as a physical service” idea stalls.
+
+574
+00:32:37.650 --> 00:32:39.030
+<v Maya>And that's First Tick.
+
+575
+00:32:39.030 --> 00:32:42.270
+<v Maya>Every story we talked about is linked in the show notes.
+
+576
+00:32:42.270 --> 00:32:43.700
+<v Maya>Got a question for us?
+
+577
+00:32:43.700 --> 00:32:45.190
+<v Maya>The link to send it is there too.
+
+578
+00:32:45.580 --> 00:32:47.910
+<v Alex>Next up is First Tick, tomorrow.
+
+579
+00:32:47.910 --> 00:32:53.790
+<v Alex>Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+580
+00:32:53.790 --> 00:32:56.070
+<v Alex>From Bits and Tickers, I'm Alex.
+
+581
+00:32:56.070 --> 00:32:56.610
+<v Alex>Keep building.
+
+582
+00:32:56.790 --> 00:32:57.150
+<v Maya>I'm Maya.
+
+583
+00:32:57.150 --> 00:32:58.170
+<v Maya>And keep counting.
