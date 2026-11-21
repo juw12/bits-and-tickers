@@ -8,6 +8,7 @@ What got built, and what it's worth. Two hosts, Alex and Maya, on tech, AI and m
 - [Bits & Tickers on Spotify](https://open.spotify.com/show/4dKuoAW25ojx7hjs1wOCKV)
 - [Bits & Tickers on Apple Podcasts](https://podcasts.apple.com/us/podcast/bits-tickers/id6836858263)
 - [Bits & Tickers on Pocket Casts](https://pca.st/9wjiqsos)
+- [Bits & Tickers on Podcast Index](https://podcastindex.org/podcast/8114496)
 - [RSS feed](https://juw12.github.io/bits-and-tickers/feed.xml), for any podcast app
 
 ## Latest episodes

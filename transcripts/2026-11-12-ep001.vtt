@@ -49,19 +49,19 @@ WEBVTT
 <v Alex>Chips meet AI in a surprising deal.
 
 13
-00:00:36.040 --> 00:00:38.850
+00:00:36.040 --> 00:00:39.930
 <v Alex>Founders cashing out big on Anthropic's IPO.
 
 14
-00:00:38.850 --> 00:00:43.950
+00:00:39.930 --> 00:00:43.950
 <v Alex>ChatGPT is letting businesses build AI chatbots.
 
 15
-00:00:43.950 --> 00:00:46.430
+00:00:43.950 --> 00:00:46.400
 <v Alex>Big shakeup at Meta's data centers.
 
 16
-00:00:46.430 --> 00:00:49.230
+00:00:46.400 --> 00:00:49.230
 <v Alex>And CoreWeave's stock just jumped a lot.
 
 17
@@ -77,7 +77,7 @@ WEBVTT
 <v Maya>At Wednesday's close, the S&amp;P 500 finished at 7,619, up 1.3 percent.
 
 20
-00:01:00.930 --> 00:01:06.740
+00:01:00.930 --> 00:01:06.730
 <v Maya>The Nasdaq Composite was up 1.6 percent and the Dow was up 0.5 percent.
 
 21
@@ -93,7 +93,7 @@ WEBVTT
 <v Alex>That's a snapshot, not advice.
 
 24
-00:01:19.290 --> 00:01:23.690
+00:01:19.270 --> 00:01:23.690
 <v Alex>Anduril is claiming they’ve demonstrated a satellite that can track spacecraft even
 
 25
@@ -101,7 +101,7 @@ WEBVTT
 <v Alex>when they’re in Earth’s shadow.
 
 26
-00:01:26.270 --> 00:01:27.950
+00:01:26.270 --> 00:01:27.930
 <v Alex>Ars Technica has the story.
 
 27
@@ -109,7 +109,7 @@ WEBVTT
 <v Maya>Wait, really?
 
 28
-00:01:29.210 --> 00:01:29.950
+00:01:29.210 --> 00:01:29.970
 <v Maya>Tracking spacecraft?
 
 29
@@ -121,7 +121,7 @@ WEBVTT
 <v Alex>It's their satellite, Anduril-216, orbiting about 590 kilometers up.
 
 31
-00:01:38.890 --> 00:01:41.630
+00:01:38.870 --> 00:01:41.630
 <v Maya>That’s a lot of hardware for what sounds like a niche problem.
 
 32
@@ -161,11 +161,11 @@ WEBVTT
 <v Alex>Exactly.
 
 41
-00:02:08.260 --> 00:02:11.310
+00:02:08.260 --> 00:02:11.290
 <v Alex>They’re saying it can see maneuvers others might be trying to hide.
 
 42
-00:02:13.030 --> 00:02:16.400
+00:02:13.130 --> 00:02:16.400
 <v Maya>So, TSMC, the biggest chipmaker around,
 
 43
@@ -189,15 +189,15 @@ WEBVTT
 <v Maya>This investment is up to 500 million in OpenAI and another 500 in Anthropic.
 
 48
-00:02:37.430 --> 00:02:38.480
+00:02:37.430 --> 00:02:38.490
 <v Alex>That's a lot.
 
 49
-00:02:38.480 --> 00:02:43.330
+00:02:38.490 --> 00:02:43.330
 <v Alex>What's the breakdown – preferred stock for OpenAI, common shares for Anthropic?
 
 50
-00:02:43.790 --> 00:02:44.410
+00:02:43.810 --> 00:02:44.410
 <v Maya>Yep.
 
 51
@@ -205,7 +205,7 @@ WEBVTT
 <v Maya>Apparently, the board approved it all.
 
 52
-00:02:46.580 --> 00:02:50.930
+00:02:46.580 --> 00:02:50.950
 <v Maya>It's a bit of a move to give the AI market a boost, according to Ars Technica.
 
 53
@@ -233,7 +233,7 @@ WEBVTT
 <v Alex>yeah, I can see why that's tricky to value.
 
 59
-00:03:12.170 --> 00:03:12.670
+00:03:12.190 --> 00:03:12.670
 <v Maya>It is.
 
 60
@@ -245,15 +245,15 @@ WEBVTT
 <v Alex>Seems like the founders are all taking a pretty significant payday.
 
 62
-00:03:23.310 --> 00:03:26.090
+00:03:23.350 --> 00:03:26.090
 <v Maya>$250 million each, apparently.
 
 63
-00:03:26.550 --> 00:03:29.960
+00:03:26.530 --> 00:03:29.960
 <v Alex>Yeah, each selling just over three million shares.
 
 64
-00:03:29.960 --> 00:03:32.770
+00:03:29.960 --> 00:03:32.790
 <v Alex>It’s interesting they’re all selling the same amount, though.
 
 65
@@ -265,11 +265,11 @@ WEBVTT
 <v Maya>They’ll still own about 3.2% of Class A shares each, collectively 22%.
 
 67
-00:03:42.064 --> 00:03:43.190
+00:03:42.064 --> 00:03:43.170
 <v Alex>They’re still in control?
 
 68
-00:03:43.190 --> 00:03:48.370
+00:03:43.680 --> 00:03:48.370
 <v Maya>They’ll have 51.1% of the votes, thanks to Class F stock.
 
 69
@@ -277,15 +277,15 @@ WEBVTT
 <v Maya>Amazon and Google also have shares, but of a different class.
 
 70
-00:03:52.480 --> 00:03:57.830
+00:03:52.480 --> 00:03:57.810
 <v Alex>So, they left OpenAI to focus on AI safety, and now they’re getting rich.
 
 71
-00:03:58.290 --> 00:03:59.610
+00:03:58.290 --> 00:04:00.050
 <v Maya>That’s the story, yes.
 
 72
-00:03:59.610 --> 00:04:02.100
+00:04:00.050 --> 00:04:02.050
 <v Maya>Reed Hastings wants in too, apparently.
 
 73
@@ -293,15 +293,15 @@ WEBVTT
 <v Maya>OpenAI's letting businesses create AI agents to represent them within ChatGPT.
 
 74
-00:04:09.695 --> 00:04:10.930
+00:04:09.695 --> 00:04:10.910
 <v Alex>Like, full-on brand reps?
 
 75
-00:04:11.240 --> 00:04:11.810
+00:04:11.240 --> 00:04:11.830
 <v Maya>Apparently.
 
 76
-00:04:11.810 --> 00:04:16.450
+00:04:11.830 --> 00:04:16.450
 <v Maya>The Verge reports it’s starting as a beta program for e-commerce and online
 
 77
@@ -325,11 +325,11 @@ WEBVTT
 <v Alex>So, comparison shopping, basically?
 
 82
-00:04:29.020 --> 00:04:32.190
+00:04:29.020 --> 00:04:32.210
 <v Maya>That’s the main use case they're highlighting, yes.
 
 83
-00:04:32.190 --> 00:04:34.670
+00:04:32.210 --> 00:04:34.670
 <v Maya>And there's this thing called Business Hub for verification.
 
 84
@@ -369,7 +369,7 @@ WEBVTT
 <v Alex>Apparently he’s handing over the reins to David Brown,
 
 93
-00:04:57.550 --> 00:05:00.250
+00:04:57.550 --> 00:05:00.230
 <v Alex>who just joined from AWS in July.
 
 94
@@ -389,39 +389,39 @@ WEBVTT
 <v Alex>so it's not cold turkey.
 
 98
-00:05:11.690 --> 00:05:15.450
+00:05:11.690 --> 00:05:15.470
 <v Alex>CNBC reports he said it's “the right time.”
 
 99
-00:05:15.870 --> 00:05:16.110
+00:05:15.870 --> 00:05:16.680
 <v Maya>Right.
 
 100
-00:05:16.110 --> 00:05:20.970
+00:05:16.680 --> 00:05:21.290
 <v Maya>And this is all part of Mark Zuckerberg’s push to expand data center operations,
 
 101
-00:05:20.970 --> 00:05:21.810
+00:05:21.290 --> 00:05:21.890
 <v Maya>apparently.
 
 102
-00:05:22.200 --> 00:05:26.270
+00:05:22.210 --> 00:05:26.270
 <v Alex>Seems like it’s linked to investor pressure regarding capital spending, too.
 
 103
-00:05:26.690 --> 00:05:29.630
+00:05:26.770 --> 00:05:29.590
 <v Maya>Which, given their negative free cash flow, makes sense.
 
 104
-00:05:29.630 --> 00:05:30.290
+00:05:29.670 --> 00:05:30.190
 <v Alex>Exactly.
 
 105
-00:05:31.900 --> 00:05:36.330
+00:05:31.900 --> 00:05:37.350
 <v Maya>Apparently Jim Cramer is warming up to CoreWeave, according to CNBC.
 
 106
-00:05:36.330 --> 00:05:42.810
+00:05:37.350 --> 00:05:42.810
 <v Maya>Their stock surged nearly 25% after they released earnings and the CEO had a chat
 
 107
@@ -429,43 +429,43 @@ WEBVTT
 <v Maya>with him.
 
 108
-00:05:43.700 --> 00:05:44.070
+00:05:43.700 --> 00:05:44.450
 <v Alex>Cramer?
 
 109
-00:05:44.070 --> 00:05:45.590
+00:05:44.450 --> 00:05:45.570
 <v Alex>I thought he’d be more skeptical.
 
 110
-00:05:46.200 --> 00:05:49.190
+00:05:46.290 --> 00:05:49.190
 <v Maya>Yeah, he was, but he’s changed his tune.
 
 111
-00:05:49.190 --> 00:05:52.110
+00:05:49.190 --> 00:05:52.590
 <v Maya>They’re seeing demand ten times greater than they can supply,
 
 112
-00:05:52.110 --> 00:05:54.570
+00:05:52.590 --> 00:05:54.530
 <v Maya>which is allowing them to increase prices.
 
 113
-00:05:55.160 --> 00:05:57.430
+00:05:55.160 --> 00:05:57.410
 <v Alex>Makes you wonder how sustainable that is, though.
 
 114
-00:05:57.850 --> 00:06:00.070
+00:05:57.845 --> 00:06:00.070
 <v Maya>They’re also dealing with a significant debt load,
 
 115
-00:06:00.070 --> 00:06:03.930
+00:06:00.070 --> 00:06:03.870
 <v Maya>which has been weighing down the stock, but the surge helped a bit.
 
 116
-00:06:04.410 --> 00:06:08.070
+00:06:04.400 --> 00:06:07.990
 <v Alex>So, they're financing with equipment and contracts now, huh?
 
 117
-00:06:08.070 --> 00:06:08.930
+00:06:07.990 --> 00:06:08.960
 <v Alex>Interesting pivot.
 
 118
@@ -473,7 +473,7 @@ WEBVTT
 <v Maya>Apparently the CEO was tempted to buy back their own bonds on the open market,
 
 119
-00:06:14.460 --> 00:06:17.690
+00:06:14.460 --> 00:06:17.670
 <v Maya>but he figures building data centers is the better return.
 
 120
@@ -481,47 +481,47 @@ WEBVTT
 <v Alex>And the Nvidia chips?
 
 121
-00:06:20.210 --> 00:06:22.720
+00:06:20.210 --> 00:06:22.740
 <v Alex>They're holding their value longer than people thought.
 
 122
-00:06:24.390 --> 00:06:25.450
+00:06:24.350 --> 00:06:25.370
 <v Alex>That's the news.
 
 123
-00:06:25.450 --> 00:06:26.270
+00:06:25.370 --> 00:06:26.270
 <v Alex>Time for The Takeaway.
 
 124
-00:06:27.010 --> 00:06:31.850
+00:06:27.010 --> 00:06:31.830
 <v Alex>I just think the satellite stuff—seeing maneuvers in orbit—sounds like a massive
 
 125
-00:06:31.850 --> 00:06:34.590
+00:06:31.830 --> 00:06:34.630
 <v Alex>engineering challenge, even if it’s a demo.
 
 126
-00:06:35.160 --> 00:06:39.870
+00:06:35.170 --> 00:06:39.870
 <v Maya>I’m going to be watching how quickly those Business Agents for ChatGPT start
 
 127
-00:06:39.870 --> 00:06:45.390
+00:06:39.870 --> 00:06:45.370
 <v Maya>impacting actual productivity and, crucially, the bottom line for those businesses.
 
 128
-00:06:46.370 --> 00:06:50.810
+00:06:46.320 --> 00:06:51.350
 <v Alex>I'm curious to see if Meta's infrastructure shift really changes anything,
 
 129
-00:06:50.810 --> 00:06:53.590
+00:06:51.350 --> 00:06:53.570
 <v Alex>or if it's just a shuffle of deck chairs.
 
 130
-00:06:54.290 --> 00:06:58.470
+00:06:54.140 --> 00:06:58.430
 <v Maya>Alex, you’re so dismissive of Cramer—I think he's genuinely on to something with
 
 131
-00:06:58.470 --> 00:07:00.530
+00:06:58.430 --> 00:07:00.610
 <v Maya>CoreWeave, even if it's a bit loud.
 
 132
@@ -529,11 +529,11 @@ WEBVTT
 <v Alex>Hold on, loud doesn't equal correct.
 
 133
-00:07:04.580 --> 00:07:05.350
+00:07:04.580 --> 00:07:05.900
 <v Maya>And that's The Brief.
 
 134
-00:07:05.350 --> 00:07:08.670
+00:07:05.900 --> 00:07:08.710
 <v Maya>Every story we talked about is linked in the show notes.
 
 135
@@ -541,21 +541,21 @@ WEBVTT
 <v Alex>Next up is The Long Drive, tomorrow.
 
 136
-00:07:11.390 --> 00:07:14.870
-<v Alex>One reminder: nothing here is financial advice.
+00:07:11.390 --> 00:07:17.310
+<v Alex>Two reminders: our voices are made with AI, and nothing here is financial advice.
 
 137
-00:07:14.870 --> 00:07:17.170
+00:07:17.310 --> 00:07:19.810
 <v Alex>From Bits and Tickers, I'm Alex.
 
 138
-00:07:17.170 --> 00:07:18.210
+00:07:19.810 --> 00:07:20.890
 <v Alex>Keep building.
 
 139
-00:07:18.255 --> 00:07:18.750
+00:07:20.939 --> 00:07:21.450
 <v Maya>I'm Maya.
 
 140
-00:07:18.750 --> 00:07:19.790
+00:07:21.450 --> 00:07:22.470
 <v Maya>And keep counting.
