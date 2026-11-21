@@ -1,0 +1,631 @@
+1
+00:00:00,010 --> 00:00:04,180
+Maya: President Donald Trump announced a policy to ban U.S.
+
+2
+00:00:04,180 --> 00:00:08,640
+Maya: companies from building data centers abroad and impose a “tremendous tax” on those
+
+3
+00:00:08,640 --> 00:00:09,740
+Maya: that do.
+
+4
+00:00:09,740 --> 00:00:12,280
+Maya: That, and eight more stories, on First Tick.
+
+5
+00:00:21,652 --> 00:00:22,990
+Alex: This is Bits and Tickers.
+
+6
+00:00:22,990 --> 00:00:25,210
+Alex: What got built, and what it's worth.
+
+7
+00:00:25,210 --> 00:00:25,610
+Alex: I'm Alex.
+
+8
+00:00:26,140 --> 00:00:27,430
+Maya: And I'm Maya.
+
+9
+00:00:27,430 --> 00:00:31,900
+Maya: It's Saturday, November 21st, and this is First Tick: the day's tech,
+
+10
+00:00:31,900 --> 00:00:36,370
+Maya: AI and market news in about ten minutes, biggest story first.
+
+11
+00:00:36,370 --> 00:00:38,660
+Maya: Everything we talk about is linked in the show notes.
+
+12
+00:00:39,170 --> 00:00:40,490
+Alex: On today's show.
+
+13
+00:00:40,490 --> 00:00:41,622
+Alex: Trump warns U.S.
+
+14
+00:00:41,622 --> 00:00:43,920
+Alex: data‑center builders abroad.
+
+15
+00:00:43,920 --> 00:00:48,050
+Alex: SpaceX Starshield in Ukraine sparks congressional funding scare.
+
+16
+00:00:48,050 --> 00:00:51,650
+Alex: Nvidia drops 14% after seven‑day slide.
+
+17
+00:00:51,650 --> 00:00:55,870
+Alex: Anthropic’s Amodei vows slower AI, stays under control.
+
+18
+00:00:55,870 --> 00:00:59,050
+Alex: And Google drops search button, adds AI sidebar.
+
+19
+00:00:59,050 --> 00:01:00,530
+Alex: Plus four more.
+
+20
+00:01:00,530 --> 00:01:01,240
+Alex: Let's get into it.
+
+21
+00:01:02,850 --> 00:01:04,420
+Maya: Time for The Ticker.
+
+22
+00:01:04,420 --> 00:01:12,340
+Maya: At Friday's close, the S&P 500 finished at 6,910, down 3.7 percent.
+
+23
+00:01:12,340 --> 00:01:18,270
+Maya: The Nasdaq Composite was down 5.3 percent and the Dow was down 1.9 percent.
+
+24
+00:01:18,620 --> 00:01:22,670
+Alex: And in big tech, Apple had the best day, down 1.9 percent,
+
+25
+00:01:22,670 --> 00:01:27,570
+Alex: while Nvidia was at the other end, down 14.0 percent.
+
+26
+00:01:27,570 --> 00:01:29,140
+Alex: That's a snapshot, not advice.
+
+27
+00:01:30,102 --> 00:01:35,120
+Maya: And from the companies in today's stories: Alphabet closed down 2.7 percent.
+
+28
+00:01:36,650 --> 00:01:40,870
+Alex: CNBC reports that President Trump said U.S.
+
+29
+00:01:40,870 --> 00:01:44,770
+Alex: firms can't build data centers abroad and will face a huge tax.
+
+30
+00:01:45,550 --> 00:01:49,170
+Maya: He made it at a press conference after a summit with Xi and Putin.
+
+31
+00:01:49,960 --> 00:01:54,820
+Alex: He even said it’s a first‑time public idea and that he hasn't told his team yet.
+
+32
+00:01:55,260 --> 00:01:58,370
+Maya: Do the reports note that these giants already operate abroad?
+
+33
+00:01:58,800 --> 00:02:03,120
+Alex: Yeah, they point out Alphabet, Amazon, Microsoft, Meta,
+
+34
+00:02:03,120 --> 00:02:05,230
+Alex: Oracle already have centers overseas.
+
+35
+00:02:05,930 --> 00:02:12,710
+Maya: The survey says 64% of voters reject an AI center within 10 miles, 13% back it.
+
+36
+00:02:13,180 --> 00:02:18,130
+Alex: The Verge notes states and cities are tightening rules on new data‑center builds,
+
+37
+00:02:18,130 --> 00:02:18,840
+Alex: though no stats.
+
+38
+00:02:19,560 --> 00:02:23,970
+Maya: We should watch the next White House briefing that spells out the exact rate and
+
+39
+00:02:23,970 --> 00:02:24,990
+Maya: enforcement mechanism.
+
+40
+00:02:25,960 --> 00:02:30,660
+Alex: That "tremendous tax" claim still feels like a headline, not a concrete policy.
+
+41
+00:02:32,200 --> 00:02:34,450
+Maya: Ars Technica says Starshield’s in Ukraine.
+
+42
+00:02:35,090 --> 00:02:38,170
+Alex: Himes threatens to withhold money for SpaceX systems.
+
+43
+00:02:38,950 --> 00:02:43,450
+Maya: He warned about unilateral contract changes and lack of oversight.
+
+44
+00:02:43,450 --> 00:02:45,370
+Maya: A Friday letter with those accusations.
+
+45
+00:02:46,020 --> 00:02:48,270
+Alex: CNN was first to report that letter.
+
+46
+00:02:48,870 --> 00:02:51,730
+Maya: Himes also sent a classified note to Jay Clayton.
+
+47
+00:02:52,280 --> 00:02:57,410
+Alex: What nobody has said is whether SpaceX is the sole contractor for the hardware.
+
+48
+00:02:58,510 --> 00:03:01,090
+Maya: SpaceX’s Starshield is in Ukraine,
+
+49
+00:03:01,090 --> 00:03:05,310
+Maya: which stands out because a private company is supplying frontline military tech.
+
+50
+00:03:05,890 --> 00:03:10,360
+Alex: We need to see if Congress actually moves to block funding for SpaceX systems.
+
+51
+00:03:12,270 --> 00:03:18,310
+Alex: CNBC reports Nvidia slid 14% on Friday, snapping a seven‑day loss streak.
+
+52
+00:03:18,790 --> 00:03:22,570
+Maya: That’s the longest weekly decline for Nvidia since 2008.
+
+53
+00:03:23,150 --> 00:03:29,570
+Alex: Now its market cap sits at $3 trillion, fourth after Apple, Microsoft and Alphabet.
+
+54
+00:03:30,180 --> 00:03:32,550
+Maya: How much has that drop cost the company’s value?
+
+55
+00:03:32,930 --> 00:03:38,770
+Alex: Shares are down 46% overall, trimming the cap by about $2.6 trillion.
+
+56
+00:03:39,930 --> 00:03:42,850
+Maya: Jensen Huang stepped down after a conduct issue surfaced.
+
+57
+00:03:43,520 --> 00:03:49,190
+Alex: Co‑founder resigned over personal behavior flagged against company norms.
+
+58
+00:03:49,190 --> 00:03:54,600
+Alex: Colette Kress projects 75% growth next year and says customers aren’t leaving.
+
+59
+00:03:55,000 --> 00:03:59,710
+Maya: Harvey Jones announced Huang’s resignation and a shift of the yearly review from
+
+60
+00:03:59,710 --> 00:04:03,310
+Maya: March to December, and that feels like a major governance shuffle.
+
+61
+00:04:03,710 --> 00:04:08,510
+Alex: The reports leave out how this new review timing will affect quarterly financial
+
+62
+00:04:08,510 --> 00:04:09,230
+Alex: disclosures.
+
+63
+00:04:09,910 --> 00:04:13,190
+Maya: Keep an eye on how the board manages the leadership transition.
+
+64
+00:04:14,910 --> 00:04:19,470
+Maya: TechCrunch reports Dario Amodei spoke at the Nasdaq opening bell,
+
+65
+00:04:19,470 --> 00:04:22,490
+Maya: reaffirming Anthropic’s pledge to pace AI development.
+
+66
+00:04:23,230 --> 00:04:27,950
+Alex: He said the company would not bend to business or political pressure and would
+
+67
+00:04:27,950 --> 00:04:29,830
+Alex: “remain under human control.”
+
+68
+00:04:30,790 --> 00:04:35,550
+Maya: Amodei linked Anthropic’s founding to his father’s death from a disease that became
+
+69
+00:04:35,550 --> 00:04:37,070
+Maya: curable shortly after.
+
+70
+00:04:37,070 --> 00:04:43,270
+Maya: He highlighted AI’s potential to aid medical progress while warning of “very real
+
+71
+00:04:43,270 --> 00:04:45,030
+Maya: risks” from bad actors.
+
+72
+00:04:45,670 --> 00:04:51,130
+Alex: Amodei announced plans to coordinate with other firms on safety standards and embed
+
+73
+00:04:51,130 --> 00:04:52,700
+Alex: third‑party evaluators.
+
+74
+00:04:53,350 --> 00:04:59,460
+Maya: OpenAI, DeepMind, and xAI leaders publicly agreed with Amodei’s stance,
+
+75
+00:04:59,460 --> 00:05:01,330
+Maya: though no concrete commitments were detailed.
+
+76
+00:05:01,890 --> 00:05:07,410
+Alex: Still unanswered is how Anthropic will enforce that “human control” when scaling up.
+
+77
+00:05:08,130 --> 00:05:14,830
+Maya: OpenAI, DeepMind, and xAI agreeing to the stance is the only new figure we have,
+
+78
+00:05:14,830 --> 00:05:17,350
+Maya: and it shows a rare alignment among the big players.
+
+79
+00:05:17,990 --> 00:05:22,890
+Alex: The next detail we need is how Anthropic will “pace the training and deployment of
+
+80
+00:05:22,890 --> 00:05:25,280
+Alex: AI systems” as they promise.
+
+81
+00:05:27,040 --> 00:05:32,730
+Alex: Ars Technica says the new Google page adds AI buttons for image generation,
+
+82
+00:05:32,730 --> 00:05:35,530
+Alex: file analysis, and Gemini brainstorming.
+
+83
+00:05:36,000 --> 00:05:39,870
+Maya: The “I’m Feeling Lucky” button stays, but the old Search button is gone.
+
+84
+00:05:40,810 --> 00:05:46,230
+Alex: The layout now lets users open a collapsible sidebar to keep track of AI chats.
+
+85
+00:05:46,970 --> 00:05:49,190
+Maya: How do you find the gray bar to open the sidebar?
+
+86
+00:05:49,690 --> 00:05:53,230
+Alex: You open it by clicking the gray bar on the left side of the screen.
+
+87
+00:05:53,680 --> 00:05:59,520
+Maya: The sidebar lists recent AI Mode searches, lets you start new threads, search them,
+
+88
+00:05:59,520 --> 00:06:01,150
+Maya: and connect a Gemini Notebook.
+
+89
+00:06:01,570 --> 00:06:06,710
+Alex: What I can't find in the reporting is who at Google will actually own the data from
+
+90
+00:06:06,710 --> 00:06:07,910
+Alex: those AI chats.
+
+91
+00:06:08,470 --> 00:06:13,310
+Maya: The fact that Robby Stein said the change is driven by “people are coming to Search
+
+92
+00:06:13,310 --> 00:06:18,490
+Maya: with more questions that aren’t just one and done” stands out because it shows a
+
+93
+00:06:18,490 --> 00:06:21,250
+Maya: shift in user behavior they’re trying to capture.
+
+94
+00:06:21,990 --> 00:06:26,870
+Alex: We’ll have to watch how Google rolls this out globally on desktop and whether any
+
+95
+00:06:26,870 --> 00:06:29,510
+Alex: other product gets the same sidebar treatment.
+
+96
+00:06:31,040 --> 00:06:36,550
+Maya: TechCrunch reports Anthropic’s seven founders cashed out nearly $2 billion in its
+
+97
+00:06:36,550 --> 00:06:37,730
+Maya: record‑breaking IPO.
+
+98
+00:06:38,290 --> 00:06:46,410
+Alex: The IPO was priced at $83 per share, above the original $74–$83 range.
+
+99
+00:06:47,098 --> 00:06:53,770
+Maya: The company raised $81.3 billion, with $1.95 billion going to the founders.
+
+100
+00:06:54,250 --> 00:06:55,770
+Alex: How much did each founder make?
+
+101
+00:06:56,190 --> 00:06:59,720
+Maya: Each founder sold about 3.4 million shares,
+
+102
+00:06:59,720 --> 00:07:02,990
+Maya: earning roughly $280 million before fees.
+
+103
+00:07:03,770 --> 00:07:09,450
+Alex: Anthropic sold $26 billion of special non‑voting Class N shares to major tech
+
+104
+00:07:09,450 --> 00:07:13,850
+Alex: firms, including $10 billion each to Nvidia and Google.
+
+105
+00:07:13,850 --> 00:07:21,830
+Maya: Google now owns 13.4% of Anthropic; Amazon holds 14.6% after converting some
+
+106
+00:07:21,830 --> 00:07:22,810
+Maya: promissory notes.
+
+107
+00:07:23,350 --> 00:07:29,010
+Alex: Nobody has explained why Anthropic chose to lock in that high price instead of
+
+108
+00:07:29,010 --> 00:07:30,810
+Alex: staying within the original range.
+
+109
+00:07:31,550 --> 00:07:36,480
+Maya: The fully diluted market cap is about $1.5 trillion,
+
+110
+00:07:36,480 --> 00:07:39,490
+Maya: that figure shows the scale of the stake the public is buying.
+
+111
+00:07:39,970 --> 00:07:46,070
+Alex: The next step will be how Anthropic allocates the $70.7 billion it needs for
+
+112
+00:07:46,070 --> 00:07:47,380
+Alex: compute over the next year.
+
+113
+00:07:48,920 --> 00:07:50,220
+Maya: Now, Quick Ticks.
+
+114
+00:07:50,220 --> 00:07:51,550
+Maya: Three more stories, in brief.
+
+115
+00:07:53,450 --> 00:07:58,750
+Alex: Ars Technica reports a giant Andromeda star swallowed its smaller buddy before
+
+116
+00:07:58,750 --> 00:07:59,370
+Alex: blowing up.
+
+117
+00:08:00,150 --> 00:08:05,170
+Maya: Astronomers captured the event from decades before it began right up to the 2025
+
+118
+00:08:05,170 --> 00:08:05,990
+Maya: eruption.
+
+119
+00:08:06,541 --> 00:08:11,250
+Alex: Knowing the common‑envelope phase lasts only a few years or decades,
+
+120
+00:08:11,250 --> 00:08:14,690
+Alex: we can finally test how fast stellar mergers unfold.
+
+121
+00:08:16,530 --> 00:08:21,280
+Maya: Ars Technica says SpaceX pulled back Starship in a mid‑air catch last weekend,
+
+122
+00:08:21,280 --> 00:08:22,490
+Maya: like a stunt on a rocket.
+
+123
+00:08:22,880 --> 00:08:26,710
+Alex: That clears a major hurdle on NASA’s path to the Moon,
+
+124
+00:08:26,710 --> 00:08:29,970
+Alex: opening higher launch rates and orbital refueling soon.
+
+125
+00:08:30,810 --> 00:08:33,470
+Maya: With Starship’s new launch site and factory at Kennedy,
+
+126
+00:08:33,470 --> 00:08:36,890
+Maya: the next phase of lunar missions looks tighter,
+
+127
+00:08:36,890 --> 00:08:39,360
+Maya: but the cost and schedule still need to line up.
+
+128
+00:08:41,270 --> 00:08:45,130
+Alex: CNBC says Anthropic’s stock slipped into the red on day two.
+
+129
+00:08:45,590 --> 00:08:51,010
+Maya: The share closed 17% higher on the first day after a near‑40% jump earlier.
+
+130
+00:08:51,550 --> 00:08:56,110
+Alex: That swing shows the market still testing how resilient Anthropic’s valuation
+
+131
+00:08:56,110 --> 00:08:57,170
+Alex: really is.
+
+132
+00:08:58,710 --> 00:08:59,790
+Alex: That's the news.
+
+133
+00:08:59,790 --> 00:09:00,650
+Alex: Time for The Takeaway.
+
+134
+00:09:01,240 --> 00:09:03,350
+Maya: Trump’s vow to ban U.S.
+
+135
+00:09:03,350 --> 00:09:09,030
+Maya: data centers abroad and impose a “tremendous tax” is the headline key takeaway from
+
+136
+00:09:09,030 --> 00:09:09,670
+Maya: our discussion.
+
+137
+00:09:10,090 --> 00:09:15,560
+Alex: I see it as an overreach that will likely cripple the infrastructure supply chain,
+
+138
+00:09:15,560 --> 00:09:19,390
+Alex: because the policy targets firms that are already building overseas.
+
+139
+00:09:20,170 --> 00:09:23,670
+Maya: The story I think people will underrate is Anthropic’s IPO,
+
+140
+00:09:23,670 --> 00:09:29,030
+Maya: because it shows founders cashing out huge sums while the company pivots on human
+
+141
+00:09:29,030 --> 00:09:29,990
+Maya: control claims.
+
+142
+00:09:30,670 --> 00:09:36,130
+Alex: I disagree; the more consequential story is SpaceX’s Starshield troubles in
+
+143
+00:09:36,130 --> 00:09:41,150
+Alex: Ukraine, because a single representative threatened to withhold funding for a
+
+144
+00:09:41,150 --> 00:09:42,170
+Alex: military program.
+
+145
+00:09:42,710 --> 00:09:47,490
+Maya: I'll be watching the next funding decision on SpaceX‑owned systems after the House
+
+146
+00:09:47,490 --> 00:09:48,770
+Maya: representative’s warning.
+
+147
+00:09:49,640 --> 00:09:52,910
+Alex: I'm keeping an eye on how Google’s new search homepage,
+
+148
+00:09:52,910 --> 00:09:57,510
+Alex: which eliminates the traditional search button, reshapes user interaction.
+
+149
+00:09:59,070 --> 00:10:00,370
+Maya: And that's First Tick.
+
+150
+00:10:00,370 --> 00:10:03,620
+Maya: Every story we talked about is linked in the show notes.
+
+151
+00:10:03,620 --> 00:10:05,030
+Maya: Got a question for us?
+
+152
+00:10:05,030 --> 00:10:06,470
+Maya: The link to send it is there too.
+
+153
+00:10:07,270 --> 00:10:09,430
+Alex: Next up is First Tick, tomorrow.
+
+154
+00:10:09,430 --> 00:10:15,170
+Alex: Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+155
+00:10:15,170 --> 00:10:17,410
+Alex: From Bits and Tickers, I'm Alex.
+
+156
+00:10:17,410 --> 00:10:17,970
+Alex: Keep building.
+
+157
+00:10:18,110 --> 00:10:18,790
+Maya: I'm Maya.
+
+158
+00:10:18,790 --> 00:10:19,490
+Maya: And keep counting.
