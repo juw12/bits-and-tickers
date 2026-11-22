@@ -1,0 +1,595 @@
+1
+00:00:00,010 --> 00:00:05,480
+Maya: A hack of the FBI’s National Crime Information Center (NCIC) was reported.
+
+2
+00:00:05,480 --> 00:00:08,080
+Maya: That, and nine more stories, on First Tick.
+
+3
+00:00:17,452 --> 00:00:18,830
+Alex: This is Bits and Tickers.
+
+4
+00:00:18,830 --> 00:00:21,090
+Alex: What got built, and what it's worth.
+
+5
+00:00:21,090 --> 00:00:21,540
+Alex: I'm Alex.
+
+6
+00:00:22,250 --> 00:00:23,530
+Maya: And I'm Maya.
+
+7
+00:00:23,530 --> 00:00:27,990
+Maya: It's Sunday, November 22nd, and this is First Tick: the day's tech,
+
+8
+00:00:27,990 --> 00:00:32,420
+Maya: AI and market news in about ten minutes, biggest story first.
+
+9
+00:00:32,420 --> 00:00:34,710
+Maya: Everything we talk about is linked in the show notes.
+
+10
+00:00:35,350 --> 00:00:36,910
+Alex: On today's show.
+
+11
+00:00:36,910 --> 00:00:41,310
+Alex: FBI database hack sparks new questions about data integrity.
+
+12
+00:00:41,310 --> 00:00:44,880
+Alex: Signal blocks screenshots to fight AI surveillance.
+
+13
+00:00:44,880 --> 00:00:47,010
+Alex: A tale of two Nvidias.
+
+14
+00:00:47,010 --> 00:00:51,110
+Alex: Here are the top AI agents that can live in your text messages.
+
+15
+00:00:51,110 --> 00:00:54,950
+Alex: And Anthropic’s IPO beats all, Nvidia takes a hit.
+
+16
+00:00:54,950 --> 00:00:56,230
+Alex: Plus five more.
+
+17
+00:00:56,230 --> 00:00:56,980
+Alex: Let's get into it.
+
+18
+00:00:58,510 --> 00:01:00,140
+Maya: Time for The Ticker.
+
+19
+00:01:00,140 --> 00:01:07,890
+Maya: At Friday's close, the S&P 500 finished at 6,910, down 3.7 percent.
+
+20
+00:01:07,890 --> 00:01:13,770
+Maya: The Nasdaq Composite was down 5.3 percent and the Dow was down 1.9 percent.
+
+21
+00:01:14,400 --> 00:01:18,660
+Alex: And in big tech, Apple had the best day, down 1.9 percent,
+
+22
+00:01:18,660 --> 00:01:23,450
+Alex: while Nvidia was at the other end, down 14.0 percent.
+
+23
+00:01:23,450 --> 00:01:25,050
+Alex: That's a snapshot, not advice.
+
+24
+00:01:25,640 --> 00:01:30,680
+Maya: And from the companies in today's stories: Amazon closed down 4.1 percent.
+
+25
+00:01:32,200 --> 00:01:36,190
+Alex: TechCrunch reports a breach of the National Crime Information Center.
+
+26
+00:01:36,620 --> 00:01:41,190
+Maya: The FBI is investigating, but how much was accessed is still unclear.
+
+27
+00:01:41,770 --> 00:01:45,370
+Alex: That NCIC is the go‑to for warrants, background checks, and more.
+
+28
+00:01:45,910 --> 00:01:47,590
+Maya: What’s the risk to the data’s accuracy?
+
+29
+00:01:47,970 --> 00:01:54,290
+Alex: A former FBI official told CNN the concern is both theft and potential accuracy
+
+30
+00:01:54,290 --> 00:01:54,670
+Alex: loss.
+
+31
+00:01:55,160 --> 00:01:57,450
+Maya: Trump called the hack “not good” on Fox News.
+
+32
+00:01:57,980 --> 00:02:02,330
+Alex: He even hinted a “positive spin,” saying we might learn something from the Russia
+
+33
+00:02:02,330 --> 00:02:02,590
+Alex: hoax.
+
+34
+00:02:03,170 --> 00:02:08,010
+Maya: This is the second FBI intrusion; the first in September hit a jobs site.
+
+35
+00:02:08,770 --> 00:02:12,810
+Alex: That earlier breach hit employee data and disrupted operations.
+
+36
+00:02:13,360 --> 00:02:18,210
+Maya: The price the FBI pays for this breach is the loss of trust from law‑enforcement
+
+37
+00:02:18,210 --> 00:02:18,750
+Maya: partners.
+
+38
+00:02:19,290 --> 00:02:24,030
+Alex: What nobody has said is how the NCIC’s code could have been exposed to such a hack.
+
+39
+00:02:25,690 --> 00:02:29,850
+Maya: TechCrunch reports Signal is blocking screenshots on Android and iOS
+
+40
+00:02:30,410 --> 00:02:34,940
+Alex: The move aims to stop OS AI agents from reading on‑screen content
+
+41
+00:02:35,320 --> 00:02:39,470
+Maya: Whittaker calls the threat existential, citing Windows, Android,
+
+42
+00:02:39,470 --> 00:02:41,870
+Maya: macOS/iOS AI scanners
+
+43
+00:02:42,650 --> 00:02:44,730
+Alex: Why is this a problem for Windows users?
+
+44
+00:02:45,240 --> 00:02:49,430
+Maya: Signal already blocks screenshots in its Windows app by default; the mobile
+
+45
+00:02:49,430 --> 00:02:50,990
+Maya: restriction is a new addition
+
+46
+00:02:51,420 --> 00:02:55,890
+Alex: You can turn the block off, but Whittaker warns it will break privacy guarantees
+
+47
+00:02:56,530 --> 00:03:01,470
+Maya: The block isn't foolproof; Whittaker says AI can still read data via the file system
+
+48
+00:03:02,030 --> 00:03:06,230
+Alex: The reports leave out who’s actually funding Signal’s new screenshot guard.
+
+49
+00:03:06,790 --> 00:03:12,730
+Maya: Meredith Whittaker, the founder, says the move is a direct response to AI scanners,
+
+50
+00:03:12,730 --> 00:03:15,950
+Maya: which is a stark contrast to the usual tech‑privacy debate.
+
+51
+00:03:16,450 --> 00:03:21,090
+Alex: The next big question is how this restriction will affect Signal’s cross‑platform
+
+52
+00:03:21,090 --> 00:03:21,970
+Alex: consistency.
+
+53
+00:03:23,550 --> 00:03:27,240
+Alex: TechCrunch says Nvidia's latest earnings hit new highs,
+
+54
+00:03:27,240 --> 00:03:29,680
+Alex: yet there's zero plan for Huang to return.
+
+55
+00:03:30,310 --> 00:03:33,870
+Maya: Elon Musk and others signed a petition for Jensen Huang,
+
+56
+00:03:33,870 --> 00:03:35,380
+Maya: and he said he's ready to come back.
+
+57
+00:03:36,070 --> 00:03:41,270
+Alex: Colette Kress just dropped a line that the H200 chips won't go out to China anymore.
+
+58
+00:03:42,290 --> 00:03:45,150
+Maya: How does the export control shift affect that decision?
+
+59
+00:03:45,620 --> 00:03:51,110
+Alex: Trump’s controls, still in play under Biden, cut Nvidia's China sales,
+
+60
+00:03:51,110 --> 00:03:53,440
+Alex: but recent tweaks have opened a path again.
+
+61
+00:03:54,050 --> 00:03:58,750
+Maya: Roughly 20% of Nvidia’s revenue comes from China, though it's hidden in the books.
+
+62
+00:03:59,200 --> 00:04:04,110
+Alex: Still unanswered is what the board intends for Huang’s role if he ever comes back.
+
+63
+00:04:05,770 --> 00:04:09,810
+Maya: TechCrunch reports these agents can keep context, hook into apps,
+
+64
+00:04:09,810 --> 00:04:12,150
+Maya: and do things like schedule, email, shop
+
+65
+00:04:12,633 --> 00:04:17,810
+Alex: Ask Proxy bills itself as a chatbot that “thinks like a woman” and can reach out
+
+66
+00:04:17,810 --> 00:04:18,550
+Alex: proactively
+
+67
+00:04:18,930 --> 00:04:21,640
+Maya: The personal version is $1 a day,
+
+68
+00:04:21,640 --> 00:04:28,250
+Maya: while businesses get plans at $15 per employee monthly for large firms and $23 for
+
+69
+00:04:28,250 --> 00:04:29,030
+Maya: small teams
+
+70
+00:04:29,530 --> 00:04:32,070
+Alex: How does Caddy pull items from emails and chats?
+
+71
+00:04:32,590 --> 00:04:38,570
+Maya: Caddy plugs into iMessage on iPhone and RCS on Android to pull actionable items
+
+72
+00:04:38,570 --> 00:04:42,110
+Maya: from emails and chats into calendars and reminders
+
+73
+00:04:42,730 --> 00:04:47,180
+Alex: Comma can juggle tasks across browsers, computers, files,
+
+74
+00:04:47,180 --> 00:04:50,960
+Alex: and is reachable via Signal, Telegram, and WeChat,
+
+75
+00:04:50,960 --> 00:04:53,150
+Alex: giving daily briefings and call summaries
+
+76
+00:04:54,090 --> 00:04:59,990
+Maya: Fambot acts like an AI chief of staff for families, coordinating school, sports,
+
+77
+00:04:59,990 --> 00:05:03,290
+Maya: meals, and calendars through an app and text messages
+
+78
+00:05:03,770 --> 00:05:09,010
+Alex: What I can't find in the reporting is how Ask Proxy's gendered persona was chosen
+
+79
+00:05:09,010 --> 00:05:10,820
+Alex: and who leads the design.
+
+80
+00:05:11,360 --> 00:05:16,070
+Maya: That price for the personal version signals Ask Proxy's strategy to capture
+
+81
+00:05:16,070 --> 00:05:19,050
+Maya: individual users before scaling to enterprises.
+
+82
+00:05:19,684 --> 00:05:24,610
+Alex: The next uncertainty is whether Caddy can actually parse nested email threads
+
+83
+00:05:24,610 --> 00:05:29,430
+Alex: across multiple providers without violating privacy policies.
+
+84
+00:05:31,000 --> 00:05:37,050
+Alex: CNBC says Anthropic pulled in a record $93.5 billion,
+
+85
+00:05:37,050 --> 00:05:41,470
+Alex: plus another $26 billion from big tech buying at the offer price.
+
+86
+00:05:41,890 --> 00:05:47,450
+Maya: The shares shot up 17% on day one, boosting its market cap to $1.8 trillion.
+
+87
+00:05:48,620 --> 00:05:54,840
+Alex: Nvidia’s stock fell 23% that week, the steepest drop in 18 years.
+
+88
+00:05:54,840 --> 00:06:00,870
+Alex: The Nasdaq slipped 10% over the last five days, its worst week since early 2020.
+
+89
+00:06:01,850 --> 00:06:08,030
+Maya: Anthropic’s $1.6 trillion market cap now trails only Apple, Microsoft, Alphabet,
+
+90
+00:06:08,030 --> 00:06:09,890
+Maya: Nvidia, Amazon and SpaceX.
+
+91
+00:06:10,550 --> 00:06:15,330
+Alex: Ben Narasin of Tenacity Venture Capital said he never invested,
+
+92
+00:06:15,330 --> 00:06:18,090
+Alex: but he’s planning a caviar party for the attendees.
+
+93
+00:06:18,830 --> 00:06:23,550
+Maya: Menlo Ventures, owning roughly $25 billion at IPO,
+
+94
+00:06:23,550 --> 00:06:27,730
+Maya: stands out because that's a huge chunk of equity in a single AI firm.
+
+95
+00:06:28,190 --> 00:06:33,990
+Alex: Nobody has explained how Ben Narasin's caviar party plans affect Anthropic's
+
+96
+00:06:33,990 --> 00:06:34,480
+Alex: governance.
+
+97
+00:06:35,110 --> 00:06:38,510
+Maya: We should watch whether Lightspeed's stake translates into board influence.
+
+98
+00:06:40,150 --> 00:06:44,310
+Maya: The Verge says the UN fell short on robot‑weapon rules, just started talks.
+
+99
+00:06:44,900 --> 00:06:48,730
+Alex: They met in Geneva with diplomats from many nations.
+
+100
+00:06:48,730 --> 00:06:51,390
+Alex: Who’s pushing for binding rules amid the delay?
+
+101
+00:06:51,840 --> 00:06:55,910
+Maya: The UN secretary‑general and Pope Leo urged binding regulations.
+
+102
+00:06:56,480 --> 00:07:00,250
+Alex: They gave countries two years to draft, enforcement talks longer.
+
+103
+00:07:01,050 --> 00:07:04,830
+Maya: Some rules will stay optional, leaving room for non‑binding guidelines.
+
+104
+00:07:05,420 --> 00:07:09,090
+Alex: We should watch how the optional guidelines shape the next round of talks.
+
+105
+00:07:10,880 --> 00:07:12,150
+Maya: Now, Quick Ticks.
+
+106
+00:07:12,150 --> 00:07:13,450
+Maya: Four more stories, in brief.
+
+107
+00:07:15,080 --> 00:07:20,650
+Alex: The Verge says Amazon’s first photo frame hits 50% off this Black Friday,
+
+108
+00:07:20,650 --> 00:07:22,180
+Alex: so it’s a real price cut.
+
+109
+00:07:22,590 --> 00:07:29,930
+Maya: The Alexa Photo Frame starts at $114, the walnut trim at $134.99.
+
+110
+00:07:31,060 --> 00:07:33,940
+Alex: That means the frame could see a quick uptake,
+
+111
+00:07:33,940 --> 00:07:36,790
+Alex: but we still don’t know how much users will actually buy.
+
+112
+00:07:38,440 --> 00:07:45,550
+Maya: CNBC says Zscaler stocks jumped 18% after Bloomberg said CrowdStrike is in talks to
+
+113
+00:07:45,550 --> 00:07:46,046
+Maya: buy them.
+
+114
+00:07:46,910 --> 00:07:51,090
+Alex: CrowdStrike shares dropped over 8% after the same Bloomberg headline.
+
+115
+00:07:51,690 --> 00:07:56,890
+Maya: So Zscaler's price rally and CrowdStrike's dip suggest market is still uncertain
+
+116
+00:07:56,890 --> 00:07:57,590
+Maya: about the deal.
+
+117
+00:07:59,190 --> 00:08:04,090
+Alex: CNBC says Anthropic slid almost 9% on its first full day.
+
+118
+00:08:04,591 --> 00:08:13,730
+Maya: It opened at $111.50 and closed at $97.17, 17% above its IPO.
+
+119
+00:08:14,380 --> 00:08:18,990
+Alex: That drop shows the market still testing the waters around Anthropic’s valuation.
+
+120
+00:08:20,590 --> 00:08:26,530
+Maya: CNBC reports SpaceX's Cursor thinking about ditching Chinese AI models because of
+
+121
+00:08:26,530 --> 00:08:27,630
+Maya: geopolitical risk.
+
+122
+00:08:28,470 --> 00:08:36,130
+Alex: Cursor's Composer 2 was built on Moonshot AI’s Kimi K2.5, a Chinese‑developed model.
+
+123
+00:08:36,610 --> 00:08:40,210
+Maya: That means Cursor may need to replace its core training engine,
+
+124
+00:08:40,210 --> 00:08:42,550
+Maya: but how fast it can switch remains unclear.
+
+125
+00:08:44,230 --> 00:08:45,290
+Alex: That's the news.
+
+126
+00:08:45,290 --> 00:08:46,110
+Alex: Time for The Takeaway.
+
+127
+00:08:47,181 --> 00:08:51,300
+Maya: The main takeaway today is that the FBI’s database hack,
+
+128
+00:08:51,300 --> 00:08:54,750
+Maya: reported as a breach of the National Crime Information Center,
+
+129
+00:08:54,750 --> 00:08:56,270
+Maya: still has an unknown scope.
+
+130
+00:08:56,930 --> 00:09:00,270
+Alex: I see it as a technical hiccup, not a headline,
+
+131
+00:09:00,270 --> 00:09:05,270
+Alex: because the FBI is still investigating without knowing how much data was accessed.
+
+132
+00:09:05,630 --> 00:09:10,280
+Maya: The story I think people will underrate is Signal’s screenshot restriction,
+
+133
+00:09:10,280 --> 00:09:13,370
+Maya: because it signals a quiet war against AI surveillance.
+
+134
+00:09:13,970 --> 00:09:19,020
+Alex: I agree it matters, but I’d focus on Anthropic’s record IPO,
+
+135
+00:09:19,020 --> 00:09:23,410
+Alex: because the company raised that massive amount and the stock surged on debut.
+
+136
+00:09:24,270 --> 00:09:28,860
+Maya: I'll be watching how the UN’s discussion on autonomous weapons evolves,
+
+137
+00:09:28,860 --> 00:09:31,560
+Maya: as it sets the regulatory backdrop for future tech.
+
+138
+00:09:32,150 --> 00:09:36,380
+Alex: I'm keeping an eye on Amazon’s digital photo frame sale,
+
+139
+00:09:36,380 --> 00:09:40,010
+Alex: since it shows how consumer tech is bundling with voice assistants.
+
+140
+00:09:41,770 --> 00:09:43,120
+Maya: And that's First Tick.
+
+141
+00:09:43,120 --> 00:09:46,460
+Maya: Every story we talked about is linked in the show notes.
+
+142
+00:09:46,460 --> 00:09:47,890
+Maya: Got a question for us?
+
+143
+00:09:47,890 --> 00:09:49,410
+Maya: The link to send it is there too.
+
+144
+00:09:49,870 --> 00:09:51,490
+Alex: Next up is First Tick, tomorrow.
+
+145
+00:09:51,490 --> 00:09:57,490
+Alex: Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+146
+00:09:57,490 --> 00:09:59,960
+Alex: From Bits and Tickers, I'm Alex.
+
+147
+00:09:59,960 --> 00:10:01,030
+Alex: Keep building.
+
+148
+00:10:01,041 --> 00:10:01,530
+Maya: I'm Maya.
+
+149
+00:10:01,530 --> 00:10:02,550
+Maya: And keep counting.
