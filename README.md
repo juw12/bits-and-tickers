@@ -13,11 +13,11 @@ What got built, and what it's worth. Two hosts, Alex and Maya, on tech, AI and m
 
 ## Latest episodes
 
+- [Day One: How Apple started, and what to take from it](https://juw12.github.io/bits-and-tickers/episodes/2026-11-22-ep008.html)
 - [First Tick: FBI database hack sparks new questions about data integrity, plus Signal blocks screenshots to fight AI surveillance](https://juw12.github.io/bits-and-tickers/episodes/2026-11-22-ep007.html)
 - [First Tick: Trump warns U.S. data‑center builders abroad, plus SpaceX Starshield in Ukraine sparks congressional funding scare](https://juw12.github.io/bits-and-tickers/episodes/2026-11-21-ep006.html)
 - [First Tick: Anthropic IPO gives away a fortune, plus Apple’s Siri just got a new brain](https://juw12.github.io/bits-and-tickers/episodes/2026-11-20-ep005.html)
 - [First Tick: Elon backs Jensen like a superstar, plus Committee votes despite boycott](https://juw12.github.io/bits-and-tickers/episodes/2026-11-19-ep004.html)
-- [First Tick: Nvidia keeps open‑source plans alive, plus Nvidia rejects founder’s return offer](https://juw12.github.io/bits-and-tickers/episodes/2026-11-18-ep003.html)
 
 This repository is the published site. It is written by the show's build; changes made here by hand
 are overwritten.
