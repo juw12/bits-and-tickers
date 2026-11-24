@@ -1,0 +1,681 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:07.000
+<v Maya>CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks.
+
+2
+00:00:07.000 --> 00:00:09.770
+<v Maya>That, and nine more stories, on First Tick.
+
+3
+00:00:18.574 --> 00:00:20.860
+<v Alex>This is Bits and Tickers.
+
+4
+00:00:20.860 --> 00:00:22.780
+<v Alex>What got built, and what it's worth.
+
+5
+00:00:22.780 --> 00:00:23.180
+<v Alex>I'm Alex.
+
+6
+00:00:23.780 --> 00:00:25.160
+<v Maya>And I'm Maya.
+
+7
+00:00:25.160 --> 00:00:29.600
+<v Maya>It's Tuesday, November 24th, and this is First Tick: the day's tech,
+
+8
+00:00:29.600 --> 00:00:34.120
+<v Maya>AI and market news in about ten minutes, biggest story first.
+
+9
+00:00:34.120 --> 00:00:36.420
+<v Maya>Everything we talk about is linked in the show notes.
+
+10
+00:00:36.960 --> 00:00:38.600
+<v Alex>On today's show.
+
+11
+00:00:38.600 --> 00:00:44.600
+<v Alex>CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks.
+
+12
+00:00:44.600 --> 00:00:47.560
+<v Alex>Anthropic's Claude Ship lets AI fix code.
+
+13
+00:00:47.560 --> 00:00:52.050
+<v Alex>Amazon buys Decart’s AI tech for $7.5 billion.
+
+14
+00:00:52.050 --> 00:00:56.550
+<v Alex>Ars Technica says COP31 fell apart over fossil fuels.
+
+15
+00:00:56.550 --> 00:01:00.940
+<v Alex>And AI in Asia-Pacific is paying off, but strategies lag behind.
+
+16
+00:01:00.940 --> 00:01:02.140
+<v Alex>Plus five more.
+
+17
+00:01:02.140 --> 00:01:02.850
+<v Alex>Let's get into it.
+
+18
+00:01:04.400 --> 00:01:05.460
+<v Maya>Time for The Ticker.
+
+19
+00:01:05.460 --> 00:01:14.160
+<v Maya>At Monday's close, the S&amp;P 500 finished at 7,237, up 4.7 percent.
+
+20
+00:01:14.160 --> 00:01:20.150
+<v Maya>The Nasdaq Composite was up 6.5 percent and the Dow was up 3.0 percent.
+
+21
+00:01:20.590 --> 00:01:24.640
+<v Alex>And in big tech, Apple had the best day, down 1.9 percent,
+
+22
+00:01:24.640 --> 00:01:29.640
+<v Alex>while Nvidia was at the other end, down 14.0 percent.
+
+23
+00:01:29.640 --> 00:01:31.240
+<v Alex>That's a snapshot, not advice.
+
+24
+00:01:31.791 --> 00:01:36.710
+<v Maya>And from the companies in today's stories: Amazon closed down 4.1 percent.
+
+25
+00:01:38.220 --> 00:01:41.630
+<v Alex>This one's from CNBC and TechCrunch.
+
+26
+00:01:41.630 --> 00:01:48.440
+<v Alex>CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks.
+
+27
+00:01:49.050 --> 00:01:54.050
+<v Maya>The acquisition is described as creating the “largest single addressable market”
+
+28
+00:01:54.050 --> 00:01:54.840
+<v Maya>for cybersecurity.
+
+29
+00:01:55.200 --> 00:02:00.770
+<v Alex>The transaction will combine CrowdStrike’s endpoint protection with Zscaler’s
+
+30
+00:02:00.770 --> 00:02:04.580
+<v Alex>zero‑trust platform to offer “superior protection.”
+
+31
+00:02:04.580 --> 00:02:05.600
+<v Maya>How will shares be swapped?
+
+32
+00:02:05.990 --> 00:02:12.180
+<v Alex>Under the agreement, each Zscaler share will be exchanged for 1.135 CrowdStrike
+
+33
+00:02:12.180 --> 00:02:12.600
+<v Alex>shares.
+
+34
+00:02:13.230 --> 00:02:16.720
+<v Maya>This pushes CrowdStrike into the network‑security market,
+
+35
+00:02:16.720 --> 00:02:19.960
+<v Maya>alongside Google’s $32 billion Wiz purchase.
+
+36
+00:02:20.470 --> 00:02:24.210
+<v Alex>CrowdStrike’s shares jumped about 80% this year,
+
+37
+00:02:24.210 --> 00:02:27.460
+<v Alex>while Zscaler’s are up about 5% year‑to‑date.
+
+38
+00:02:28.280 --> 00:02:34.220
+<v Maya>34 cents per share on $1.58 billion revenue is the only earnings figure we have
+
+39
+00:02:34.220 --> 00:02:36.460
+<v Maya>that shows CrowdStrike beating estimates.
+
+40
+00:02:37.090 --> 00:02:42.460
+<v Alex>What nobody has said is how the new network‑security stack will actually integrate
+
+41
+00:02:42.460 --> 00:02:44.370
+<v Alex>with existing endpoint agents.
+
+42
+00:02:45.020 --> 00:02:50.380
+<v Maya>We should watch whether the deal closes in the second half of fiscal 2028 as
+
+43
+00:02:50.380 --> 00:02:54.360
+<v Maya>promised, because the timing matters for the integration rollout.
+
+44
+00:02:54.950 --> 00:03:00.560
+<v Alex>The claim that the deal will build a single control plane for AI feels too broad to
+
+45
+00:03:00.560 --> 00:03:02.520
+<v Alex>convince anyone that it’s practical.
+
+46
+00:03:04.100 --> 00:03:08.000
+<v Maya>TechCrunch reports Anthropic launched Claude Ship, agents fixing code.
+
+47
+00:03:08.440 --> 00:03:13.160
+<v Alex>Claude Ship includes a PR Steward that handles CI, conflicts, feedback.
+
+48
+00:03:14.020 --> 00:03:18.680
+<v Maya>It also has a Claude Approvals agent that authorizes routine pull requests.
+
+49
+00:03:19.090 --> 00:03:21.920
+<v Alex>How does the approval policy determine who can approve?
+
+50
+00:03:22.360 --> 00:03:28.060
+<v Maya>Approval policy is defined by a file in the repository and can incorporate signals
+
+51
+00:03:28.060 --> 00:03:31.320
+<v Maya>from Code Review or the team’s own classifiers.
+
+52
+00:03:31.840 --> 00:03:36.540
+<v Alex>The product is available to Claude Team and Enterprise customers and works with
+
+53
+00:03:36.540 --> 00:03:37.780
+<v Alex>GitHub repositories.
+
+54
+00:03:38.390 --> 00:03:43.340
+<v Maya>Anthropic suggests starting with a single repository and setting monthly spending
+
+55
+00:03:43.340 --> 00:03:45.080
+<v Maya>limits to control the process.
+
+56
+00:03:45.870 --> 00:03:50.410
+<v Alex>The reports leave out how much Anthropic is spending on training these agents.
+
+57
+00:03:51.000 --> 00:03:55.860
+<v Maya>That price is likely paid by the Enterprise customers who subscribe to Claude Ship.
+
+58
+00:03:56.320 --> 00:04:00.450
+<v Alex>The facts still don't say whether the agents can handle non‑GitHub workflows.
+
+59
+00:04:02.163 --> 00:04:08.280
+<v Alex>TechCrunch reports Amazon agreed to acquire Decart’s AI optimization tech and team
+
+60
+00:04:08.280 --> 00:04:10.500
+<v Alex>for $7.5 billion.
+
+61
+00:04:11.950 --> 00:04:16.720
+<v Maya>and it did not stop there: Bloomberg reported it and Amazon confirmed in a blog
+
+62
+00:04:16.720 --> 00:04:17.160
+<v Maya>post.
+
+63
+00:04:17.800 --> 00:04:22.840
+<v Alex>Decart is known for interactive real‑time world models, like Oasis 3,
+
+64
+00:04:22.840 --> 00:04:25.530
+<v Alex>and their AI video‑generation tools.
+
+65
+00:04:26.230 --> 00:04:27.760
+<v Maya>What does DOS do for hardware?
+
+66
+00:04:28.130 --> 00:04:32.820
+<v Alex>that means Decart’s core product, the Decart Optimization Stack,
+
+67
+00:04:32.820 --> 00:04:37.380
+<v Alex>optimizes AI models for Nvidia, Amazon, and Google hardware.
+
+68
+00:04:37.840 --> 00:04:42.900
+<v Maya>in fact Peter DeSantis said, “Every leap forward in AI starts with getting more out
+
+69
+00:04:42.900 --> 00:04:43.540
+<v Maya>of every chip.”
+
+70
+00:04:43.970 --> 00:04:48.000
+<v Alex>so the next step is Amazon plans to sell its Trainium chips,
+
+71
+00:04:48.000 --> 00:04:49.640
+<v Alex>positioning them against Nvidia.
+
+72
+00:04:50.180 --> 00:04:54.900
+<v Maya>Decart’s tech could let customers run workloads on Amazon chips instead of
+
+73
+00:04:54.900 --> 00:04:59.280
+<v Maya>Nvidia’s, which is a big deal because it opens a direct path to Trainium.
+
+74
+00:04:59.860 --> 00:05:04.680
+<v Alex>Still unanswered is how Decart’s team will integrate with Amazon’s existing
+
+75
+00:05:04.680 --> 00:05:05.280
+<v Alex>infrastructure.
+
+76
+00:05:05.890 --> 00:05:10.760
+<v Maya>Watch for how quickly customers switch to Trainium when Decart’s stack is available.
+
+77
+00:05:12.460 --> 00:05:18.580
+<v Maya>Ars Technica reports the COP31 climate talks ended in failure as countries split
+
+78
+00:05:18.580 --> 00:05:20.860
+<v Maya>over fossil fuels and climate finance.
+
+79
+00:05:21.370 --> 00:05:23.640
+<v Alex>The conference center in Antalya, Turkey,
+
+80
+00:05:23.640 --> 00:05:29.260
+<v Alex>was described as a “going‑out‑of‑business sale at a pawnshop for broken dreams”
+
+81
+00:05:29.260 --> 00:05:31.640
+<v Alex>after the talks concluded.
+
+82
+00:05:31.640 --> 00:05:34.420
+<v Alex>So, what about that draft that caused the split?
+
+83
+00:05:34.760 --> 00:05:39.480
+<v Maya>The draft “cover decision” produced on Sunday did not mention fossil fuels,
+
+84
+00:05:39.480 --> 00:05:43.980
+<v Maya>prompting rejection by the U.K., EU, and other governments.
+
+85
+00:05:44.530 --> 00:05:49.660
+<v Alex>The EU said it rejected the draft because “the text does not respond to the
+
+86
+00:05:49.660 --> 00:05:51.370
+<v Alex>science” of climate change.
+
+87
+00:05:52.050 --> 00:05:56.850
+<v Maya>Island nations, including the Bahamas, refused to sign the draft,
+
+88
+00:05:56.850 --> 00:06:03.570
+<v Maya>citing the 2023 UAE Consensus that “agreed by consensus to transition away from
+
+89
+00:06:03.570 --> 00:06:04.300
+<v Maya>fossil fuels.”
+
+90
+00:06:04.880 --> 00:06:10.360
+<v Alex>What I can't find in the reporting is who actually drove the drafting of that cover
+
+91
+00:06:10.360 --> 00:06:10.840
+<v Alex>decision.
+
+92
+00:06:11.390 --> 00:06:17.140
+<v Maya>The WWF said the Antalya Pact has promising signs around food security,
+
+93
+00:06:17.140 --> 00:06:20.000
+<v Maya>which feels oddly optimistic compared to the rest.
+
+94
+00:06:20.420 --> 00:06:24.240
+<v Alex>I want to hear whether the finance gap will be addressed before the next summit.
+
+95
+00:06:25.920 --> 00:06:30.340
+<v Alex>CNBC says AI adoption’s on the rise across Asia‑Pacific,
+
+96
+00:06:30.340 --> 00:06:33.260
+<v Alex>and firms are actually seeing returns.
+
+97
+00:06:33.900 --> 00:06:38.080
+<v Maya>58% of those using AI already beat their initial spend.
+
+98
+00:06:38.080 --> 00:06:41.040
+<v Maya>How many are still stuck with off‑the‑shelf tools?
+
+99
+00:06:42.210 --> 00:06:47.860
+<v Alex>64% still rely on general‑purpose AI or ready‑made solutions,
+
+100
+00:06:47.860 --> 00:06:51.880
+<v Alex>while just 19% have a formal, comprehensive strategy.
+
+101
+00:06:52.520 --> 00:06:57.490
+<v Maya>Firms with a strategy see 35% hitting the most advanced stage,
+
+102
+00:06:57.490 --> 00:06:59.320
+<v Maya>compared to 8% without one.
+
+103
+00:07:00.040 --> 00:07:06.220
+<v Alex>And 48% say a lack of AI and digital skills blocks scaling those investments.
+
+104
+00:07:06.810 --> 00:07:11.710
+<v Maya>Techcombank in Vietnam used AI to assess loan applications,
+
+105
+00:07:11.710 --> 00:07:15.450
+<v Maya>improving digital banking infrastructure with AWS,
+
+106
+00:07:15.450 --> 00:07:19.160
+<v Maya>which cut new product launch time by 30%.
+
+107
+00:07:19.160 --> 00:07:22.550
+<v Maya>That's a big win for a bank that usually moves slowly,
+
+108
+00:07:22.550 --> 00:07:24.640
+<v Maya>and it shows the point of real deployment.
+
+109
+00:07:26.320 --> 00:07:31.580
+<v Maya>CNBC reports President Donald Trump announced Jay Clayton would serve as acting
+
+110
+00:07:31.580 --> 00:07:32.840
+<v Maya>national cyber director.
+
+111
+00:07:33.410 --> 00:07:38.200
+<v Alex>Trump said he replaced Sean Cairncross because “I didn’t think that person was good
+
+112
+00:07:38.200 --> 00:07:38.540
+<v Alex>enough.”
+
+113
+00:07:39.100 --> 00:07:43.680
+<v Maya>Clayton already holds the position of Director of National Intelligence and was
+
+114
+00:07:43.680 --> 00:07:47.140
+<v Maya>added to the artificial intelligence czar role in October.
+
+115
+00:07:47.640 --> 00:07:50.580
+<v Alex>Why is this relevant to the permanent cyber director role?
+
+116
+00:07:50.900 --> 00:07:56.410
+<v Maya>The White House has also named Kirsten Davies, Pentagon chief information officer,
+
+117
+00:07:56.410 --> 00:07:59.060
+<v Maya>as the permanent nominee for national cyber director.
+
+118
+00:07:59.900 --> 00:08:05.360
+<v Alex>Nobody has explained why Clayton's dual roles could clash or reinforce the cyber
+
+119
+00:08:05.360 --> 00:08:05.880
+<v Alex>agenda.
+
+120
+00:08:06.300 --> 00:08:10.520
+<v Maya>The White House official said the appointment has not yet been announced,
+
+121
+00:08:10.520 --> 00:08:13.300
+<v Maya>which is odd because the press already has the story.
+
+122
+00:08:13.820 --> 00:08:18.160
+<v Alex>The fact that the Senate hasn't confirmed the nominee means the next move will be
+
+123
+00:08:18.160 --> 00:08:20.420
+<v Alex>either a formal push or a stall.
+
+124
+00:08:22.070 --> 00:08:23.330
+<v Maya>Now, Quick Ticks.
+
+125
+00:08:23.330 --> 00:08:24.580
+<v Maya>Four more stories, in brief.
+
+126
+00:08:26.260 --> 00:08:30.070
+<v Alex>TechCrunch says Supertake raised $20 million,
+
+127
+00:08:30.070 --> 00:08:33.870
+<v Alex>led by Adjacent with Coinbase Ventures and others on board.
+
+128
+00:08:34.360 --> 00:08:39.860
+<v Maya>Their platform turns natural‑language market ideas into AI‑built portfolios tracked
+
+129
+00:08:39.860 --> 00:08:40.460
+<v Maya>publicly.
+
+130
+00:08:40.960 --> 00:08:45.440
+<v Alex>If the tech holds up, Supertake could turn casual traders into data‑driven
+
+131
+00:08:45.440 --> 00:08:46.870
+<v Alex>portfolio managers.
+
+132
+00:08:48.580 --> 00:08:54.780
+<v Maya>Ars Technica reports the Army postponed the Iowa detonation after public outcry and
+
+133
+00:08:54.780 --> 00:08:56.300
+<v Maya>an environmental lawsuit.
+
+134
+00:08:56.730 --> 00:09:01.840
+<v Alex>Trump said the fate of the unstable material now lies with a federal court and
+
+135
+00:09:01.840 --> 00:09:06.080
+<v Alex>Iowa’s governor‑elect, Rob Sand, sworn in January.
+
+136
+00:09:06.800 --> 00:09:10.660
+<v Maya>This means the decision rests on legal and political timing,
+
+137
+00:09:10.660 --> 00:09:15.060
+<v Maya>leaving the next steps uncertain until the court and governor‑elect act.
+
+138
+00:09:16.700 --> 00:09:22.540
+<v Alex>Ars Technica says Russia’s set to launch a routine ISS supply mission tomorrow,
+
+139
+00:09:22.540 --> 00:09:24.370
+<v Alex>calling it a “big secret.”
+
+140
+00:09:24.690 --> 00:09:31.080
+<v Maya>Space News reporter Jeff Foust asked NASA about the Progress MS‑36 cargo launch
+
+141
+00:09:31.080 --> 00:09:34.500
+<v Maya>scheduled for 10:13 UTC on Tuesday.
+
+142
+00:09:35.200 --> 00:09:37.500
+<v Alex>That means the launch is confirmed,
+
+143
+00:09:37.500 --> 00:09:40.650
+<v Alex>but we still don’t know how NASA’s silence shapes the next steps.
+
+144
+00:09:42.380 --> 00:09:47.920
+<v Maya>CNBC says Huang’s return sent Nvidia partner and supplier stocks in Asia higher,
+
+145
+00:09:47.920 --> 00:09:48.380
+<v Maya>like a ripple.
+
+146
+00:09:48.980 --> 00:09:53.260
+<v Alex>TSMC, Foxconn, and Mediatek all spiked nearly ten percent.
+
+147
+00:09:53.730 --> 00:09:57.020
+<v Maya>This shows the market still feels Nvidia’s influence,
+
+148
+00:09:57.020 --> 00:09:59.060
+<v Maya>but how long the surge holds is unclear.
+
+149
+00:10:00.760 --> 00:10:01.820
+<v Alex>That's the news.
+
+150
+00:10:01.820 --> 00:10:02.640
+<v Alex>Time for The Takeaway.
+
+151
+00:10:03.360 --> 00:10:08.340
+<v Maya>CrowdStrike's acquisition of Zscaler creates the largest single addressable market
+
+152
+00:10:08.340 --> 00:10:09.300
+<v Maya>for cybersecurity.
+
+153
+00:10:10.040 --> 00:10:13.940
+<v Alex>I see it as a risky stretch of engineering integration,
+
+154
+00:10:13.940 --> 00:10:17.200
+<v Alex>because it involves merging two complex cloud stacks.
+
+155
+00:10:17.720 --> 00:10:23.200
+<v Maya>The story that will be underrated is Amazon’s purchase of Decart’s AI optimization
+
+156
+00:10:23.200 --> 00:10:26.540
+<v Maya>tech, because it shows a move into chip‑level efficiency.
+
+157
+00:10:27.250 --> 00:10:31.920
+<v Alex>I agree that the deal matters, but I would pick Anthropic’s Claude Ship,
+
+158
+00:10:31.920 --> 00:10:36.060
+<v Alex>because it actually shows AI agents handling real code reviews.
+
+159
+00:10:36.060 --> 00:10:42.000
+<v Alex>I'm keeping an eye on Supertake’s AI‑driven portfolio platform as it starts
+
+160
+00:10:42.000 --> 00:10:43.660
+<v Alex>tracking public leaderboards.
+
+161
+00:10:45.300 --> 00:10:46.620
+<v Maya>And that's First Tick.
+
+162
+00:10:46.620 --> 00:10:49.910
+<v Maya>Every story we talked about is linked in the show notes.
+
+163
+00:10:49.910 --> 00:10:51.340
+<v Maya>Got a question for us?
+
+164
+00:10:51.340 --> 00:10:52.800
+<v Maya>The link to send it is there too.
+
+165
+00:10:53.320 --> 00:10:55.500
+<v Alex>Next up is First Tick, tomorrow.
+
+166
+00:10:55.500 --> 00:11:01.350
+<v Alex>Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+167
+00:11:01.350 --> 00:11:03.620
+<v Alex>From Bits and Tickers, I'm Alex.
+
+168
+00:11:03.620 --> 00:11:04.200
+<v Alex>Keep building.
+
+169
+00:11:04.241 --> 00:11:04.760
+<v Maya>I'm Maya.
+
+170
+00:11:04.760 --> 00:11:05.760
+<v Maya>And keep counting.
