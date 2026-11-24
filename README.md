@@ -19,5 +19,14 @@ What got built, and what it's worth. Two hosts, Alex and Maya, on tech, AI and m
 - [First Tick: Trump warns U.S. data‑center builders abroad, plus SpaceX Starshield in Ukraine sparks congressional funding scare](https://juw12.github.io/bits-and-tickers/episodes/2026-11-21-ep006.html)
 - [First Tick: Anthropic IPO gives away a fortune, plus Apple’s Siri just got a new brain](https://juw12.github.io/bits-and-tickers/episodes/2026-11-20-ep005.html)
 
+## Get it on your device
+
+- **Windows:** [`BitsTickers-Windows-Setup.exe`](https://github.com/juw12/bits-and-tickers/releases/download/desktop/BitsTickers-Windows-Setup.exe) (no admin needed; if Windows says it protected your PC, choose *More info → Run anyway*), or without installing [`BitsTickers-Windows-Portable.zip`](https://github.com/juw12/bits-and-tickers/releases/download/desktop/BitsTickers-Windows-Portable.zip).
+- **Mac:** [`BitsTickers-macOS-AppleSilicon.dmg`](https://github.com/juw12/bits-and-tickers/releases/download/desktop/BitsTickers-macOS-AppleSilicon.dmg) (M1 and newer) or [`BitsTickers-macOS-Intel.dmg`](https://github.com/juw12/bits-and-tickers/releases/download/desktop/BitsTickers-macOS-Intel.dmg). The first time, macOS blocks it because it is not notarized: **System Settings → Privacy & Security → Open Anyway**.
+- **Android:** [`BitsTickers-android.apk`](https://github.com/juw12/bits-and-tickers/releases/download/android/BitsTickers-android.apk): open the file on the phone and allow your browser to install apps once.
+- **iPhone:** open https://juw12.github.io/bits-and-tickers/ in Safari, tap Share, then **Add to Home Screen**.
+
+The Windows, Mac and Android apps are the listen page in its own window ([`desktop/`](desktop/README.md), [`android/`](android/README.md)) and change with it. They are not code-signed or notarised.
+
 This repository is the published site. It is written by the show's build; changes made here by hand
 are overwritten.
