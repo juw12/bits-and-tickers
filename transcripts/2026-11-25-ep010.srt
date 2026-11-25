@@ -1,0 +1,659 @@
+1
+00:00:00,030 --> 00:00:05,820
+Alex: SpaceX is sued by Oregon and Virginia for alleged non‑consensual sexualized
+
+2
+00:00:05,820 --> 00:00:10,660
+Alex: deepfake images created with its Grok AI and X platform.
+
+3
+00:00:10,660 --> 00:00:13,500
+Alex: That, and nine more stories, on First Tick.
+
+4
+00:00:22,898 --> 00:00:24,520
+Alex: This is Bits and Tickers.
+
+5
+00:00:24,520 --> 00:00:26,400
+Alex: What got built, and what it's worth.
+
+6
+00:00:26,400 --> 00:00:26,890
+Alex: I'm Alex.
+
+7
+00:00:27,510 --> 00:00:28,740
+Maya: And I'm Maya.
+
+8
+00:00:28,740 --> 00:00:33,180
+Maya: It's Wednesday, November 25th, and this is First Tick: the day's tech,
+
+9
+00:00:33,180 --> 00:00:37,640
+Maya: AI and market news in about ten minutes, biggest story first.
+
+10
+00:00:37,640 --> 00:00:39,930
+Maya: Everything we talk about is linked in the show notes.
+
+11
+00:00:40,510 --> 00:00:45,300
+Alex: Today is an interview edition: Maya has read the reports, and I ask the questions.
+
+12
+00:00:45,300 --> 00:00:46,620
+Alex: On today's show.
+
+13
+00:00:46,620 --> 00:00:50,060
+Alex: SpaceX sued over deepfake porn with Grok and X.
+
+14
+00:00:50,060 --> 00:00:53,280
+Alex: Tidal to delete 27 million AI tracks.
+
+15
+00:00:53,280 --> 00:00:57,260
+Alex: Walmart teams with Meta to let shoppers use Muse for Black Friday.
+
+16
+00:00:57,260 --> 00:01:01,100
+Alex: Amazon drone skids onto garage roof after shampoo drop.
+
+17
+00:01:01,100 --> 00:01:05,230
+Alex: And Nvidia’s CEO returns, stock surges 31%.
+
+18
+00:01:05,230 --> 00:01:06,450
+Alex: Plus five more.
+
+19
+00:01:06,450 --> 00:01:07,250
+Alex: Let's get into it.
+
+20
+00:01:08,760 --> 00:01:10,480
+Maya: Time for The Ticker.
+
+21
+00:01:10,480 --> 00:01:18,280
+Maya: At Tuesday's close, the S&P 500 finished at 7,201, down 0.5 percent.
+
+22
+00:01:18,280 --> 00:01:24,040
+Maya: The Nasdaq Composite was down 1.5 percent and the Dow was up 0.9 percent.
+
+23
+00:01:24,430 --> 00:01:28,440
+Alex: And in big tech, Apple had the best day, up 1.4 percent,
+
+24
+00:01:28,440 --> 00:01:32,960
+Alex: while Nvidia was at the other end, down 5.9 percent.
+
+25
+00:01:32,960 --> 00:01:34,540
+Alex: That's a snapshot, not advice.
+
+26
+00:01:35,180 --> 00:01:40,410
+Maya: And from the companies in today's stories: Meta closed down 1.3 percent,
+
+27
+00:01:40,410 --> 00:01:46,370
+Maya: Amazon closed down 1.2 percent and Microsoft closed up 0.7 percent.
+
+28
+00:01:47,900 --> 00:01:54,680
+Alex: CNBC reports SpaceX is facing lawsuits from Oregon and Virginia over non-consensual
+
+29
+00:01:54,680 --> 00:01:57,340
+Alex: deepfake porn created with Grok and X.
+
+30
+00:01:57,920 --> 00:02:03,400
+Maya: The lawsuits say Grok and X let users make explicit deepfakes of kids and others
+
+31
+00:02:03,400 --> 00:02:04,340
+Maya: without consent.
+
+32
+00:02:05,020 --> 00:02:07,970
+Alex: Did they claim SpaceX marketed its AI as safe?
+
+33
+00:02:08,340 --> 00:02:13,080
+Maya: The complaints allege SpaceX marketed Grok and X as generally safe,
+
+34
+00:02:13,080 --> 00:02:18,260
+Maya: violating Virginia’s Consumer Protection Act and Oregon’s Unlawful Trade Practices
+
+35
+00:02:18,260 --> 00:02:19,540
+Maya: Act.
+
+36
+00:02:19,540 --> 00:02:23,860
+Maya: X allows users aged 13 and older to access content,
+
+37
+00:02:23,860 --> 00:02:26,810
+Maya: raising concerns about minors’ exposure to deepfakes.
+
+38
+00:02:27,460 --> 00:02:29,940
+Alex: What did the spokesperson say about breaking safeguards?
+
+39
+00:02:30,410 --> 00:02:34,740
+Maya: SpaceX’s spokesperson said, “When someone tries to break our safeguards and
+
+40
+00:02:34,740 --> 00:02:38,020
+Maya: generate this content, we take appropriate measures,
+
+41
+00:02:38,020 --> 00:02:43,180
+Maya: including actioning accounts and notifying law enforcement.” Gabriela Castillo
+
+42
+00:02:43,180 --> 00:02:48,940
+Maya: Madrid told an NYC Council hearing that SpaceX had “appropriate safeguards” and
+
+43
+00:02:48,940 --> 00:02:51,620
+Maya: “strict controls” around its AI products.
+
+44
+00:02:52,220 --> 00:02:54,160
+Alex: Who’s monitoring the lawsuit’s progress?
+
+45
+00:02:54,680 --> 00:02:59,120
+Maya: The lawsuits are in early stages and are being tracked by the Center for Internet
+
+46
+00:02:59,120 --> 00:03:01,120
+Maya: Technology Addiction.
+
+47
+00:03:01,120 --> 00:03:06,120
+Maya: A separate Baltimore lawsuit against xAI, owned by SpaceX,
+
+48
+00:03:06,120 --> 00:03:11,940
+Maya: invoked Section 230 to argue the company was not liable for user-generated images.
+
+49
+00:03:12,370 --> 00:03:17,700
+Alex: What nobody has said is whether SpaceX actually rolled out any real‑time blocking
+
+50
+00:03:17,700 --> 00:03:19,300
+Alex: tech before the lawsuits hit.
+
+51
+00:03:20,010 --> 00:03:24,420
+Maya: The lawsuits ask for injunctions, civil penalties, disgorgement,
+
+52
+00:03:24,420 --> 00:03:29,660
+Maya: and legal costs—those four remedies stand out because they cover every angle of
+
+53
+00:03:29,660 --> 00:03:30,660
+Maya: financial loss.
+
+54
+00:03:31,310 --> 00:03:37,780
+Alex: The claim that Grok and X were marketed as generally safe still feels unconvincing;
+
+55
+00:03:37,780 --> 00:03:41,320
+Alex: the wording in the complaint raises more questions than it answers.
+
+56
+00:03:41,826 --> 00:03:46,000
+Maya: What the facts leave undecided is how the court will interpret the “appropriate
+
+57
+00:03:46,000 --> 00:03:50,500
+Maya: safeguards” argument in light of the state consumer‑protection statutes.
+
+58
+00:03:52,200 --> 00:03:56,760
+Alex: Ars Technica reports Tidal is pulling all fully AI‑generated tracks.
+
+59
+00:03:57,380 --> 00:04:00,780
+Maya: The ban goes live on December 9, 2026.
+
+60
+00:04:01,440 --> 00:04:03,180
+Alex: How many tracks are we talking about?
+
+61
+00:04:03,660 --> 00:04:08,020
+Maya: Tidal estimates 27 million tracks are fully AI‑generated,
+
+62
+00:04:08,020 --> 00:04:13,000
+Maya: and 96% of those received zero streams in the past 90 days.
+
+63
+00:04:13,510 --> 00:04:17,140
+Alex: The reports leave out who the head of Tidal’s content policy is.
+
+64
+00:04:17,660 --> 00:04:24,070
+Maya: Tidal will also ban distribution services from delivering 100% AI‑generated tracks,
+
+65
+00:04:24,070 --> 00:04:29,880
+Maya: which removes an entire pipeline for AI‑only releases and signals a hard line
+
+66
+00:04:29,880 --> 00:04:31,820
+Maya: against pure AI content.
+
+67
+00:04:33,400 --> 00:04:38,320
+Alex: TechCrunch reports Walmart partners with Meta to let shoppers use Muse for Black
+
+68
+00:04:38,320 --> 00:04:38,720
+Alex: Friday
+
+69
+00:04:39,320 --> 00:04:43,140
+Maya: Muse can search Walmart’s catalog, compare prices,
+
+70
+00:04:43,140 --> 00:04:46,820
+Maya: and add items to a cart without the shopper visiting Walmart’s site.
+
+71
+00:04:47,360 --> 00:04:49,000
+Alex: What’s the role of the Agent Gateway?
+
+72
+00:04:49,380 --> 00:04:53,720
+Maya: The partnership uses Walmart’s Agent Gateway, launched in October,
+
+73
+00:04:53,720 --> 00:04:58,620
+Maya: to let external AI assistants connect to Walmart’s online store.
+
+74
+00:04:58,620 --> 00:05:04,620
+Maya: Instacart has joined Muse, and Walmart’s own AI assistant Sparky offers photo‑based
+
+75
+00:05:04,620 --> 00:05:06,460
+Maya: search and aisle‑location pins.
+
+76
+00:05:06,980 --> 00:05:12,100
+Alex: Still unanswered is how Meta plans to handle the data that Muse pulls from
+
+77
+00:05:12,100 --> 00:05:13,220
+Alex: Walmart’s catalog.
+
+78
+00:05:14,220 --> 00:05:17,870
+Maya: 25% of Muse users shop via the agent,
+
+79
+00:05:17,870 --> 00:05:23,260
+Maya: a figure that jumps out when you compare it to the 51% of all agentic orders that
+
+80
+00:05:23,260 --> 00:05:23,480
+Maya: week.
+
+81
+00:05:24,040 --> 00:05:29,340
+Alex: The claim that Muse “doesn’t get access to a customer’s Walmart shopping history”
+
+82
+00:05:29,340 --> 00:05:30,570
+Alex: doesn’t sit right with me.
+
+83
+00:05:32,150 --> 00:05:37,680
+Alex: Ars Technica says an Amazon delivery drone crashed onto a garage roof after
+
+84
+00:05:37,680 --> 00:05:39,420
+Alex: dropping a shampoo package.
+
+85
+00:05:39,890 --> 00:05:44,020
+Maya: It clipped a fiber‑optic cable before losing a propeller and went sideways.
+
+86
+00:05:44,020 --> 00:05:45,540
+Alex: How did that even happen?
+
+87
+00:05:45,890 --> 00:05:50,320
+Maya: The incident happened on November 20 in Huntington Woods, Michigan,
+
+88
+00:05:50,320 --> 00:05:54,260
+Maya: and the drone got tangled in power lines during takeoff.
+
+89
+00:05:54,260 --> 00:05:58,920
+Maya: No injuries were reported, and Jack Stelzner said the drone’s been removed and
+
+90
+00:05:58,920 --> 00:06:00,780
+Maya: Amazon is talking to the resident.
+
+91
+00:06:01,360 --> 00:06:06,280
+Alex: The claim that the drone lost a propeller after clipping a fiber‑optic cable just
+
+92
+00:06:06,280 --> 00:06:10,060
+Alex: doesn’t convince me—it feels like a convenient excuse.
+
+93
+00:06:11,670 --> 00:06:18,280
+Alex: CNBC reports Jensen Huang reinstated as Nvidia CEO, stock jumped 31%.
+
+94
+00:06:19,310 --> 00:06:22,920
+Maya: Nvidia’s board said it had input from senior U.S.
+
+95
+00:06:22,920 --> 00:06:26,110
+Maya: government levels before voting to bring Huang back.
+
+96
+00:06:26,430 --> 00:06:28,620
+Alex: How did the board decide to reinstate him?
+
+97
+00:06:28,950 --> 00:06:33,950
+Maya: The board voted unanimously after a series of discussions and meetings with him.
+
+98
+00:06:33,950 --> 00:06:39,010
+Maya: President Trump told CNBC he spoke to the board directly and indirectly,
+
+99
+00:06:39,010 --> 00:06:40,660
+Maya: saying Huang did nothing wrong.
+
+100
+00:06:41,050 --> 00:06:46,440
+Alex: What I can't find in the reporting is any detail on why Colette Kress chose to stay
+
+101
+00:06:46,440 --> 00:06:47,760
+Alex: on after the board shift.
+
+102
+00:06:48,760 --> 00:06:53,580
+Maya: Elon Musk’s comment that the board’s “mistake has been corrected” stands out
+
+103
+00:06:53,580 --> 00:06:57,360
+Maya: because it’s the only public endorsement that mentions a correction.
+
+104
+00:06:58,060 --> 00:07:03,080
+Alex: I still don't buy the claim that the board’s unanimous vote was driven by a single
+
+105
+00:07:03,080 --> 00:07:03,960
+Alex: conversation.
+
+106
+00:07:05,720 --> 00:07:11,380
+Alex: Ars Technica reports Microsoft declared a “Code Red” overhaul after the November 12
+
+107
+00:07:11,380 --> 00:07:15,940
+Alex: outage that cut off Exchange Online, Teams, and Outlook worldwide.
+
+108
+00:07:16,740 --> 00:07:22,250
+Maya: Reuters’ internal memos say Jason Henderson called it the biggest customer impact
+
+109
+00:07:22,250 --> 00:07:24,280
+Maya: in Exchange Online history.
+
+110
+00:07:24,960 --> 00:07:27,310
+Alex: How many days did the fix take to saturate?
+
+111
+00:07:27,650 --> 00:07:31,900
+Maya: Henderson wrote that a fix took five to six days to saturate worldwide,
+
+112
+00:07:31,900 --> 00:07:35,840
+Maya: and Microsoft aims for one hour from detection to deployment,
+
+113
+00:07:35,840 --> 00:07:38,140
+Maya: though he's said they're not there yet.
+
+114
+00:07:38,700 --> 00:07:44,100
+Alex: Nobody has explained why Jason Henderson feels the outage was the biggest impact
+
+115
+00:07:44,100 --> 00:07:44,550
+Alex: ever.
+
+116
+00:07:45,080 --> 00:07:46,820
+Maya: Microsoft will absorb that cost.
+
+117
+00:07:47,240 --> 00:07:51,740
+Alex: The claim that a one‑hour deployment target is realistic still feels shaky.
+
+118
+00:07:53,460 --> 00:07:54,180
+Alex: Now, Quick Ticks.
+
+119
+00:07:54,180 --> 00:07:56,030
+Alex: Four more stories, in brief.
+
+120
+00:07:58,080 --> 00:08:04,460
+Maya: CNBC reports the Conference Board’s consumer confidence index jumped to 103.3 in
+
+121
+00:08:04,460 --> 00:08:10,180
+Maya: November, up 11.4 points from October, like a sudden burst of optimism.
+
+122
+00:08:10,960 --> 00:08:14,280
+Alex: Confidence among Democrats and independents surged sharply,
+
+123
+00:08:14,280 --> 00:08:17,830
+Alex: while Republicans slipped a bit but still topped the group chart.
+
+124
+00:08:18,180 --> 00:08:21,200
+Maya: This shift could signal more consumer spending,
+
+125
+00:08:21,200 --> 00:08:26,380
+Maya: but inflation expectations still above the Fed’s target keep uncertainty alive for
+
+126
+00:08:26,380 --> 00:08:27,180
+Maya: market players.
+
+127
+00:08:28,920 --> 00:08:32,920
+Maya: TechCrunch says Jensen Huang thanked the White House and said he’s in therapy.
+
+128
+00:08:33,530 --> 00:08:39,100
+Alex: He apologized to staff, admitted violating Nvidia’s code of conduct,
+
+129
+00:08:39,100 --> 00:08:41,000
+Alex: and said he attends therapy daily.
+
+130
+00:08:41,540 --> 00:08:46,160
+Maya: This means Nvidia’s leadership is openly admitting personal struggles,
+
+131
+00:08:46,160 --> 00:08:49,380
+Maya: but the impact on product pipelines remains unclear.
+
+132
+00:08:50,940 --> 00:08:56,210
+Maya: TechCrunch reports Maple pulled in $5.3 million this round, just last week.
+
+133
+00:08:56,760 --> 00:09:01,840
+Alex: Maple claims its encrypted AI stops the company from accessing user data.
+
+134
+00:09:02,350 --> 00:09:05,010
+Maya: That means users could audit their data,
+
+135
+00:09:05,010 --> 00:09:08,480
+Maya: but how the system actually enforces that remains unclear.
+
+136
+00:09:10,070 --> 00:09:15,420
+Maya: MIT Technology Review says AI modernization is raising the stakes for enterprise
+
+137
+00:09:15,420 --> 00:09:15,890
+Maya: networks.
+
+138
+00:09:16,400 --> 00:09:22,810
+Alex: Agentic AI tasks generate about 450 percent more network traffic than humans.
+
+139
+00:09:23,360 --> 00:09:26,280
+Maya: This means enterprises need to upgrade their infrastructure,
+
+140
+00:09:26,280 --> 00:09:30,440
+Maya: or risk lagging behind competitors relying on AI.
+
+141
+00:09:32,110 --> 00:09:33,220
+Alex: That's the news.
+
+142
+00:09:33,220 --> 00:09:34,060
+Alex: Time for The Takeaway.
+
+143
+00:09:34,750 --> 00:09:39,980
+Maya: The one thing to remember from today is that SpaceX faces lawsuits over its Grok AI
+
+144
+00:09:39,980 --> 00:09:43,920
+Maya: and X platform enabling non-consensual deepfake porn.
+
+145
+00:09:44,360 --> 00:09:49,570
+Alex: I see it differently because the lawsuits only say Grok and X enabled users,
+
+146
+00:09:49,570 --> 00:09:51,510
+Alex: not that the AI itself did.
+
+147
+00:09:52,160 --> 00:09:57,750
+Maya: The story I think people will underrate is Tidal's ban on AI‑generated music,
+
+148
+00:09:57,750 --> 00:10:00,780
+Maya: because it deletes thousands of tracks and could hurt creators.
+
+149
+00:10:01,340 --> 00:10:05,720
+Alex: I agree partly but I'd pick the Amazon drone crash instead,
+
+150
+00:10:05,720 --> 00:10:10,260
+Alex: because the drone clipped a fiber‑optic cable and lost a propeller before crashing.
+
+151
+00:10:10,720 --> 00:10:15,680
+Maya: I'll be watching how Walmart and Meta integrate Muse into Black Friday shopping,
+
+152
+00:10:15,680 --> 00:10:18,980
+Maya: especially how price comparisons affect consumer spending.
+
+153
+00:10:19,640 --> 00:10:23,440
+Alex: I'm keeping an eye on Nvidia's CEO reinstatement,
+
+154
+00:10:23,440 --> 00:10:26,430
+Alex: especially the board's mention of senior U.S.
+
+155
+00:10:26,430 --> 00:10:27,260
+Alex: government input.
+
+156
+00:10:28,800 --> 00:10:30,150
+Maya: And that's First Tick.
+
+157
+00:10:30,150 --> 00:10:33,460
+Maya: Every story we talked about is linked in the show notes.
+
+158
+00:10:33,460 --> 00:10:34,890
+Maya: Got a question for us?
+
+159
+00:10:34,890 --> 00:10:36,400
+Maya: The link to send it is there too.
+
+160
+00:10:36,940 --> 00:10:38,640
+Alex: Next up is First Tick, tomorrow.
+
+161
+00:10:38,640 --> 00:10:44,460
+Alex: Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+162
+00:10:44,460 --> 00:10:46,950
+Alex: From Bits and Tickers, I'm Alex.
+
+163
+00:10:46,950 --> 00:10:48,000
+Alex: Keep building.
+
+164
+00:10:48,022 --> 00:10:48,520
+Maya: I'm Maya.
+
+165
+00:10:48,520 --> 00:10:49,540
+Maya: And keep counting.
