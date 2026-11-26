@@ -1,0 +1,671 @@
+1
+00:00:00,030 --> 00:00:02,340
+Maya: SpaceX to hand a share to every Trump account.
+
+2
+00:00:02,340 --> 00:00:05,400
+Maya: That, and nine more stories, on First Tick.
+
+3
+00:00:14,229 --> 00:00:16,180
+Alex: This is Bits and Tickers.
+
+4
+00:00:16,180 --> 00:00:18,280
+Alex: What got built, and what it's worth.
+
+5
+00:00:18,280 --> 00:00:18,800
+Alex: I'm Alex.
+
+6
+00:00:19,490 --> 00:00:20,100
+Maya: And I'm Maya.
+
+7
+00:00:20,100 --> 00:00:24,840
+Maya: It's Thursday, November 26th, and this is First Tick: the day's tech,
+
+8
+00:00:24,840 --> 00:00:28,960
+Maya: AI and market news in about ten minutes, biggest story first.
+
+9
+00:00:28,960 --> 00:00:31,980
+Maya: Everything we talk about is linked in the show notes.
+
+10
+00:00:32,400 --> 00:00:33,380
+Alex: On today's show.
+
+11
+00:00:33,380 --> 00:00:36,610
+Alex: SpaceX to hand a share to every Trump account.
+
+12
+00:00:36,610 --> 00:00:40,600
+Alex: Anthropic’s IPO isn't looking great, and the market is worried.
+
+13
+00:00:40,600 --> 00:00:43,420
+Alex: Kagi launches its own Gmail rival.
+
+14
+00:00:43,420 --> 00:00:46,440
+Alex: 1Password said hackers broke into its internal systems,
+
+15
+00:00:46,440 --> 00:00:49,000
+Alex: but customer passwords are safe.
+
+16
+00:00:49,000 --> 00:00:52,780
+Alex: And WhatsApp now schedules messages, even when your phone’s off.
+
+17
+00:00:52,780 --> 00:00:54,020
+Alex: Plus five more.
+
+18
+00:00:54,020 --> 00:00:54,800
+Alex: Let's get into it.
+
+19
+00:00:56,380 --> 00:00:58,020
+Maya: Time for The Ticker.
+
+20
+00:00:58,020 --> 00:01:05,320
+Maya: At Wednesday's close, the S&P 500 finished at 7,183, down 0.3 percent.
+
+21
+00:01:05,320 --> 00:01:11,940
+Maya: The Nasdaq Composite was down 0.6 percent and the Dow was up 0.3 percent.
+
+22
+00:01:12,760 --> 00:01:16,740
+Alex: And in big tech, Meta had the best day, up 3.4 percent,
+
+23
+00:01:16,740 --> 00:01:21,280
+Alex: while Nvidia was at the other end, down 3.9 percent.
+
+24
+00:01:21,280 --> 00:01:22,880
+Alex: That's a snapshot, not advice.
+
+25
+00:01:23,620 --> 00:01:29,160
+Maya: And from the companies in today's stories: Alphabet closed down 2.1 percent and
+
+26
+00:01:29,160 --> 00:01:31,810
+Maya: Amazon closed down 3.1 percent.
+
+27
+00:01:33,390 --> 00:01:35,900
+Alex: This one's from CNBC.
+
+28
+00:01:35,900 --> 00:01:38,220
+Alex: SpaceX to hand a share to every Trump account.
+
+29
+00:01:38,770 --> 00:01:44,460
+Maya: The company said this move ties into its mission to “make life multiplanetary” and
+
+30
+00:01:44,460 --> 00:01:49,380
+Maya: to hand “ownership of the company creating these systems” to the next generation of
+
+31
+00:01:49,380 --> 00:01:49,860
+Maya: Americans.
+
+32
+00:01:50,600 --> 00:01:55,280
+Alex: The White House noted that close to 70 million Trump Accounts exist,
+
+33
+00:01:55,280 --> 00:01:58,540
+Alex: over 60 million of them auto‑enrolled,
+
+34
+00:01:58,540 --> 00:02:01,820
+Alex: but the exact count of active accounts is still unclear.
+
+35
+00:02:02,380 --> 00:02:04,900
+Maya: How much money has already gone into those accounts?
+
+36
+00:02:05,460 --> 00:02:11,160
+Alex: Families and friends have already put more than $1 billion into Trump Accounts,
+
+37
+00:02:11,160 --> 00:02:14,420
+Alex: raising total contributions to over $9 billion.
+
+38
+00:02:15,400 --> 00:02:20,600
+Maya: Treasury’s September rules now let Trump Accounts receive stock donations,
+
+39
+00:02:20,600 --> 00:02:22,500
+Maya: aiming to boost philanthropic giving.
+
+40
+00:02:22,990 --> 00:02:28,660
+Alex: Those donated shares can’t be sold by families until either five years pass or the
+
+41
+00:02:28,660 --> 00:02:32,320
+Alex: beneficiary turns 17, whichever comes first.
+
+42
+00:02:32,770 --> 00:02:38,860
+Maya: The new rules also give a one‑time $1,000 deposit to eligible children born between
+
+43
+00:02:38,860 --> 00:02:44,020
+Maya: 2025 and 2028, if they meet certain criteria.
+
+44
+00:02:44,680 --> 00:02:49,480
+Alex: What nobody has said is whether Musk's own holdings will be diluted by this
+
+45
+00:02:49,480 --> 00:02:50,060
+Alex: donation.
+
+46
+00:02:50,830 --> 00:02:55,080
+Maya: The money is flowing from those families and friends into the stock that SpaceX
+
+47
+00:02:55,080 --> 00:02:55,660
+Maya: controls.
+
+48
+00:02:56,320 --> 00:03:00,520
+Alex: We should watch how many of those accounts actually claim the shares when the
+
+49
+00:03:00,520 --> 00:03:01,310
+Alex: restriction lifts.
+
+50
+00:03:02,410 --> 00:03:06,000
+Maya: The claim that this will boost philanthropy feels unproven,
+
+51
+00:03:06,000 --> 00:03:08,800
+Maya: because we don't know how many shares will actually be donated.
+
+52
+00:03:10,560 --> 00:03:14,140
+Maya: Anthropic’s IPO isn't looking great, and the market is worried.
+
+53
+00:03:14,650 --> 00:03:17,460
+Alex: The Nasdaq Composite dropped point six percent,
+
+54
+00:03:17,460 --> 00:03:20,920
+Alex: but it recovered from an even bigger slide earlier.
+
+55
+00:03:21,680 --> 00:03:23,200
+Maya: Oracle's down over five percent,
+
+56
+00:03:23,200 --> 00:03:27,140
+Maya: and CoreWeave and Nebius also took a hit in this AI sell-off.
+
+57
+00:03:27,730 --> 00:03:32,100
+Alex: Krishna also added that the market is worried about something bigger.
+
+58
+00:03:32,100 --> 00:03:36,640
+Alex: “What the market is telling you is that the AI growth narrative has hit a wall and
+
+59
+00:03:36,640 --> 00:03:39,500
+Alex: given the centrality of that theme at the economic level,
+
+60
+00:03:39,500 --> 00:03:43,590
+Alex: the market is expecting some sort of a macro shock,” he said.
+
+61
+00:03:44,380 --> 00:03:47,740
+Maya: Oracle's slide signals its investors are feeling the pinch.
+
+62
+00:03:48,530 --> 00:03:51,980
+Alex: The reports leave out how much cash Anthropic has on hand.
+
+63
+00:03:52,510 --> 00:03:56,520
+Maya: What remains unclear is whether the inflation reading will prompt a rate hike.
+
+64
+00:03:58,420 --> 00:04:03,180
+Alex: Ars Technica says Kagi, the search‑engine firm, just launched Kagi Mail,
+
+65
+00:04:03,180 --> 00:04:05,080
+Alex: its own Gmail‑style service.
+
+66
+00:04:05,840 --> 00:04:11,140
+Maya: Kagi Mail tells users “no surveillance, no ads, open standards, and no lock‑in.”
+
+67
+00:04:11,590 --> 00:04:16,530
+Alex: They offer a free 60‑day trial, then $99 a year,
+
+68
+00:04:16,530 --> 00:04:20,220
+Alex: or it’s free with the $25‑a‑month Ultimate plan.
+
+69
+00:04:21,160 --> 00:04:23,700
+Maya: What makes an @kagimail.com address so unique?
+
+70
+00:04:24,280 --> 00:04:29,560
+Alex: It gives you an @kagimail.com address, unlimited aliases, and unlimited domains.
+
+71
+00:04:30,320 --> 00:04:35,080
+Maya: The beta focuses on keyboard shortcuts, privacy, ad‑free feel,
+
+72
+00:04:35,080 --> 00:04:37,700
+Maya: plus optional AI search and filter tools.
+
+73
+00:04:38,110 --> 00:04:43,940
+Alex: Kagi plans to roll out contacts and an address book in Q1 2027.
+
+74
+00:04:44,560 --> 00:04:47,620
+Maya: Kagi earns that price from users who choose the subscription.
+
+75
+00:04:48,530 --> 00:04:53,760
+Alex: Still unanswered is how Kagi will uphold the no surveillance claim without any data
+
+76
+00:04:53,760 --> 00:04:54,220
+Alex: partner.
+
+77
+00:04:55,960 --> 00:05:01,060
+Maya: TechCrunch reports 1Password confirmed a hacker accessed its internal systems on
+
+78
+00:05:01,060 --> 00:05:04,400
+Maya: November 19, but customer vaults were not compromised.
+
+79
+00:05:05,090 --> 00:05:09,620
+Alex: The attacker entered via an employee’s corporate GitHub account and pushed
+
+80
+00:05:09,620 --> 00:05:11,920
+Alex: malicious code to backend services.
+
+81
+00:05:12,580 --> 00:05:17,510
+Maya: The breach exposed customer names, email addresses, account creation dates,
+
+82
+00:05:17,510 --> 00:05:18,820
+Maya: and last login times.
+
+83
+00:05:19,740 --> 00:05:22,700
+Alex: What else did the attacker snag, besides those details?
+
+84
+00:05:23,190 --> 00:05:27,660
+Maya: The attacker also obtained public keys and account/user identifiers.
+
+85
+00:05:28,350 --> 00:05:33,960
+Alex: 1Password says it has no access to customer passwords or Secret Keys that encrypt
+
+86
+00:05:33,960 --> 00:05:34,480
+Alex: vaults.
+
+87
+00:05:34,940 --> 00:05:40,360
+Maya: The company disabled the compromised GitHub account, rotated internal credentials,
+
+88
+00:05:40,360 --> 00:05:42,020
+Maya: and added a new detection system.
+
+89
+00:05:42,430 --> 00:05:47,220
+Alex: What I can't find in the reporting is whether the employee who logged in from that
+
+90
+00:05:47,220 --> 00:05:51,380
+Alex: GitHub account was a contractor or a full‑time developer.
+
+91
+00:05:51,900 --> 00:05:57,240
+Maya: 1Password said it disabled the compromised GitHub account and rotated internal
+
+92
+00:05:57,240 --> 00:06:01,150
+Maya: credentials, which shows the company acted quickly,
+
+93
+00:06:01,150 --> 00:06:04,420
+Maya: but that speed alone doesn’t explain how the breach happened.
+
+94
+00:06:04,810 --> 00:06:09,040
+Alex: The next thing to watch is whether the new detection system will catch a similar
+
+95
+00:06:09,040 --> 00:06:10,390
+Alex: attack before it spreads.
+
+96
+00:06:12,260 --> 00:06:17,500
+Alex: TechCrunch reports WhatsApp now lets you schedule messages in both individual and
+
+97
+00:06:17,500 --> 00:06:18,140
+Alex: group chats.
+
+98
+00:06:18,780 --> 00:06:22,970
+Maya: The scheduling window ranges from 10 minutes to 14 days later.
+
+99
+00:06:23,310 --> 00:06:26,060
+Alex: Users can schedule text, photos, and videos.
+
+100
+00:06:26,700 --> 00:06:28,660
+Maya: How can you send anything if your phone is dead?
+
+101
+00:06:29,320 --> 00:06:34,430
+Alex: Scheduled messages will be sent even if the phone is off or out of network coverage.
+
+102
+00:06:35,150 --> 00:06:39,680
+Maya: The feature is rolling out globally to all iOS and Android users.
+
+103
+00:06:40,420 --> 00:06:44,400
+Alex: Nobody has explained who in WhatsApp’s team pushed this feature out first.
+
+104
+00:06:45,070 --> 00:06:50,040
+Maya: WhatsApp says it’s rolling out worldwide; that scope is unusual for a feature that
+
+105
+00:06:50,040 --> 00:06:51,100
+Maya: can impact billions.
+
+106
+00:06:52,900 --> 00:06:55,880
+Maya: This one's from Ars Technica and The Verge.
+
+107
+00:06:55,880 --> 00:06:59,160
+Maya: Iowa plant detonates 4.4 tons of lead azide.
+
+108
+00:06:59,520 --> 00:07:04,140
+Alex: The blast sent gray‑white clouds drifting several hundred feet before fading.
+
+109
+00:07:04,840 --> 00:07:09,760
+Maya: People within five miles were told to evacuate; others were advised to shelter in
+
+110
+00:07:09,760 --> 00:07:15,040
+Maya: place, shut windows, turn off fans, and set air systems to recirculate.
+
+111
+00:07:15,820 --> 00:07:18,160
+Alex: Did the Army say the barrels were all destroyed?
+
+112
+00:07:18,780 --> 00:07:23,940
+Maya: The Army confirmed all barrels were destroyed with no secondary explosions or
+
+113
+00:07:23,940 --> 00:07:25,080
+Maya: infrastructure damage.
+
+114
+00:07:25,620 --> 00:07:30,290
+Alex: They added that the detonation reduced, as close to zero as possible,
+
+115
+00:07:30,290 --> 00:07:33,040
+Alex: the risk to Middletown and wider Iowa communities.
+
+116
+00:07:33,950 --> 00:07:38,980
+Maya: The Army’s press conference was held two hours after the blast, during which Maj.
+
+117
+00:07:38,980 --> 00:07:40,000
+Maya: Gen.
+
+118
+00:07:40,000 --> 00:07:44,100
+Maya: Eric Shirley addressed the event, and that timing feels oddly precise.
+
+119
+00:07:44,720 --> 00:07:49,860
+Alex: What nobody has said is whether the storage method with sawdust and burlap bags was
+
+120
+00:07:49,860 --> 00:07:51,720
+Alex: standard or an anomaly.
+
+121
+00:07:52,400 --> 00:07:56,940
+Maya: Watch for any follow‑up on how the environmental cleanup will proceed after the
+
+122
+00:07:56,940 --> 00:07:57,940
+Maya: barrels were destroyed.
+
+123
+00:07:59,740 --> 00:08:01,010
+Maya: Now, Quick Ticks.
+
+124
+00:08:01,010 --> 00:08:02,220
+Maya: Four more stories, in brief.
+
+125
+00:08:03,950 --> 00:08:08,800
+Alex: TechCrunch says Amazon and Meta are chatting about lifting the two‑month hold on
+
+126
+00:08:08,800 --> 00:08:09,040
+Alex: Muse.
+
+127
+00:08:09,990 --> 00:08:14,520
+Maya: The blockade started when Muse shoppers hit an error instead of buying on Amazon.
+
+128
+00:08:15,180 --> 00:08:19,500
+Alex: If they agree, Muse could finally tap Amazon’s marketplace,
+
+129
+00:08:19,500 --> 00:08:21,960
+Alex: but leadership approval is still the gatekeeper.
+
+130
+00:08:23,630 --> 00:08:27,740
+Maya: TechCrunch says S&P might pull Nvidia down from AA to AA‑.
+
+131
+00:08:28,320 --> 00:08:31,640
+Alex: They blame weak oversight, no succession plan,
+
+132
+00:08:31,640 --> 00:08:34,320
+Alex: and key‑man risk after Huang’s brief ouster.
+
+133
+00:08:34,900 --> 00:08:39,230
+Maya: That could tighten financing for Nvidia’s next AI push,
+
+134
+00:08:39,230 --> 00:08:42,380
+Maya: but the exact impact on its cash flow remains unclear.
+
+135
+00:08:44,180 --> 00:08:51,360
+Alex: CNBC reports Nvidia sellers hunting new buyers after US curbs China AI chip access.
+
+136
+00:08:51,930 --> 00:08:58,200
+Maya: The Bureau of Industry and Security announced an interim final rule on Nov 16 that
+
+137
+00:08:58,200 --> 00:09:01,940
+Maya: bans remote access sales of Nvidia's top chips to China.
+
+138
+00:09:02,560 --> 00:09:07,440
+Alex: That means Nvidia's B300 GPUs are flooding the market,
+
+139
+00:09:07,440 --> 00:09:09,700
+Alex: but end‑user demand still unclear.
+
+140
+00:09:11,470 --> 00:09:17,660
+Maya: CNBC reports Vance told reporters that the Attorney General assured him Nvidia CEO
+
+141
+00:09:17,660 --> 00:09:20,320
+Maya: Jensen Huang wasn't under investigation.
+
+142
+00:09:20,950 --> 00:09:26,640
+Alex: Reuters says the DOJ didn’t conduct a formal probe into Huang before Trump pushed
+
+143
+00:09:26,640 --> 00:09:27,800
+Alex: for his reinstatement.
+
+144
+00:09:28,340 --> 00:09:32,020
+Maya: That leaves the question of whether any formal inquiry ever existed,
+
+145
+00:09:32,020 --> 00:09:35,260
+Maya: and how it affects Nvidia’s market stance.
+
+146
+00:09:36,820 --> 00:09:37,900
+Alex: That's the news.
+
+147
+00:09:37,900 --> 00:09:38,780
+Alex: Time for The Takeaway.
+
+148
+00:09:39,620 --> 00:09:44,040
+Maya: SpaceX will donate a share of its stock to every active Trump account,
+
+149
+00:09:44,040 --> 00:09:45,860
+Maya: and Elon Musk will match that gift.
+
+150
+00:09:46,510 --> 00:09:49,110
+Alex: I see that move as a publicity stunt,
+
+151
+00:09:49,110 --> 00:09:52,130
+Alex: because the donation is only one share per account.
+
+152
+00:09:52,660 --> 00:09:56,600
+Maya: The story I think people will underrate is the Kagi Mail launch,
+
+153
+00:09:56,600 --> 00:09:58,860
+Maya: because it offers no ads and no lock‑in.
+
+154
+00:09:59,580 --> 00:10:05,950
+Alex: I agree that Kagi Mail is a quiet shift, but I'd pick the 1Password breach instead,
+
+155
+00:10:05,950 --> 00:10:08,960
+Alex: since the attacker used an employee’s GitHub account.
+
+156
+00:10:09,500 --> 00:10:13,520
+Maya: I'll be watching how Amazon and Meta handle lifting the blockade on Muse.
+
+157
+00:10:14,160 --> 00:10:19,300
+Alex: I'm keeping an eye on how the lead azide detonation might affect future ammunition
+
+158
+00:10:19,300 --> 00:10:20,680
+Alex: safety protocols.
+
+159
+00:10:22,350 --> 00:10:23,730
+Maya: And that's First Tick.
+
+160
+00:10:23,730 --> 00:10:27,060
+Maya: Every story we talked about is linked in the show notes.
+
+161
+00:10:27,060 --> 00:10:28,520
+Maya: Got a question for us?
+
+162
+00:10:28,520 --> 00:10:30,080
+Maya: The link to send it is there too.
+
+163
+00:10:30,720 --> 00:10:32,900
+Alex: Next up is First Tick, tomorrow.
+
+164
+00:10:32,900 --> 00:10:38,610
+Alex: Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+165
+00:10:38,610 --> 00:10:40,900
+Alex: From Bits and Tickers, I'm Alex.
+
+166
+00:10:40,900 --> 00:10:41,460
+Alex: Keep building.
+
+167
+00:10:41,593 --> 00:10:42,120
+Maya: I'm Maya.
+
+168
+00:10:42,120 --> 00:10:43,080
+Maya: And keep counting.
