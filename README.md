@@ -13,11 +13,11 @@ What got built, and what it's worth. Two hosts, Alex and Maya, on tech, AI and m
 
 ## Latest episodes
 
+- [First Tick: SpaceX gets FCC nod for 1 million AI satellites, plus 42 states vs Character.AI's chat auction](https://juw12.github.io/bits-and-tickers/episodes/2026-11-27-ep012.html)
 - [First Tick: SpaceX to hand a share to every Trump account, plus Anthropic’s IPO isn't looking great, and the market is worried](https://juw12.github.io/bits-and-tickers/episodes/2026-11-26-ep011.html)
 - [First Tick: SpaceX sued over deepfake porn with Grok and X, plus Tidal to delete 27 million AI tracks](https://juw12.github.io/bits-and-tickers/episodes/2026-11-25-ep010.html)
 - [First Tick: CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks, plus Anthropic's Claude Ship lets AI fix code](https://juw12.github.io/bits-and-tickers/episodes/2026-11-24-ep009.html)
 - [Day One: How Apple started, and what to take from it](https://juw12.github.io/bits-and-tickers/episodes/2026-11-22-ep008.html)
-- [First Tick: FBI database hack sparks new questions about data integrity, plus Signal blocks screenshots to fight AI surveillance](https://juw12.github.io/bits-and-tickers/episodes/2026-11-22-ep007.html)
 
 ## Get it on your device
 

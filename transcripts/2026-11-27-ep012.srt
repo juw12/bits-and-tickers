@@ -1,0 +1,647 @@
+1
+00:00:00,020 --> 00:00:05,380
+Maya: The FCC granted SpaceX conditional approval to deploy up to 1 million AI
+
+2
+00:00:05,380 --> 00:00:07,220
+Maya: data‑center satellites.
+
+3
+00:00:07,220 --> 00:00:10,020
+Maya: That, and nine more stories, on First Tick.
+
+4
+00:00:18,864 --> 00:00:20,830
+Alex: This is Bits and Tickers.
+
+5
+00:00:20,830 --> 00:00:23,030
+Alex: What got built, and what it's worth.
+
+6
+00:00:23,030 --> 00:00:23,430
+Alex: I'm Alex.
+
+7
+00:00:24,080 --> 00:00:25,330
+Maya: And I'm Maya.
+
+8
+00:00:25,330 --> 00:00:29,800
+Maya: It's Friday, November 27th, and this is First Tick: the day's tech,
+
+9
+00:00:29,800 --> 00:00:34,290
+Maya: AI and market news in about ten minutes, biggest story first.
+
+10
+00:00:34,290 --> 00:00:36,670
+Maya: Everything we talk about is linked in the show notes.
+
+11
+00:00:37,240 --> 00:00:38,630
+Alex: On today's show.
+
+12
+00:00:38,630 --> 00:00:43,190
+Alex: SpaceX gets FCC nod for 1 million AI satellites.
+
+13
+00:00:43,190 --> 00:00:46,890
+Alex: 42 states vs Character.AI's chat auction.
+
+14
+00:00:46,890 --> 00:00:50,830
+Alex: Nvidia halts Southeast Asia shipments over export loophole.
+
+15
+00:00:50,830 --> 00:00:54,340
+Alex: X finally gets parental controls after 20 years.
+
+16
+00:00:54,340 --> 00:00:58,590
+Alex: And Ford drops the GT41 during a Lions‑Bears game.
+
+17
+00:00:58,590 --> 00:00:59,850
+Alex: Plus five more.
+
+18
+00:00:59,850 --> 00:01:00,610
+Alex: Let's get into it.
+
+19
+00:01:02,150 --> 00:01:03,790
+Maya: Time for The Ticker.
+
+20
+00:01:03,790 --> 00:01:11,910
+Maya: At Wednesday's close, the S&P 500 finished at 7,183, down 0.3 percent.
+
+21
+00:01:11,910 --> 00:01:17,840
+Maya: The Nasdaq Composite was down 0.6 percent and the Dow was up 0.3 percent.
+
+22
+00:01:18,160 --> 00:01:22,400
+Alex: And in big tech, Meta had the best day, up 3.4 percent,
+
+23
+00:01:22,400 --> 00:01:26,740
+Alex: while Nvidia was at the other end, down 3.9 percent.
+
+24
+00:01:26,740 --> 00:01:28,350
+Alex: That's a snapshot, not advice.
+
+25
+00:01:30,130 --> 00:01:35,690
+Alex: TechCrunch reports the FCC gave SpaceX conditional approval to launch up to 1
+
+26
+00:01:35,690 --> 00:01:38,130
+Alex: million AI data‑center satellites.
+
+27
+00:01:38,530 --> 00:01:43,930
+Maya: Amazon, Viasat, and the American Astronomical Society opposed the approval,
+
+28
+00:01:43,930 --> 00:01:47,990
+Maya: citing orbital‑debris, congestion, and interference concerns.
+
+29
+00:01:48,430 --> 00:01:53,130
+Alex: The FCC dismissed worries about scientific‑research interference,
+
+30
+00:01:53,130 --> 00:01:56,390
+Alex: ruling it outside its regulatory authority.
+
+31
+00:01:56,820 --> 00:01:59,570
+Maya: What did the FCC chair say about this bold new frontier?
+
+32
+00:02:00,230 --> 00:02:05,330
+Alex: FCC Chair Brendan Carr said the approval “opens a bold new frontier for the
+
+33
+00:02:05,330 --> 00:02:09,290
+Alex: computing infrastructure needed to power America’s leadership and growth.”
+
+34
+00:02:10,110 --> 00:02:16,290
+Maya: SpaceX’s Starmind project plans to power AI on Earth by capturing solar energy in
+
+35
+00:02:16,290 --> 00:02:20,510
+Maya: space and transmitting data via high‑speed lasers to Starlink.
+
+36
+00:02:20,900 --> 00:02:28,350
+Alex: The FCC requires SpaceX to launch at least one satellite by 2033 and reach the 1
+
+37
+00:02:28,350 --> 00:02:31,580
+Alex: million‑satellite milestone by 2040.
+
+38
+00:02:31,920 --> 00:02:38,530
+Maya: The FCC deferred approval of SpaceX’s request to dispose of satellites above 600 km
+
+39
+00:02:38,530 --> 00:02:43,370
+Maya: in “graveyard” orbits, citing insufficient disposal‑plan details.
+
+40
+00:02:43,920 --> 00:02:49,830
+Alex: Amazon’s petition described the Starmind plan as a “lofty ambition rather than a
+
+41
+00:02:49,830 --> 00:02:50,660
+Alex: real plan.”
+
+42
+00:02:51,190 --> 00:02:55,360
+Maya: One million satellites, that’s a lot of silicon floating in orbit,
+
+43
+00:02:55,360 --> 00:02:57,050
+Maya: and it’s a big cash‑burn for SpaceX.
+
+44
+00:02:57,910 --> 00:03:02,990
+Alex: What nobody has said is how the laser link will handle the sheer volume of data
+
+45
+00:03:02,990 --> 00:03:05,090
+Alex: without overheating the payload.
+
+46
+00:03:05,730 --> 00:03:10,570
+Maya: Watch for the FCC’s final debris‑disposal plan; that’s the only sticking point
+
+47
+00:03:10,570 --> 00:03:11,630
+Maya: still left open.
+
+48
+00:03:12,100 --> 00:03:16,050
+Alex: The claim that SpaceX will launch soon feels optimistic,
+
+49
+00:03:16,050 --> 00:03:19,010
+Alex: given the cooling and financing hurdles still pending.
+
+50
+00:03:20,630 --> 00:03:25,510
+Maya: The Verge says 42 state attorneys general are trying to stop Character.AI from
+
+51
+00:03:25,510 --> 00:03:27,330
+Maya: selling users’ chats.
+
+52
+00:03:27,330 --> 00:03:30,690
+Maya: Of those, over 2.1 million accounts belong to minors.
+
+53
+00:03:31,370 --> 00:03:33,030
+Alex: Who's the only bidder in this auction?
+
+54
+00:03:33,420 --> 00:03:37,030
+Maya: The only disclosed bidder is Smirks and Pangs Acquisition LLC.
+
+55
+00:03:37,780 --> 00:03:42,610
+Alex: Smirks was incorporated on November 13, 2026,
+
+56
+00:03:42,610 --> 00:03:45,140
+Alex: with no parent company or investors listed.
+
+57
+00:03:45,500 --> 00:03:48,850
+Maya: The auction is scheduled for December first, that same year.
+
+58
+00:03:49,340 --> 00:03:53,770
+Alex: The reports leave out who actually runs Smirks and Pangs Acquisition LLC.
+
+59
+00:03:55,610 --> 00:04:00,770
+Alex: TechCrunch reports Nvidia told its partners to halt server shipments to Malaysia,
+
+60
+00:04:00,770 --> 00:04:02,950
+Alex: Singapore, Thailand, and Indonesia.
+
+61
+00:04:03,640 --> 00:04:07,190
+Maya: The pause lets Nvidia check if partners meet U.S.
+
+62
+00:04:07,190 --> 00:04:08,090
+Maya: export rules.
+
+63
+00:04:08,530 --> 00:04:11,730
+Alex: Dell and Super Micro are among those hit by the stop.
+
+64
+00:04:12,270 --> 00:04:17,990
+Maya: Institute for Progress says those remote centers provide about 24% of China’s AI
+
+65
+00:04:17,990 --> 00:04:18,450
+Maya: power.
+
+66
+00:04:18,840 --> 00:04:20,390
+Alex: No end date yet for the pause.
+
+67
+00:04:20,970 --> 00:04:26,290
+Maya: Dell and Super Micro are seeing that revenue stall while Nvidia clamps down on
+
+68
+00:04:26,290 --> 00:04:26,570
+Maya: shipments.
+
+69
+00:04:27,250 --> 00:04:31,750
+Alex: Still unanswered is whether Nvidia will lift the pause and resume deliveries.
+
+70
+00:04:32,390 --> 00:04:36,290
+Maya: Watch how long the pause lasts before the partners decide to move forward.
+
+71
+00:04:37,810 --> 00:04:43,130
+Maya: TechCrunch reports X has added parental controls for teenagers after 20 years of
+
+72
+00:04:43,130 --> 00:04:43,650
+Maya: operation.
+
+73
+00:04:44,150 --> 00:04:50,490
+Alex: Accounts for users aged 13‑17 will default to “protected mode,” blocking sensitive
+
+74
+00:04:50,490 --> 00:04:52,250
+Alex: content and targeted ads.
+
+75
+00:04:52,780 --> 00:04:56,050
+Maya: Teens can see the restrictions applied to their accounts,
+
+76
+00:04:56,050 --> 00:05:01,290
+Maya: but parents cannot read private messages, view search history, or post as the teen.
+
+77
+00:05:01,310 --> 00:05:04,690
+Alex: What does “room to grow” actually mean for these kids?
+
+78
+00:05:05,170 --> 00:05:09,910
+Maya: X’s parent‑control features are described as giving teens “room to grow” while
+
+79
+00:05:09,910 --> 00:05:12,890
+Maya: allowing families to set guardrails.
+
+80
+00:05:12,890 --> 00:05:15,730
+Maya: Michael O’Herlihy, X’s head of safety,
+
+81
+00:05:15,730 --> 00:05:19,030
+Maya: wrote in a blog post that “parents want practical tools,
+
+82
+00:05:19,030 --> 00:05:21,270
+Maya: and teens deserve room to grow.”
+
+83
+00:05:21,850 --> 00:05:26,610
+Alex: What I can't find in the reporting is whether X plans to monetize the new
+
+84
+00:05:26,610 --> 00:05:28,010
+Alex: parental‑control feature.
+
+85
+00:05:28,480 --> 00:05:33,410
+Maya: That price for the controls will be paid by families under X’s free‑tier,
+
+86
+00:05:33,410 --> 00:05:36,170
+Maya: not by advertisers or external sponsors.
+
+87
+00:05:36,580 --> 00:05:41,670
+Alex: The next question is how X will enforce the default “protected mode” without
+
+88
+00:05:41,670 --> 00:05:44,570
+Alex: compromising the privacy that teens can see.
+
+89
+00:05:46,330 --> 00:05:51,590
+Alex: Ars Technica says Ford rolled out the GT41 while the Lions faced the Bears.
+
+90
+00:05:52,290 --> 00:05:56,250
+Maya: That’s Ford’s fresh Hypercar entry in the World Endurance Championship.
+
+91
+00:05:56,880 --> 00:06:03,430
+Alex: Dan Sayers called it a “significant moment for everyone involved.” It uses the LMDh
+
+92
+00:06:03,430 --> 00:06:08,930
+Alex: rear‑wheel‑drive setup, not a fresh design like Ferrari or Aston Martin.
+
+93
+00:06:09,370 --> 00:06:13,470
+Maya: Oreca supplies the LMDh chassis, also on Genesis and Acura.
+
+94
+00:06:14,030 --> 00:06:17,660
+Alex: Zack Snyder directed the reveal, with Matt Damon narrating.
+
+95
+00:06:18,090 --> 00:06:22,130
+Maya: Ford plans to compete for the overall Le Mans trophy again,
+
+96
+00:06:22,130 --> 00:06:24,470
+Maya: aiming for a 2027 milestone.
+
+97
+00:06:24,470 --> 00:06:30,110
+Maya: It’s the only concrete timeline we’ve got, and it signals a serious commitment.
+
+98
+00:06:30,610 --> 00:06:36,230
+Alex: Nobody has explained how Oreca’s LMDh chassis will actually stack up against those
+
+99
+00:06:36,230 --> 00:06:39,240
+Alex: bespoke Ferrari or Aston Martin setups.
+
+100
+00:06:39,850 --> 00:06:43,680
+Maya: Keep an eye on how Ford learns from every stage of development,
+
+101
+00:06:43,680 --> 00:06:45,840
+Maya: as that’s the missing piece the report hints at.
+
+102
+00:06:47,450 --> 00:06:52,990
+Maya: TechCrunch reports the foldable design on the iPhone Duo has genuinely shifted how
+
+103
+00:06:52,990 --> 00:06:57,810
+Maya: people use their phones, changing everything from which apps they pick to how they
+
+104
+00:06:57,810 --> 00:06:58,870
+Maya: organize things.
+
+105
+00:06:59,330 --> 00:07:02,990
+Alex: The reporter also says multitasking feels natural,
+
+106
+00:07:02,990 --> 00:07:05,730
+Alex: which is that side-by-side app thing,
+
+107
+00:07:05,730 --> 00:07:08,050
+Alex: and people are using it more than they expected.
+
+108
+00:07:08,630 --> 00:07:13,390
+Maya: Apparently, that smaller, foldable screen feels like a mini iPhone when you’re out
+
+109
+00:07:13,390 --> 00:07:15,490
+Maya: and about, even though it’s a bit heavier.
+
+110
+00:07:15,990 --> 00:07:19,090
+Alex: So, did they miss anything important when they shrunk it down?
+
+111
+00:07:19,420 --> 00:07:23,710
+Maya: They did admit missing the telephoto lens and the Pro Max camera some days,
+
+112
+00:07:23,710 --> 00:07:24,790
+Maya: which is something.
+
+113
+00:07:25,340 --> 00:07:30,490
+Alex: It gets stranger: the reporter describes this whole new way of watching TV and
+
+114
+00:07:30,490 --> 00:07:32,630
+Alex: social media together on one screen.
+
+115
+00:07:33,050 --> 00:07:36,890
+Maya: Apple is paying that price for the Duo's new foldable design,
+
+116
+00:07:36,890 --> 00:07:39,170
+Maya: which keeps users hooked on its app ecosystem.
+
+117
+00:07:39,850 --> 00:07:44,270
+Alex: The report never reveals how the foldable hardware impacts battery life.
+
+118
+00:07:45,110 --> 00:07:49,470
+Maya: Watch how the missing telephoto lens changes daily photography habits.
+
+119
+00:07:50,990 --> 00:07:52,250
+Maya: Now, Quick Ticks.
+
+120
+00:07:52,250 --> 00:07:53,550
+Maya: Four more stories, in brief.
+
+121
+00:07:55,200 --> 00:07:59,910
+Alex: CNBC says Hernández de Cos will replace Lagarde at the ECB.
+
+122
+00:08:00,910 --> 00:08:05,170
+Maya: The European Council gave him the nod, while the Netherlands backed Klaas Knot.
+
+123
+00:08:05,750 --> 00:08:10,670
+Alex: With that backing, the ECB’s new chief will still need Parliament and the Governing
+
+124
+00:08:10,670 --> 00:08:13,000
+Alex: Council to give the final thumbs‑up.
+
+125
+00:08:14,630 --> 00:08:20,440
+Maya: CNBC reports global stocks rallied as investors shrugged off U.S.
+
+126
+00:08:20,440 --> 00:08:24,530
+Maya: tariffs and AI jitters, looking for bargains after a tech sell‑off.
+
+127
+00:08:25,340 --> 00:08:34,110
+Alex: European indices surged, with the Stoxx 600 up 1.6%, the DAX up 1.9%,
+
+128
+00:08:34,110 --> 00:08:38,370
+Alex: and the Stoxx 600 Technology index up 2.5%.
+
+129
+00:08:38,810 --> 00:08:43,740
+Maya: This shift suggests investors are pinning hopes on European tech resilience,
+
+130
+00:08:43,740 --> 00:08:47,390
+Maya: but the underlying risks of the broader AI boom still loom.
+
+131
+00:08:49,090 --> 00:08:54,210
+Alex: Ars Technica reports that draining peatlands is a few percent of global warming.
+
+132
+00:08:55,130 --> 00:08:58,620
+Maya: Peatlands hold 600 billion tons of carbon,
+
+133
+00:08:58,620 --> 00:09:00,690
+Maya: more than all the world’s living vegetation.
+
+134
+00:09:01,280 --> 00:09:05,920
+Alex: That means the losses from drained peat could shift how we value carbon offsets,
+
+135
+00:09:05,920 --> 00:09:08,690
+Alex: even if exact numbers are still fuzzy.
+
+136
+00:09:10,270 --> 00:09:16,290
+Maya: CNBC says Nvidia has a new rule that forces buyers to exclude Chinese renters when
+
+137
+00:09:16,290 --> 00:09:17,210
+Maya: buying GPUs.
+
+138
+00:09:17,900 --> 00:09:23,010
+Alex: The rule kicked in on November 19, after being announced on November 16.
+
+139
+00:09:23,810 --> 00:09:28,630
+Maya: This means Nvidia will still sell to customers who keep less than half of their
+
+140
+00:09:28,630 --> 00:09:34,470
+Maya: GPUs rented to China, but the impact on global supply chains remains unclear.
+
+141
+00:09:36,170 --> 00:09:37,250
+Alex: That's the news.
+
+142
+00:09:37,250 --> 00:09:38,150
+Alex: Time for The Takeaway.
+
+143
+00:09:38,790 --> 00:09:44,170
+Maya: The one thing to remember from today is that SpaceX gained FCC approval to launch
+
+144
+00:09:44,170 --> 00:09:46,830
+Maya: up to a million AI data‑center satellites.
+
+145
+00:09:47,770 --> 00:09:53,210
+Alex: I see that as a bold claim, but it only shows the FCC gave conditional approval,
+
+146
+00:09:53,210 --> 00:09:54,240
+Alex: not a green light.
+
+147
+00:09:54,870 --> 00:09:59,450
+Maya: The story I think people will underrate is Nvidia pausing chip shipments to
+
+148
+00:09:59,450 --> 00:10:02,490
+Maya: Southeast Asia so it can assess export compliance.
+
+149
+00:10:03,140 --> 00:10:08,470
+Alex: I don't agree; instead I would pick the SpaceX plan because it shows how the FCC
+
+150
+00:10:08,470 --> 00:10:11,280
+Alex: gave conditional approval to launch the satellites.
+
+151
+00:10:11,840 --> 00:10:16,710
+Maya: I'll be watching the European Central Bank transition as Pablo Hernández de Cos
+
+152
+00:10:16,710 --> 00:10:18,910
+Maya: takes over from Christine Lagarde.
+
+153
+00:10:20,490 --> 00:10:21,830
+Maya: And that's First Tick.
+
+154
+00:10:21,830 --> 00:10:25,170
+Maya: Every story we talked about is linked in the show notes.
+
+155
+00:10:25,170 --> 00:10:26,600
+Maya: Got a question for us?
+
+156
+00:10:26,600 --> 00:10:28,150
+Maya: The link to send it is there too.
+
+157
+00:10:28,970 --> 00:10:30,550
+Alex: Next up is First Tick, tomorrow.
+
+158
+00:10:30,550 --> 00:10:36,590
+Alex: Two reminders: our voices are made with AI, and nothing here is financial advice.
+
+159
+00:10:36,590 --> 00:10:39,010
+Alex: From Bits and Tickers, I'm Alex.
+
+160
+00:10:39,010 --> 00:10:40,090
+Alex: Keep building.
+
+161
+00:10:40,136 --> 00:10:40,650
+Maya: I'm Maya.
+
+162
+00:10:40,650 --> 00:10:41,630
+Maya: And keep counting.
